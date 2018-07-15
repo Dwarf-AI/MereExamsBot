@@ -29,34 +29,43 @@ def course_detail(sess):
     else:
         return None
 
-def clg_list(sess):
-    print('ok')
-    if 'UniversityName' in sess.keys():
-        return make_response(jsonify({'fulfillmentText': f'Select a college in {sess["UniversityName"]}'}))
+def clg_list(sess, param):
+    #User_desire
 
-    elif 'Course_Name' in sess.keys():
-        print('hmm')
-        return make_response(jsonify({'fulfillmentText': f'Select Universities offering {sess["Course_Name"]}'}))
+    if 'User_desire' in sess.keys():
+    	urge = sess['User_desire']
+    	
+    	if urge == 'university':
+    		return make_response(jsonify({'fulfillmentText': f'follwing universities are there according to your param'}))
+    	elif urge == 'colleges':
+    		return make_response(jsonify({'fulfillmentText': f'follwing colleges are there according to your param'}))
+    	elif urge == 'courses':
+    		return make_response(jsonify({'fulfillmentText': f'follwing courses are there according to your param'}))
+    	elif urge == 'specialization':
+    		return make_response(jsonify({'fulfillmentText': f'follwing specialization are there according to your param'}))
 
-    elif 'CityName' in sess.keys():
-        return make_response(jsonify({'fulfillmentText': f'Select Course you want to pursue in {sess["CityName"]}'}))
-
-    elif 'StateName' in sess.keys():
-        return make_response(jsonify({'fulfillmentText': f'Select city in {sess["StateName"]}'}))
-
-    elif 'Specialization' in sess.keys():
-        return make_response(jsonify({'fulfillmentText': f'Select location of college where you wanna pursue {sess["Specialization"]}'}))
-    
-    elif 'Ownership' in sess.keys():
-        return make_response(jsonify({'fulfillmentText': f'Select Select Course you wanna take in {sess["Ownership"]}'}))
     else:
-        return make_response(jsonify({'fulfillment':'Not found'}))
 
-def college_detail(sess):
-    if 'CollegeName' in sess.keys():
-        return 'About college, Admission,contact info'
-    else:
-        return 'Select a college'
+	    if 'UniversityName' in param.keys():
+	        return make_response(jsonify({'fulfillmentText': f'Select a college in {param["UniversityName"]}'}))
+
+	    elif 'Course_Name' in param.keys():
+	        print('hmm')
+	        return make_response(jsonify({'fulfillmentText': f'Select Universities offering {param["Course_Name"]}'}))
+
+	    elif 'CityName' in param.keys():
+	        return make_response(jsonify({'fulfillmentText': f'Select Course you want to pursue in {param["CityName"]}'}))
+
+	    elif 'StateName' in param.keys():
+	        return make_response(jsonify({'fulfillmentText': f'Select city in {param["StateName"]}'}))
+
+	    elif 'Specialization' in param.keys():
+	        return make_response(jsonify({'fulfillmentText': f'Select location of college where you wanna pursue {param["Specialization"]}'}))
+	    
+	    elif 'Ownership' in param.keys():
+	        return make_response(jsonify({'fulfillmentText': f'Select Select Course you wanna take in {param["Ownership"]}'}))
+	    else:
+	        return make_response(jsonify({'fulfillment':'Not found'}))
 
 @app.route('/', methods=["POST"])
 def webhook():
@@ -76,6 +85,7 @@ def webhook():
 # Retrieve parameters and store in session_id of user.
     params_update = req["queryResult"]["parameters"].keys()
     #print(params_update.values())
+    params_update = filter(None, params_update)
     for param in params_update:
         if req['queryResult']['parameters'][param] == '':
             continue
@@ -85,7 +95,8 @@ def webhook():
         else:
             user_sessions[req["session"]] = defaultdict()
             user_sessions[req['session']][param] = req['queryResult']['parameters'][param]
-        sess = user_sessions[req["session"]]     #shortcut to access parameters
+    
+    sess = user_sessions[req["session"]]     #shortcut to access parameters
     print(action)
     if action == 'College_info':
         if 'CollegeName' in sess.keys():
@@ -107,11 +118,11 @@ def webhook():
                 return answer #make_response(jsonify({'fulfillmentText': f'{answer}'}))
 
         else:
-            return clg_list(sess)
+            return clg_list(sess, params_update)
 
     if action == 'list':
         print('list')
-        return clg_list(sess)
+        return clg_list(sess, params_update)
 
 
 if __name__ == '__main__':
