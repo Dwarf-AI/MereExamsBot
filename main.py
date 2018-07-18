@@ -64,6 +64,9 @@ def clg_list(sess, param):
 
 	    elif 'Ownership' in param:
 	        return make_response(jsonify({'fulfillmentText': f'Select Select Course you wanna take in {sess["Ownership"]}'}))
+	    
+	    elif 'Course_detail' in param:
+		return make_response(jsonify({'fulfillmentText': f'Please type any university or college name you wanna take in'}))
 	    else:
 	        return make_response(jsonify({'fulfillment':'Not found'}))
 
@@ -147,3 +150,4 @@ def webhook():
 if __name__ == '__main__':
     user_sessions = defaultdict()
     app.run(debug=True)
+
