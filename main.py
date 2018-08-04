@@ -3,7 +3,11 @@ import json
 from flask import Flask, request, make_response, jsonify
 import numpy as np
 import pandas as pd
-import requests, college_detail
+import requests
+import random
+from college_detail import *
+college_table = pd.read_csv('all_institution_merged.csv',index_col=0,engine='python')
+course_table = pd.read_csv('data/all_institutions_course_ids_live_new.csv',index_col=0,engine='python')
 
 app = Flask(__name__)
 log = app.logger
@@ -53,7 +57,7 @@ def clg_list(sess, param):
 			return make_response(jsonify({'fulfillmentText': f'Select a college in {sess["UniversityName"]}'}))
 
 		elif 'Course_Name' in param:
-			print('hmm')
+			#print('hmm')
 			return make_response(jsonify({'fulfillmentText': f'Select Universities offering {sess["Course_Name"]}'}))
 
 		elif 'CityName' in param:
@@ -74,23 +78,24 @@ def clg_list(sess, param):
 
 @app.route('/', methods=["POST"])
 def webhook():
-
+	global college_table
 	"""This method handles the http requests for the Dialogflow webhook
 	"""
 	req = request.get_json(silent=True, force=True)
 
+
 	session= req['session']
 	global user_sessions
-
+	
  # Check if the request is correct
 	try:
 		action = req.get('queryResult').get('action')
 	except AttributeError:
 		return 'json error'
 
-	if 'CollgeName1' in req["queryResult"]["parameters"].keys():
+	if req["queryResult"]["parameters"]['CollgeName1']:
 		req["queryResult"]["parameters"]['CollegeName'] = req["queryResult"]["parameters"].pop('CollgeName1')
-	elif 'CollegeName2' in req["queryResult"]["parameters"].keys():
+	elif req["queryResult"]["parameters"]['CollegeName2']:
 		req["queryResult"]["parameters"]['CollegeName'] = req["queryResult"]["parameters"].pop('CollegeName2')
 
 # Retrieve parameters and store in session_id of user.
@@ -121,11 +126,11 @@ def webhook():
 	#print(params_update)
 	#print(user_sessions)
 	sess = user_sessions[req["session"]]     #shortcut to access parameters
-	# print(sess)
+	print(sess)
 	#print(action)
 	if action == 'College_info':
 		if 'CollegeName' in sess.keys():
-			if 'College_detail' in sess.keys():
+			if 'College_detail' in params_update:
 				if sess["College_detail"] == 'Course_info':
 					answer = course_detail(sess)
 					if answer == None:
@@ -133,13 +138,30 @@ def webhook():
 					else:
 						return answer
 				else:
-					return college_func(session,sess['CollegeName'], sess['College_detail'])
-				
-			answer = course_detail(sess)
-			if answer == None:
-				return make_response(jsonify({'fulfillmentText': f'About college, Admission,contact info'}))
+					return college_func(session,sess['CollegeName'], sess['College_detail'], college_table)
+
+			elif 'Specialization' in params_update or 'Course_detail' in params_update or 'Course_Name' in params_update:
+				answer = course_detail(sess)
+				return answer
+
 			else:
-				return answer #make_response(jsonify({'fulfillmentText': f'{answer}'}))
+
+				if 'College_detail' in sess.keys():
+					if sess["College_detail"] == 'Course_info':
+						answer = course_detail(sess)
+						if answer == None:
+							return make_response(jsonify({'fulfillment': f'all courses in {sess["CollegeName"]} '}))
+						else:
+							return answer
+					else:
+						return college_func(session,sess['CollegeName'], sess['College_detail'], college_table)
+					
+				answer = course_detail(sess)
+				
+				if answer == None:
+					return make_response(jsonify({'fulfillmentText': f'About college, Admission,contact info'}))
+				else:
+					return answer #make_response(jsonify({'fulfillmentText': f'{answer}'}))
 
 		else:
 			return clg_list(sess, params_update)
@@ -151,8 +173,5 @@ def webhook():
 
 if __name__ == '__main__':
 	user_sessions = defaultdict()
-	global college_table,course_table
-	college_table = pd.read_csv('all_institution_merged.csv',index_col=0,engine='python')
-	course_table = pd.read_csv('data/all_institutions_course_ids_live_new.csv',index_col=0,engine='python')
 
-	app.run(debug=True)
+	app.run(port='4000', debug=True)
