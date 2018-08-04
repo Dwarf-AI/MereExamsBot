@@ -1,6 +1,9 @@
 from collections import defaultdict
 import json
 from flask import Flask, request, make_response, jsonify
+import numpy as np
+import pandas as pd
+import requests
 
 app = Flask(__name__)
 log = app.logger
@@ -30,7 +33,7 @@ def course_detail(sess):
 		return None
 
 def clg_list(sess, param):
-	##User_desire
+	#User_desire
 
 	if 'User_desire' in sess.keys():
 		urge = sess['User_desire']
@@ -72,11 +75,12 @@ def clg_list(sess, param):
 @app.route('/', methods=["POST"])
 def webhook():
 
-	global user_sessions
-
 	"""This method handles the http requests for the Dialogflow webhook
 	"""
 	req = request.get_json(silent=True, force=True)
+
+	session= req['session']
+	global user_sessions,session
 
  # Check if the request is correct
 	try:
@@ -84,25 +88,25 @@ def webhook():
 	except AttributeError:
 		return 'json error'
 
-	if req["queryResult"]["parameters"]['CollgeName1']:
+	if 'CollgeName1' in req["queryResult"]["parameters"].keys():
 		req["queryResult"]["parameters"]['CollegeName'] = req["queryResult"]["parameters"].pop('CollgeName1')
-	elif req["queryResult"]["parameters"]['CollegeName2']:
+	elif 'CollegeName2' in req["queryResult"]["parameters"].keys():
 		req["queryResult"]["parameters"]['CollegeName'] = req["queryResult"]["parameters"].pop('CollegeName2')
-		
+
 # Retrieve parameters and store in session_id of user.
 	params_update = req["queryResult"]["parameters"].keys()
-	
+
 	params_update = list(params_update)
-	 
-	print(req["queryResult"]["parameters"])
-	
+
+	# print(req["queryResult"]["parameters"])
+
 	rmv_list = []
-	
+
 	for param in params_update:
 		if req['queryResult']['parameters'][param] == '':
 			rmv_list.append(param)
 			continue
-		
+
 		#print(req["queryResult"]["parameters"][param])
 		if req["session"] in user_sessions.keys():
 			user_sessions[req["session"]][param] = req["queryResult"]["parameters"][param]
@@ -113,11 +117,11 @@ def webhook():
 
 	for param in rmv_list:
 		params_update.remove(param)
-	
+
 	#print(params_update)
 	#print(user_sessions)
 	sess = user_sessions[req["session"]]     #shortcut to access parameters
-	#print(sess)
+	# print(sess)
 	#print(action)
 	if action == 'College_info':
 		if 'CollegeName' in sess.keys():
@@ -148,5 +152,8 @@ def webhook():
 
 if __name__ == '__main__':
 	user_sessions = defaultdict()
-	app.run(debug=True)
+	college_table = pd.read_csv('all_institution_merged.csv',index_col=0)
+	course_table = pd.read_csv('data/all_institutions_course_ids_live.csv',index_col=0)
+	global college_table,course_table
 
+	app.run(debug=True)

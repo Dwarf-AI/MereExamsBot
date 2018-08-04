@@ -2,21 +2,20 @@ def college_func(session, cid, detail):
     row = college_table.loc[college_tabe.cid == cid]
     college_name = row.name.value
 
-    if detail in ['photos   ','reviews']:
+    if detail in ['photos','reviews']:
+        possible_chips = ['about', 'contact', 'address', 'reviews', 'photos'] - detail
+        chips = set(random.sample(possible_chips, 3))
+
         if str(row.place_id.value) == 'nan':
-            possible_chips = ['about', 'contact', 'address', 'reviews', 'photos'] - detail
-            chips = set(random.sample(possible_chips, 3))
-            make_response(jsonify({
 
+            return make_response(jsonify({
                 'session' : session,
-
                 'messages' :[
                     {'text': f"Sorry, I don't have any {detail} for {college_name}"},
                     {'text': 'What else you want to know?'},
                     {'chips': chips}
                 ]
             }))
-            return make_json(session,{})
 
         else:
             url = "https://maps.googleapis.com/maps/api/place/details/json"
@@ -30,22 +29,30 @@ def college_func(session, cid, detail):
             response = requests.request("POST", url, headers=headers, params=querystring)
             response = response.json()
 
+            if detail == 'photos':
+                photos_json_list = response.result.photos
+                photos_url_list = []
+                for photo_json in photos_json_list:
+                    ref = photo_json.photo_reference
+                    photos_url_list.append(f"https://maps.googleapis.com/maps/api/place/photo?photoreference={ref}&key=AIzaSyAO7ow2BD4c3BmFonOUjVshoAgf_P5ZhYo")
 
-
-    if detail in ['address','photo','contact','reviews']:
-        if cid not in google_table[1].values:
-            if detail in ['photo','reviews']:
-
+                return make_response(jsonify({
+                    'session' : session,
+                    'messages' :[
+                        {'text': f"Here are some photos for {college_name}"},
+                        {'photos': photos_url_list}
+                        {'text': 'What else you want to know?'},
+                        {'chips': chips}
+                    ]
+                }))
             else:
-                # https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=&key=YOUR_API_KEY
-
-
-        if detail == 'address':
-
-        elif detail == 'photo':
-
-        elif detail == 'contact':
-
-        elif detail == 'reviews':
-
-    else:
+                return make_response(jsonify({
+                    'session' : session,
+                    'messages' :[
+                        {'text': f"Here are reviews for {college_name}"},
+                        {'reviews': response.result.reviews}
+                        {'text': 'What else you want to know?'},
+                        {'chips': chips}
+                    ]
+                }))
+                
