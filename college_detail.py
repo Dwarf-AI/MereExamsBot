@@ -3,12 +3,10 @@ def college_func(session, cid, detail):
     college_name = row.name.value
 
     possible_chips = ['about', 'contact', 'address', 'reviews', 'photos'] - detail
-    chips = set(random.sample(possible_chips, 3))
+    chips = random.sample(possible_chips, 3)
 
     if detail in ['photos','reviews']:
-
         if str(row.place_id.value) == 'nan':
-
             return make_response(jsonify({
                 'session' : session,
                 'messages' :[
@@ -17,7 +15,6 @@ def college_func(session, cid, detail):
                     {'chips': chips}
                 ]
             }))
-
         else:
             url = "https://maps.googleapis.com/maps/api/place/details/json"
 
@@ -56,7 +53,6 @@ def college_func(session, cid, detail):
                         {'chips': chips}
                     ]
                 }))
-
 
     elif detail == 'address':
         if str(row.place_id) == 'nan':
