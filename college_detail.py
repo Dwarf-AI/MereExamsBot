@@ -38,7 +38,7 @@ def college_func(session, cid, detail):
                     'session' : session,
                     'messages' :[
                         {'text': f"Here are some photos for {college_name}"},
-                        {'photos': photos_url_list}
+                        {'photos': photos_url_list},
                         {'text': 'What else you want to know?'},
                         {'chips': chips}
                     ]
@@ -48,7 +48,7 @@ def college_func(session, cid, detail):
                     'session' : session,
                     'messages' :[
                         {'text': f"Here are reviews for {college_name}"},
-                        {'reviews': response.result.reviews}
+                        {'reviews': response.result.reviews},
                         {'text': 'What else you want to know?'},
                         {'chips': chips}
                     ]
@@ -69,13 +69,13 @@ def college_func(session, cid, detail):
                 'session' : session,
                 'messages' :[
                     {'text': f"Address for {college_name} is {str(row.address.value)}"},
-                    {'map':{'lat':row.lat.value,'lng':row.lng.value}}
+                    {'map':{'lat':row.lat.value,'lng':row.lng.value}},
                     {'text': 'What else you want to know?'},
                     {'chips': chips}
                 ]
             }))
 
-    elif detail == 'contact'
+    elif detail == 'contact':
         if str(row.website.value) == 'nan' and str(row.phone.value) == 'nan':
             return make_response(jsonify({
                 'session' : session,
@@ -90,10 +90,10 @@ def college_func(session, cid, detail):
                 return make_response(jsonify({
                     'session' : session,
                     'message' : [
-                        {'text': f'You can contact {college_name} at {row.phone.value}'}
+                        {'text': f'You can contact {college_name} at {row.phone.value}'},
                         {'text': 'What else you want to know?'},
                         {'chips': chips}
-            ]
+            ]}))
 
 
             elif str(row.phone.value) == 'nan':
@@ -103,7 +103,7 @@ def college_func(session, cid, detail):
                         {'text': f'You can find {college_name} at {row.website.value}'},
                         {'text': 'Anything else I can do for you?'},
                         {'chips': chips}
-            ]
+            ]}))
 
             else:
                 return make_response(jsonify({

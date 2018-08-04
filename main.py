@@ -80,7 +80,7 @@ def webhook():
 	req = request.get_json(silent=True, force=True)
 
 	session= req['session']
-	global user_sessions,session
+	global user_sessions
 
  # Check if the request is correct
 	try:
@@ -151,8 +151,8 @@ def webhook():
 
 if __name__ == '__main__':
 	user_sessions = defaultdict()
-	college_table = pd.read_csv('all_institution_merged.csv',index_col=0)
-	course_table = pd.read_csv('data/all_institutions_course_ids_live.csv',index_col=0)
 	global college_table,course_table
+	college_table = pd.read_csv('all_institution_merged.csv',index_col=0,engine='python')
+	course_table = pd.read_csv('data/all_institutions_course_ids_live_new.csv',index_col=0,engine='python')
 
 	app.run(debug=True)
