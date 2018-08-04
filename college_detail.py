@@ -78,6 +78,47 @@ def college_func(session, cid, detail):
                     {'chips': chips}
                 ]
             }))
+
+    elif detail == 'contact'
+        if str(row.website.value) == 'nan' and str(row.phone.value) == 'nan':
+            return make_response(jsonify({
+                'session' : session,
+                'messages' :[
+                    {'text': f"Sorry, I don't have any {detail} for {college_name}"},
+                    {'text': 'What else you want to know?'},
+                    {'chips': chips}
+                ]
+            }))
+        else:
+            if str(row.website.value) == 'nan':
+                return make_response(jsonify({
+                    'session' : session,
+                    'message' : [
+                        {'text': f'You can contact {college_name} at {row.phone.value}'}
+                        {'text': 'What else you want to know?'},
+                        {'chips': chips}
+            ]
+
+
+            elif str(row.phone.value) == 'nan':
+                return make_response(jsonify({
+                    'session' : session,
+                    'message' : [
+                        {'text': f'You can find {college_name} at {row.website.value}'},
+                        {'text': 'Anything else I can do for you?'},
+                        {'chips': chips}
+            ]
+
+            else:
+                return make_response(jsonify({
+                    'session' : session,
+                    'message' : [
+                        {'text': f'I found these contact details for {college_name}\nPhone: {row.phone.value}\nWebsite: {row.website.value}'},
+                        {'text': 'Anything else I can do for you?'},
+                        {'chips': chips}
+                    ]
+                }))
+
     else:
         val = str(row['{detail}'].value)
         if val == 'nan':
