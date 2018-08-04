@@ -3,7 +3,7 @@ import json
 from flask import Flask, request, make_response, jsonify
 import numpy as np
 import pandas as pd
-import requests
+import requests, college_detail
 
 app = Flask(__name__)
 log = app.logger
@@ -133,9 +133,8 @@ def webhook():
 					else:
 						return answer
 				else:
-					return make_response(jsonify({'fulfillmentText': f'{sess["College_detail"]} '
-																	 f'for {sess["CollegeName"]} is'
-																	 f''}))
+					return college_func(session,sess['CollegeName'], sess['College_detail'])
+				
 			answer = course_detail(sess)
 			if answer == None:
 				return make_response(jsonify({'fulfillmentText': f'About college, Admission,contact info'}))
