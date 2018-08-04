@@ -30,7 +30,7 @@ def course_detail(sess):
 		return None
 
 def clg_list(sess, param):
-	#User_desire
+	##User_desire
 
 	if 'User_desire' in sess.keys():
 		urge = sess['User_desire']
@@ -84,9 +84,9 @@ def webhook():
 	except AttributeError:
 		return 'json error'
 
-	if 'CollgeName1' in req["queryResult"]["parameters"].keys():
+	if req["queryResult"]["parameters"]['CollgeName1']:
 		req["queryResult"]["parameters"]['CollegeName'] = req["queryResult"]["parameters"].pop('CollgeName1')
-	elif 'CollegeName2' in req["queryResult"]["parameters"].keys():
+	elif req["queryResult"]["parameters"]['CollegeName2']:
 		req["queryResult"]["parameters"]['CollegeName'] = req["queryResult"]["parameters"].pop('CollegeName2')
 		
 # Retrieve parameters and store in session_id of user.
@@ -117,7 +117,7 @@ def webhook():
 	#print(params_update)
 	#print(user_sessions)
 	sess = user_sessions[req["session"]]     #shortcut to access parameters
-	print(sess)
+	#print(sess)
 	#print(action)
 	if action == 'College_info':
 		if 'CollegeName' in sess.keys():
