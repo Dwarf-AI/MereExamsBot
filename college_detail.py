@@ -3,12 +3,9 @@ def college_func(session, cid, detail):
     college_name = row.name.value
 
     possible_chips = ['about', 'contact', 'address', 'reviews', 'photos'] - detail
-    chips = set(random.sample(possible_chips, 3))
-
+    chips = random.sample(possible_chips, 3)
     if detail in ['photos','reviews']:
-
         if str(row.place_id.value) == 'nan':
-
             return make_response(jsonify({
                 'session' : session,
                 'messages' :[
@@ -17,7 +14,6 @@ def college_func(session, cid, detail):
                     {'chips': chips}
                 ]
             }))
-
         else:
             url = "https://maps.googleapis.com/maps/api/place/details/json"
 
@@ -58,29 +54,8 @@ def college_func(session, cid, detail):
                 }))
 
 
-    elif detail == 'address':
-        if str(row.place_id) == 'nan':
-            return make_response(jsonify({
-                'session' : session,
-                'messages' :[
-                    {'text': f"Address for {college_name} is {str(row.address.value)}"},
-                    {'text': 'What else you want to know?'},
-                    {'chips': chips}
-                ]
-            }))
-        else:
-            return make_response(jsonify({
-                'session' : session,
-                'messages' :[
-                    {'text': f"Address for {college_name} is {str(row.address.value)}"},
-                    {'map':{'lat':row.lat.value,'lng':row.lng.value}}
-                    {'text': 'What else you want to know?'},
-                    {'chips': chips}
-                ]
-            }))
-    else:
-        val = str(row['{detail}'].value)
-        if val == 'nan':
+    elif detail == 'contact'
+        if str(row.website.value) == 'nan' and str(row.phone.value) == 'nan':
             return make_response(jsonify({
                 'session' : session,
                 'messages' :[
@@ -89,30 +64,32 @@ def college_func(session, cid, detail):
                     {'chips': chips}
                 ]
             }))
-        elif val == 'True':
-            return make_response(jsonify({
-                'session' : session,
-                'messages' :[
-                    {'text': f"As much as I remember {detail} is there in {college_name}"},
-                    {'text': 'What else you want to know?'},
-                    {'chips': chips}
-                ]
-            }))
-        elif val == 'False':
-            return make_response(jsonify({
-                'session' : session,
-                'messages' :[
-                    {'text': f"As much as I remember {detail} is not there in {college_name}"},
-                    {'text': 'What else you want to know?'},
-                    {'chips': chips}
-                ]
-            }))
         else:
-            return make_response(jsonify({
-                'session' : session,
-                'messages' :[
-                    {'text': f"{detail} for {college_name} is {val}"},
-                    {'text': 'What else you want to know?'},
-                    {'chips': chips}
-                ]
-            }))
+            if str(row.website.value) == 'nan':
+                return make_response(jsonify({
+                    'session' : session,
+                    'message' : [
+                        {'text': f'You can contact {college_name} at {row.phone.value}'}
+                        {'text': 'What else you want to know?'},
+                        {'chips': chips}
+            ]
+
+            
+            elif str(row.phone.value) == 'nan':
+                return make_response(jsonify({
+                    'session' : session,
+                    'message' : [
+                        {'text': f'You can find {college_name} at {row.website.value}'},
+                        {'text': 'Anything else I can do for you?'},
+                        {'chips': chips}
+            ]
+
+            else:
+                return make_response(jsonify({
+                    'session' : session,
+                    'message' : [
+                        {'text': f'I found these contact details for {college_name}\nPhone: {row.phone.value}\nWebsite: {row.website.value}'},
+                        {'text': 'Anything else I can do for you?'},
+                        {'chips': chips}
+                    ]
+                }))
