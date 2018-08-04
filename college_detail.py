@@ -2,9 +2,10 @@ def college_func(session, cid, detail):
     row = college_table.loc[college_tabe.cid == cid]
     college_name = row.name.value
 
+    possible_chips = ['about', 'contact', 'address', 'reviews', 'photos'] - detail
+    chips = set(random.sample(possible_chips, 3))
+
     if detail in ['photos','reviews']:
-        possible_chips = ['about', 'contact', 'address', 'reviews', 'photos'] - detail
-        chips = set(random.sample(possible_chips, 3))
 
         if str(row.place_id.value) == 'nan':
 
@@ -55,4 +56,63 @@ def college_func(session, cid, detail):
                         {'chips': chips}
                     ]
                 }))
-                
+
+
+    elif detail == 'address':
+        if str(row.place_id) == 'nan':
+            return make_response(jsonify({
+                'session' : session,
+                'messages' :[
+                    {'text': f"Address for {college_name} is {str(row.address.value)}"},
+                    {'text': 'What else you want to know?'},
+                    {'chips': chips}
+                ]
+            }))
+        else:
+            return make_response(jsonify({
+                'session' : session,
+                'messages' :[
+                    {'text': f"Address for {college_name} is {str(row.address.value)}"},
+                    {'map':{'lat':row.lat.value,'lng':row.lng.value}}
+                    {'text': 'What else you want to know?'},
+                    {'chips': chips}
+                ]
+            }))
+    else:
+        val = str(row['{detail}'].value)
+        if val == 'nan':
+            return make_response(jsonify({
+                'session' : session,
+                'messages' :[
+                    {'text': f"Sorry, I don't have any {detail} for {college_name}"},
+                    {'text': 'What else you want to know?'},
+                    {'chips': chips}
+                ]
+            }))
+        elif val == 'True':
+            return make_response(jsonify({
+                'session' : session,
+                'messages' :[
+                    {'text': f"As much as I remember {detail} is there in {college_name}"},
+                    {'text': 'What else you want to know?'},
+                    {'chips': chips}
+                ]
+            }))
+        elif val == 'False':
+            return make_response(jsonify({
+                'session' : session,
+                'messages' :[
+                    {'text': f"As much as I remember {detail} is not there in {college_name}"},
+                    {'text': 'What else you want to know?'},
+                    {'chips': chips}
+                ]
+            }))
+        else:
+            return make_response(jsonify({
+                'session' : session,
+                'messages' :[
+                    {'text': f"{detail} for {college_name} is {val}"},
+                    {'text': 'What else you want to know?'},
+                    {'chips': chips}
+                ]
+            }))
