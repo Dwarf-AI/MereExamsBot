@@ -127,8 +127,18 @@ def webhook():
 	#print(user_sessions)
 	sess = user_sessions[req["session"]]     #shortcut to access parameters
 	print(sess)
-	#print(action)
-	if action == 'College_info':
+
+	if action == 'bot_functionality':
+		return make_response(jsonify({'fulfillmentText':f"{{\
+                'session' : {session},\
+                'messages' : [\
+                    {{'text'}} : {{'I can provide you info about 40K+ colleges in India'}},\
+                ]\
+            }}"
+}))
+
+
+	elif action == 'College_info':
 		if 'CollegeName' in sess.keys():
 			if 'College_detail' in params_update:
 				if sess["College_detail"] == 'Course_info':
