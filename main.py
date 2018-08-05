@@ -172,7 +172,7 @@ def webhook():
 				if answer == None:
 					return make_response(jsonify({'fulfillmentText': f'About college, Admission,contact info'}))
 				else:
-					return answer #make_response(jsonify({'fulfillmentText': f'{answer}'}))
+					return answer
 
 		else:
 			return clg_list(sess, params_update)

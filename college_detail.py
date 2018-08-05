@@ -35,6 +35,7 @@ def college_func(session, cid, detail, college_table):
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\
                 'messages' : [\
+                    {{'cid' :{cid}}},\
                     {{'text': 'Sorry, I can't help you with this for {college_name}'}},\
                     {{'text': 'What else you want to know?'}},\
                     {{'chips': {chips}}}\
@@ -44,6 +45,7 @@ def college_func(session, cid, detail, college_table):
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\
                 'messages' : [\
+                    {{'cid' :{cid}}},\
                     {{'text': {prgh}}},\
                     {{'text': 'What else you want to know?'}},\
                     {{'chips': {chips}}}\
@@ -56,6 +58,7 @@ def college_func(session, cid, detail, college_table):
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\
                 'messages' : [\
+                    {{'cid' :{cid}}},\
                     {{'text': 'Sorry, I do not have any {detail} for {college_name}'}},\
                     {{'text': 'What else you want to know?'}},\
                     {{'chips': {chips}}}\
@@ -84,6 +87,7 @@ def college_func(session, cid, detail, college_table):
                 return make_response(jsonify({'fulfillmentText':f"{{\
                     'session' : {session},\
                     'messages' : [\
+                        {{'cid' :{cid}}},\
                         {{'text': 'Here are some photos for {college_name}'}},\
                         {{'photos': {photos_url_list}}},\
                         {{'text': 'What else you want to know?'}},\
@@ -95,6 +99,7 @@ def college_func(session, cid, detail, college_table):
                 return make_response(jsonify({'fulfillmentText':f"{{\
                     'session' : {session},\
                     'messages' : [\
+                        {{'cid' :{cid}}},\
                         {{'text': 'Here are reviews for {college_name}'}},\
                         {{'reviews': {response['result']['reviews']} }},\
                         {{'text': 'What else you want to know?'}},\
@@ -108,6 +113,7 @@ def college_func(session, cid, detail, college_table):
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\
                 'messages' : [\
+                    {{'cid' :{cid}}},\
                     {{'text': 'Address for {college_name} is {str(row.address.values[0])}'}},\
                     {{'text': 'What else you want to know?'}},\
                     {{'chips': {chips}}}\
@@ -118,6 +124,7 @@ def college_func(session, cid, detail, college_table):
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\
                 'messages' : [\
+                    {{'cid' :{cid}}},\
                     {{'text': 'Address for {college_name} is {row.address.values[0]}'}},\
                     {{'map':{{'lat':{row.lat.values[0]},'lng':{row.lng.values[0]}}}}},\
                     {{'text': 'What else you want to know?'}},\
@@ -132,6 +139,7 @@ def college_func(session, cid, detail, college_table):
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\
                 'messages' : [\
+                    {{'cid' :{cid}}},\
                     {{'text': 'Sorry, I don't have any {detail} for {college_name}'}},\
                     {{'text': 'What else you want to know?'}},\
                     {{'chips': {chips}}}\
@@ -143,6 +151,7 @@ def college_func(session, cid, detail, college_table):
                 return make_response(jsonify({'fulfillmentText':f"{{\
                     'session' : {session},\
                     'message' : [\
+                        {{'cid' :{cid}}},\
                         {{'text': f'You can contact {college_name} at {row.phone.values[0]}'}},\
                         {{'text': 'What else you want to know?'}},\
                         {{'chips': {chips}}}\
@@ -155,6 +164,7 @@ def college_func(session, cid, detail, college_table):
                 return make_response(jsonify({'fulfillmentText':f"{{\
                     'session' : {session},\
                     'message' : [\
+                        {{'cid' :{cid}}},\
                         {{'text': f'You can find {college_name} at {row.website.values[0]}'}},\
                         {{'text': 'Anything else I can do for you?'}},\
                         {{'chips': {chips}}}\
@@ -167,6 +177,7 @@ def college_func(session, cid, detail, college_table):
                 return make_response(jsonify({'fulfillmentText':f"{{\
                     'session' : {session},\
                     'message' : [\
+                        {{'cid' :{cid}}},\
                         {{'text': 'I found these contact details for {college_name}\nPhone: {row.phone.values[0]}\nWebsite: {row.website.values[0]}'}},\
                         {{'text': 'Anything else I can do for you?'}},\
                         {{'chips': {chips}}}\
@@ -181,6 +192,7 @@ def college_func(session, cid, detail, college_table):
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\
                 'messages' : [\
+                    {{'cid' :{cid}}},\
                     {{'text': 'Sorry, I don't have any {detail} for {college_name}'}},\
                     {{'text': 'What else you want to know?'}},\
                     {{'chips': {chips}}}\
@@ -191,6 +203,7 @@ def college_func(session, cid, detail, college_table):
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\
                 'messages' : [\
+                    {{'cid' :{cid}}},\
                     {{'text': 'As much as I remember {detail} is there in {college_name}'}},\
                     {{'text': 'What else you want to know?'}},\
                     {{'chips': {chips}}}\
@@ -201,6 +214,7 @@ def college_func(session, cid, detail, college_table):
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\
                 'messages' : [\
+                    {{'cid' :{cid}}},\
                     {{'text': 'As much as I remember {detail} is not there in {college_name}'}},\
                     {{'text': 'What else you want to know?'}},\
                     {{'chips': {chips}}}\
@@ -211,6 +225,7 @@ def college_func(session, cid, detail, college_table):
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\
                 'messages' : [\
+                    {{'cid' :{cid}}},\
                     {{'text': '{detail} for {college_name} is {val}'}},\
                     {{'text': 'What else you want to know?'}},\
                     {{'chips': {chips}}}\
