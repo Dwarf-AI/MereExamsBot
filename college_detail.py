@@ -10,9 +10,48 @@ def college_func(session, cid, detail, college_table):
     college_name = row['name'].values[0]
 
     possible_chips = list(['about', 'contact', 'address', 'reviews', 'photos'])
+
+    if detail in possible_chips:
+        possible_chips.remove(detail)
+        
     chips = random.sample(possible_chips, 3)
 
-    if detail in ['photos','reviews']:
+    if detail == 'about':
+        prgh = ''
+        if str(row.year_of_establishment.values[0]) != 'nan':
+            prgh = college_name + ' was established in ' + str(int((row.year_of_establishment.values[0]))) + '. '
+        if str(row.management_type.values[0]) != 'nan':
+            prgh += 'This college is ' + str(row.management_type.values[0]) + '. '
+        if str(row.area.values[0]) != 'nan':
+            prgh += 'It has ' + str(row.area.values[0]) + ' acres of land.'
+        columns = list(filter(lambda x: str(row[x].values[0]) == 'True', row.columns))
+        if len(columns)>0:
+            prgh += ' College contains major facilities like '
+            for element in columns[:-1]:
+                element = str(element).replace('_',' ')
+                prgh += element + ', '
+            prgh += str(columns[-1]).replace('_',' ') + '.'
+        if prgh == '':
+            return make_response(jsonify({'fulfillmentText':f"{{\
+                'session' : {session},\
+                'messages' : [\
+                    {{'text': 'Sorry, I can't help you with this for {college_name}'}},\
+                    {{'text': 'What else you want to know?'}},\
+                    {{'chips': {chips}}}\
+                ]\
+            }}"}))
+        else:
+            return make_response(jsonify({'fulfillmentText':f"{{\
+                'session' : {session},\
+                'messages' : [\
+                    {{'text': {prgh}}},\
+                    {{'text': 'What else you want to know?'}},\
+                    {{'chips': {chips}}}\
+                ]\
+            }}"}))
+
+
+    elif detail in ['photos','reviews']:
         if str(row.place_id.values[0]) == 'nan':
             return make_response(jsonify({'fulfillmentText':f"{{\
                 'session' : {session},\

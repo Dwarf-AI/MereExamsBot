@@ -86,12 +86,20 @@ def webhook():
 
 	session= req['session']
 	global user_sessions
-	
+
  # Check if the request is correct
 	try:
 		action = req.get('queryResult').get('action')
 	except AttributeError:
 		return 'json error'
+
+	if action == 'bot_functionality':
+		return make_response(jsonify({'fulfillmentText':f"{{\
+                'session' : {session},\
+                'messages' : [\
+                    {{'text'}} : {{'I can provide you info about 40K+ colleges in India'}},\
+                ]\
+            }}"}))
 
 	if req["queryResult"]["parameters"]['CollgeName1']:
 		req["queryResult"]["parameters"]['CollegeName'] = req["queryResult"]["parameters"].pop('CollgeName1')
@@ -128,17 +136,10 @@ def webhook():
 	sess = user_sessions[req["session"]]     #shortcut to access parameters
 	print(sess)
 
-	if action == 'bot_functionality':
-		return make_response(jsonify({'fulfillmentText':f"{{\
-                'session' : {session},\
-                'messages' : [\
-                    {{'text'}} : {{'I can provide you info about 40K+ colleges in India'}},\
-                ]\
-            }}"
-}))
 
 
-	elif action == 'College_info':
+
+	if action == 'College_info':
 		if 'CollegeName' in sess.keys():
 			if 'College_detail' in params_update:
 				if sess["College_detail"] == 'Course_info':
@@ -165,9 +166,9 @@ def webhook():
 							return answer
 					else:
 						return college_func(session,sess['CollegeName'], sess['College_detail'], college_table)
-					
+
 				answer = course_detail(sess)
-				
+
 				if answer == None:
 					return make_response(jsonify({'fulfillmentText': f'About college, Admission,contact info'}))
 				else:
