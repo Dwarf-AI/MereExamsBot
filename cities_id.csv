@@ -1,0 +1,7695 @@
+,city_id,city
+0,CY0,visnagar
+1,CY1,rajkot
+2,CY2,jamkhandi
+3,CY3,bijapur
+4,CY4,athani
+5,CY5,belguam
+6,CY6,ilkal
+7,CY7,bagalkot
+8,CY8,bewoor
+9,CY9,bagewadi
+10,CY10,nidagundi
+11,CY11,belgaum
+12,CY12,vijayapur
+13,CY13,nipani
+14,CY14,hungund
+15,CY15,belagavi
+16,CY16,vijayapura
+17,CY17,sindgi
+18,CY18,harugeri
+19,CY19,jamakhandi
+20,CY20,lakhtar
+21,CY21,hebbal
+22,CY22,ramdurg
+23,CY23,jamnagar
+24,CY24,mudalgi
+25,CY25,indi
+26,CY26,babaleshwar
+27,CY27,khanapur
+28,CY28,saundatti
+29,CY29,dhari
+30,CY30,raibag
+31,CY31,chikodi
+32,CY32,guledagudda
+33,CY33,muddebihal
+34,CY34,badami
+35,CY35,ghataprabha
+36,CY36,
+37,CY37,soundatti
+38,CY38,sankeshwar
+39,CY39,gokak
+40,CY40,charadva
+41,CY41,bailhongal
+42,CY42,kittur
+43,CY43,porbandar
+44,CY44,upleta
+45,CY45,koligudd
+46,CY46,amreli
+47,CY47,nesargi
+48,CY48,ankalgi
+49,CY49,mahalingpur
+50,CY50,mangrol
+51,CY51,sindagi
+52,CY52,kerur
+53,CY53,likoti
+54,CY54,mudhol
+55,CY55,huvin hipparag
+56,CY56,banahatti
+57,CY57,ugar khurd
+58,CY58,basavana bagewadi
+59,CY59,kaladagi
+60,CY60,kodinar
+61,CY61,hukkeri
+62,CY62,guledgudd
+63,CY63,bilagi
+64,CY64,paschapur
+65,CY65,hunagund
+66,CY66,junagadh
+67,CY67,karnataka
+68,CY68,sureban
+69,CY69,basavan bagewadi
+70,CY70,dehradun
+71,CY71,salem
+72,CY72,karaikal
+73,CY73,puducherry
+74,CY74,chennai
+75,CY75,kirumampakkam
+76,CY76,jalgaon
+77,CY77,muzaffarpur
+78,CY78,jetpur
+79,CY79,samastipur
+80,CY80,pusa
+81,CY81,sas nagar
+82,CY82,patiala
+83,CY83,jalandhar
+84,CY84,landran
+85,CY85,rupnagar
+86,CY86,abohar
+87,CY87,jalalabad
+88,CY88,pathankot
+89,CY89,morbi
+90,CY90,giddarbaha
+91,CY91,rajpura
+92,CY92,derabassi
+93,CY93,dinanagar
+94,CY94,muktsar
+95,CY95,banur
+96,CY96,moga
+97,CY97,s.a.s.nagar
+98,CY98,fatehgarh sahib
+99,CY99,phagwara
+100,CY100,hoshiarpur
+101,CY101,mohali
+102,CY102,sangrur
+103,CY103,lalru mandi
+104,CY104,kapurthala
+105,CY105,nawanshahr
+106,CY106,ramnagar
+107,CY107,amritsar
+108,CY108,sahibzada ajit singh nagar
+109,CY109,mandi gobindgarh
+110,CY110,barnala
+111,CY111,sri muktsar sahib
+112,CY112,jasdan
+113,CY113,kharar
+114,CY114,batala
+115,CY115,sirhind
+116,CY116,bathinda
+117,CY117,mandi killianwali
+118,CY118,savarkundla
+119,CY119,gurdaspur
+120,CY120,ropar
+121,CY121,nakodar
+122,CY122,malout
+123,CY123,bhawanigarh
+124,CY124,budhlada
+125,CY125,jagraon
+126,CY126,"kharar, mohali"
+127,CY127,"doraha , ludhiana"
+128,CY128,parthankot
+129,CY129,ludhiana
+130,CY130,dera bassi
+131,CY131,una
+132,CY132,patti
+133,CY133,sardulgarh
+134,CY134,surendranagar
+135,CY135,puranewala
+136,CY136,nangal
+137,CY137,anand
+138,CY138,jalandhar city
+139,CY139,fazilka
+140,CY140,khanna
+141,CY141,shaheed bhagat singh nagar
+142,CY142,lalru
+143,CY143,patran
+144,CY144,faridkot
+145,CY145,anandpur sahib
+146,CY146,gir somnath
+147,CY147,kahanpur
+148,CY148,garhshankar
+149,CY149,jind
+150,CY150,hisar
+151,CY151,yamuna nagar
+152,CY152,hansi
+153,CY153,bilaspur
+154,CY154,narwana
+155,CY155,gharaunda
+156,CY156,ambala
+157,CY157,panipat
+158,CY158,kalayat
+159,CY159,kurukshetra
+160,CY160,uklana mandi
+161,CY161,uchana
+162,CY162,karnal
+163,CY163,atkot
+164,CY164,naraingarh
+165,CY165,yamunanagar
+166,CY166,agroha
+167,CY167,dhrol
+168,CY168,cheeka
+169,CY169,ambala city
+170,CY170,barwala
+171,CY171,thanesar
+172,CY172,rajkot  rajkot
+173,CY173,kaul
+174,CY174,kaithal
+175,CY175,jagadhri
+176,CY176,pattikalyana
+177,CY177,shahabad markanda
+178,CY178,ambala cantt
+179,CY179,barara
+180,CY180,panjokhra sahib
+181,CY181,himmatnagar
+182,CY182,julana
+183,CY183,radaur
+184,CY184,jagahdri
+185,CY185,samalkha
+186,CY186,panchkula
+187,CY187,israna
+188,CY188,ladwa
+189,CY189,pundri
+190,CY190,indri
+191,CY191,hissar
+192,CY192,mustafabad
+193,CY193,siwan
+194,CY194,guwahati
+195,CY195,sadhaura
+196,CY196,shahjahanpur
+197,CY197,sonipat
+198,CY198,assandh
+199,CY199,chandlana
+200,CY200,ismailbad
+201,CY201,raipur rani
+202,CY202,modasa
+203,CY203,abmala
+204,CY204,pehowa
+205,CY205,mullana
+206,CY206,safidon
+207,CY207,bir hisar
+208,CY208,shahabad
+209,CY209,nissing
+210,CY210,kalka
+211,CY211,baripada
+212,CY212,nayatarana
+213,CY213,keonjhar
+214,CY214,karanjia
+215,CY215,rairangpur
+216,CY216,udala
+217,CY217,bariada
+218,CY218,anandapur
+219,CY219,dhenkikote
+220,CY220,mayurbhanj
+221,CY221,kaptipada
+222,CY222,ghatgaon
+223,CY223,bisoi
+224,CY224,champua
+225,CY225,jamugadia
+226,CY226,parsora
+227,CY227,deulia
+228,CY228,kendujhar
+229,CY229,barbil
+230,CY230,jharpokharia
+231,CY231,turumunga
+232,CY232,khunta
+233,CY233,jampada
+234,CY234,raruan
+235,CY235,akhupal
+236,CY236,joda
+237,CY237,jhumpura
+238,CY238,thakurmunda
+239,CY239,bhubaneswar
+240,CY240,badampahar
+241,CY241,bahalda
+242,CY242,sukruli
+243,CY243,nudadiha
+244,CY244,kolhapur
+245,CY245,satara
+246,CY246,warananagar
+247,CY247,karad
+248,CY248,sangli
+249,CY249,halkarni
+250,CY250,rukadi
+251,CY251,phaltan
+252,CY252,vita
+253,CY253,wai
+254,CY254,patan
+255,CY255,hatkanangale
+256,CY256,kadepur
+257,CY257,chandgad
+258,CY258,malkapur
+259,CY259,atpadi
+260,CY260,ajara
+261,CY261,vathar tarf vadgaon
+262,CY262,khandala
+263,CY263,gadhinglaj
+264,CY264,kurukali
+265,CY265,kagal
+266,CY266,ichalkaranji
+267,CY267,zare
+268,CY268,shirwal
+269,CY269,kavathe mahankal
+270,CY270,bidri
+271,CY271,islampur
+272,CY272,kapashi
+273,CY273,surat
+274,CY274,kodoli
+275,CY275,kurundwad
+276,CY276,kadegaon
+277,CY277,miraj
+278,CY278,panchgani
+279,CY279,mahesana
+280,CY280,murgud
+281,CY281,nesari
+282,CY282,walwa
+283,CY283,kasegaon
+284,CY284,sarud
+285,CY285,kundal
+286,CY286,ranghavav porbandar
+287,CY287,palus
+288,CY288,mhaisal
+289,CY289,peth naka
+290,CY290,jetalpur
+291,CY291,jaysingpur
+292,CY292,peth vadgaon
+293,CY293,idar
+294,CY294,ashta
+295,CY295,sgaon
+296,CY296,gandhinagar
+297,CY297,navsari
+298,CY298,arjunnagar
+299,CY299,yadrav
+300,CY300,koregaon
+301,CY301,dwarka
+302,CY302,kowad
+303,CY303,lmavale
+304,CY304,medha
+305,CY305,gargoti
+306,CY306,ahmedabad
+307,CY307,aundh
+308,CY308,khatav
+309,CY309,shirala
+310,CY310,bhilawadi
+311,CY311,deur
+312,CY312,uttur
+313,CY313,radhanagari
+314,CY314,lsande
+315,CY315,kirloskarwadi
+316,CY316,atigre
+317,CY317,undale
+318,CY318,rahimatpur
+319,CY319,vadodara
+320,CY320,vaduj
+321,CY321,lonand
+322,CY322,jath
+323,CY323,hupari
+324,CY324,dahiwadi
+325,CY325,budhgaon
+326,CY326,"pethapur, gandhinagar"
+327,CY327,mhaswad
+328,CY328,shivnagar
+329,CY329,kayavarohan
+330,CY330,nagthane
+331,CY331,dakor
+332,CY332,malwadi-kotoli
+333,CY333,tasgaon
+334,CY334,indoli
+335,CY335,pachwad
+336,CY336,umbraj
+337,CY337,peth-vadgaon
+338,CY338,chikhali
+339,CY339,nadiad
+340,CY340,solankur
+341,CY341,petlad
+342,CY342,hamirpur
+343,CY343,paonta sahib
+344,CY344,sunder nagar
+345,CY345,shimla
+346,CY346,sundernagar
+347,CY347,joginder nagar
+348,CY348,indora
+349,CY349,sarkaghat
+350,CY350,theog
+351,CY351,chowari
+352,CY352,rajgarh
+353,CY353,nurpur
+354,CY354,mandi
+355,CY355,kala-amb
+356,CY356,palampur
+357,CY357,nerchowk
+358,CY358,solan
+359,CY359,dehra
+360,CY360,baddi
+361,CY361,ambaji
+362,CY362,karsog
+363,CY363,rampur bushahr
+364,CY364,shillai
+365,CY365,ner chowk
+366,CY366,gohar
+367,CY367,vapi
+368,CY368,bhunter
+369,CY369,kullu
+370,CY370,ghumarwin
+371,CY371,kinnaur
+372,CY372,banjar
+373,CY373,nalagargh
+374,CY374,barsar
+375,CY375,sujanpur tihra
+376,CY376,amb
+377,CY377,bharuch
+378,CY378,nadaun
+379,CY379,padhar
+380,CY380,paonta-sahib
+381,CY381,jawala ji
+382,CY382,nerwa
+383,CY383,dharamshala
+384,CY384,kadi
+385,CY385,harnora
+386,CY386,jhandutta
+387,CY387,arki
+388,CY388,dehri
+389,CY389,rewalsar
+390,CY390,jwalamukhi
+391,CY391,kangra
+392,CY392,chamunda dham
+393,CY393,dalhousie
+394,CY394,sri naina devi ji
+395,CY395,killar
+396,CY396,nahan
+397,CY397,thural
+398,CY398,kasauli
+399,CY399,mandvi
+400,CY400,swarghat
+401,CY401,bhuntar
+402,CY402,nagrota bagwan
+403,CY403,rohru
+404,CY404,dhaliara
+405,CY405,ahemdabad
+406,CY406,chamba
+407,CY407,chailchowk
+408,CY408,mehre
+409,CY409,sangrah
+410,CY410,siddhpur
+411,CY411,kumarhatti
+412,CY412,bharmour
+413,CY413,paprola
+414,CY414,chintpurni
+415,CY415,borsad
+416,CY416,shahpur
+417,CY417,chakmoh
+418,CY418,ajouli
+419,CY419,salooni
+420,CY420,jaisinghpur
+421,CY421,boriavi
+422,CY422,subathu
+423,CY423,baijnath
+424,CY424,nalagarh
+425,CY425,bhaba nagar
+426,CY426,kala amb
+427,CY427,sadar
+428,CY428,beetan
+429,CY429,dharmaj
+430,CY430,vallabh vidyanagar
+431,CY431,sunni
+432,CY432,jawali
+433,CY433,naina tikker
+434,CY434,daulatpur chowk
+435,CY435,bangana
+436,CY436,udaipur
+437,CY437,hmairpur
+438,CY438,sawra
+439,CY439,ernakulam
+440,CY440,mallappally
+441,CY441,kochi
+442,CY442,vaikom
+443,CY443,kottayam
+444,CY444,pampady
+445,CY445,vallabh-vidyanagar
+446,CY446,thiruvalla
+447,CY447,kanjirappally
+448,CY448,kothamangalam
+449,CY449,"mannoor,muvattupuzha"
+450,CY450,perumpillichira
+451,CY451,changanacherry
+452,CY452,thalayolaparambu
+453,CY453,munnar
+454,CY454,pathanamthitta
+455,CY455,kuravilangad
+456,CY456,angamaly
+457,CY457,moolamattom
+458,CY458,parumala
+459,CY459,pala
+460,CY460,manarcaud
+461,CY461,kolenchery
+462,CY462,kozhencherry
+463,CY463,perumbavoor
+464,CY464,nedumkandam
+465,CY465,thodupuzha
+466,CY466,elavumthitta
+467,CY467,tripoonithura
+468,CY468,n.paravoor
+469,CY469,aluva
+470,CY470,konni
+471,CY471,peruva
+472,CY472,muvattupuzha
+473,CY473,mannanam
+474,CY474,idukki
+475,CY475,north paravur
+476,CY476,cochin
+477,CY477,konny
+478,CY478,vallabh vidyangar
+479,CY479,ettumanoor
+480,CY480,kanjirapally
+481,CY481,uzhavoor
+482,CY482,vallbh vidyanagar
+483,CY483,tripunithura
+484,CY484,ranni
+485,CY485,cherpunkal
+486,CY486,vidhyanagar
+487,CY487,n paravoor
+488,CY488,alappuzha
+489,CY489,nellikuzhy
+490,CY490,erattupetta
+491,CY491,eranakulam
+492,CY492,rajakumari
+493,CY493,ertnakulam
+494,CY494,vazhoor
+495,CY495,piravom
+496,CY496,peermade
+497,CY497,kalady
+498,CY498,erumely
+499,CY499,kattappana
+500,CY500,marayoor
+501,CY501,kadavanthra
+502,CY502,thalappady
+503,CY503,mogri
+504,CY504,n.paravur
+505,CY505,kumily
+506,CY506,tiruvalla
+507,CY507,palai
+508,CY508,ramapuram
+509,CY509,kaduthuruthy
+510,CY510,elanthur
+511,CY511,tripuinithura
+512,CY512,puthencruz
+513,CY513,koothattukulam
+514,CY514,puttady
+515,CY515,piramadom
+516,CY516,vagamon
+517,CY517,melukavumattom
+518,CY518,peerumadu
+519,CY519,paravoor
+520,CY520,koovappally
+521,CY521,ranny
+522,CY522,kolkata
+523,CY523,howrah
+524,CY524,burul
+525,CY525,raidighi
+526,CY526,south  parganas
+527,CY527,calcutta
+528,CY528,mogari
+529,CY529,kakdwip
+530,CY530,amta-ii
+531,CY531,harindanga
+532,CY532,godhra
+533,CY533,karamsad
+534,CY534,budge budge
+535,CY535,bagnan
+536,CY536,pathankhali
+537,CY537,kulpi
+538,CY538,serampore
+539,CY539,baruipur
+540,CY540,hooghly
+541,CY541,jalabaria
+542,CY542,namkhana
+543,CY543,harinbari
+544,CY544,durgagobindopur
+545,CY545,haora
+546,CY546,rajpur
+547,CY547,bhangankhali
+548,CY548,konnagar
+549,CY549,halapara
+550,CY550,uttarpara
+551,CY551,south 24 parganas
+552,CY552,bally
+553,CY553,bhnagar
+554,CY554,jibantala
+555,CY555,amtala
+556,CY556,dakshin barasat
+557,CY557,chanddandaha
+558,CY558,uluberia
+559,CY559,new vallabh vidyanagar
+560,CY560,gangadharpur
+561,CY561,diamond harbour
+562,CY562,liluah
+563,CY563,naridana
+564,CY564,auraiya
+565,CY565,kanpur
+566,CY566,kanpur nagar
+567,CY567,raibareli
+568,CY568,hardoi
+569,CY569,allahabad
+570,CY570,sitapur
+571,CY571,anand 
+572,CY572,unnao
+573,CY573,bidhuna
+574,CY574,pukhrayan
+575,CY575,farrukhabad
+576,CY576,kannauj
+577,CY577,sanyara
+578,CY578,chhibramau
+579,CY579,rae bareli
+580,CY580,kanpur dehat
+581,CY581,raebareli
+582,CY582,auriya
+583,CY583,jahanganj
+584,CY584,etawah
+585,CY585,kanchaushi
+586,CY586,fatehpur
+587,CY587,ananad
+588,CY588,sandila
+589,CY589,muktapur
+590,CY590,kaushambi
+591,CY591,muzaffarnagar
+592,CY592,salon
+593,CY593,bilgram
+594,CY594,aligarh
+595,CY595,bharthana
+596,CY596,farrukhbad
+597,CY597,saurikh
+598,CY598,lakhimpur kheri
+599,CY599,vallabh vidhyanagar
+600,CY600,mangalpur derapur
+601,CY601,khaga
+602,CY602,phaphund
+603,CY603,kaimganj farrukhabad
+604,CY604,lalganj
+605,CY605,valasan
+606,CY606,kaimganj
+607,CY607,biswan
+608,CY608,gola gokaran nath
+609,CY609,dibiyapur
+610,CY610,jhinjhak
+611,CY611,mallawan
+612,CY612,jhijhank
+613,CY613,rasulabad
+614,CY614,sandi
+615,CY615,"vallabh vidhyanagar ,anand"
+616,CY616,alllahabad
+617,CY617,hargaon
+618,CY618,lakhimpur-kheri
+619,CY619,lakhimpur
+620,CY620,ganj muradabad
+621,CY621,mahmoodabad
+622,CY622,gausganj
+623,CY623,atrauly
+624,CY624,bharwari
+625,CY625,kapur
+626,CY626,pilibhit
+627,CY627,bakrol
+628,CY628,kuderkot
+629,CY629,kayamganj
+630,CY630,mahmudabad
+631,CY631,chamarajanagar
+632,CY632,"ajeetmal, auraiya"
+633,CY633,madhoganj
+634,CY634,akbarpur
+635,CY635,bangalore
+636,CY636,mohammadabad
+637,CY637,jhansi
+638,CY638,misrikh
+639,CY639,gaura
+640,CY640,mangalore
+641,CY641,"lakhimpur, kheri"
+642,CY642,mbour
+643,CY643,karkala
+644,CY644,belthangady
+645,CY645,bengaluru
+646,CY646,azamgarh
+647,CY647,kasimpur
+648,CY648,tumkur
+649,CY649,asalatganj
+650,CY650,kichakila
+651,CY651,raichur
+652,CY652,sikandra
+653,CY653,nagamangala
+654,CY654,farukhabad
+655,CY655,ajuha
+656,CY656,mysore
+657,CY657,laharpur
+658,CY658,deoband
+659,CY659,mohammdi kheri
+660,CY660,ijalpur
+661,CY661,basavakalyan
+662,CY662,karari
+663,CY663,bidar
+664,CY664,bulandshahr
+665,CY665,jhinjhak kanpur dehat
+666,CY666,"fatehgarh, farrukhabad"
+667,CY667,gursahaiganj
+668,CY668,sirathu
+669,CY669,auariya
+670,CY670,shravanabelagola
+671,CY671,amethi
+672,CY672,chickballapur
+673,CY673,kora - jahanabad
+674,CY674,hubli
+675,CY675,manjhanpur
+676,CY676,unchahar
+677,CY677,jais
+678,CY678,gola gokarannath
+679,CY679,ramanagara
+680,CY680,pihani
+681,CY681,khasbara
+682,CY682,sullia
+683,CY683,nighasan
+684,CY684,"lakhana, etawah"
+685,CY685,ghazipur
+686,CY686,bakewar
+687,CY687,bamgalore
+688,CY688,bhalki
+689,CY689,ghatampur
+690,CY690,kananuj
+691,CY691,bhogni pur
+692,CY692,sumerpur
+693,CY693,atarra
+694,CY694,fatehgarh
+695,CY695,chitradurga
+696,CY696,rura
+697,CY697,tirwa
+698,CY698,jaswantnagar
+699,CY699,rai bareily
+700,CY700,tikampur
+701,CY701,begaluru
+702,CY702,terwa kulli
+703,CY703,raibareily
+704,CY704,unjha
+705,CY705,lucknow
+706,CY706,kushalanagar
+707,CY707,doddaballapur
+708,CY708,mandya
+709,CY709,gulbarga
+710,CY710,haliyal
+711,CY711,agra
+712,CY712,hamzapur
+713,CY713,arwal
+714,CY714,patna
+715,CY715,hilsa
+716,CY716,moodbidri
+717,CY717,tekari
+718,CY718,gaya
+719,CY719,harnaut
+720,CY720,biharsharif
+721,CY721,darheta
+722,CY722,warisaliganj
+723,CY723,bihar sharif
+724,CY724,daudnagar
+725,CY725,bhergawan
+726,CY726,aurangabad
+727,CY727,barh
+728,CY728,nawada
+729,CY729,chikmagalur
+730,CY730,rafiganj
+731,CY731,jehanabad
+732,CY732,masaurhi
+733,CY733,chandi
+734,CY734,nalanda
+735,CY735,jahanabad
+736,CY736,bihta
+737,CY737,channapatna
+738,CY738,wazirganj
+739,CY739,fatehpur sanda
+740,CY740,kaler
+741,CY741,hassan
+742,CY742,naubatpur
+743,CY743,barh patna
+744,CY744,chohtan
+745,CY745,ajmer
+746,CY746,pushkar
+747,CY747,borawar
+748,CY748,didwana
+749,CY749,parbatsar
+750,CY750,kishangarh
+751,CY751,pisangan
+752,CY752,bhilwara
+753,CY753,kuchaman city
+754,CY754,pali
+755,CY755,nawa city
+756,CY756,nawa
+757,CY757,dooni
+758,CY758,pipar city
+759,CY759,newai
+760,CY760,phalodi
+761,CY761,deedwana
+762,CY762,jaitaran
+763,CY763,peeplu
+764,CY764,merta city
+765,CY765,barmer
+766,CY766,jahazpur
+767,CY767,falna
+768,CY768,pokaran
+769,CY769,shorapur
+770,CY770,nagaur
+771,CY771,kekri
+772,CY772,bijainagar
+773,CY773,haveri
+774,CY774,uniara
+775,CY775,jodhpur
+776,CY776,limda
+777,CY777,makrana
+778,CY778,bhinmal
+779,CY779,tonk
+780,CY780,asada - balotra
+781,CY781,beawar
+782,CY782,deoli
+783,CY783,bilara
+784,CY784,chhoti khatu
+785,CY785,rani
+786,CY786,karwar
+787,CY787,balotra
+788,CY788,jalore
+789,CY789,dharwad
+790,CY790,kuchamancity
+791,CY791,jaisalmer
+792,CY792,varur
+793,CY793,sojat city
+794,CY794,molasar
+795,CY795,vidyawadi
+796,CY796,sanchore
+797,CY797,kolar
+798,CY798,borunda
+799,CY799,riyan badi
+800,CY800,dhorimana
+801,CY801,bhavnagar
+802,CY802,mundwa
+803,CY803,asind
+804,CY804,k r pet
+805,CY805,mandal
+806,CY806,gotan
+807,CY807,bantwal
+808,CY808,bhopalgarh
+809,CY809,bagawas
+810,CY810,laxmeshwar
+811,CY811,raniwara
+812,CY812,deh
+813,CY813,jayal
+814,CY814,marwar
+815,CY815,degana
+816,CY816,todaraisingh
+817,CY817,desuri
+818,CY818,gangapur
+819,CY819,degana jn
+820,CY820,gulabpura
+821,CY821,mandalgarh
+822,CY822,puttur
+823,CY823,"malpura,tonk"
+824,CY824,malpura
+825,CY825,bijnor
+826,CY826,moradabad
+827,CY827,mirzapur
+828,CY828,puranpur
+829,CY829,ujhani
+830,CY830,baheri
+831,CY831,chandausi
+832,CY832,gajraula
+833,CY833,sambhal
+834,CY834,bareilly
+835,CY835,puraini
+836,CY836,rampur
+837,CY837,najibabd
+838,CY838,nehtaur
+839,CY839,haldaur
+840,CY840,amroha
+841,CY841,hasanpur
+842,CY842,dhampur
+843,CY843,joya
+844,CY844,badaun
+845,CY845,nagina
+846,CY846,jyotiba phule nagar
+847,CY847,chandpur
+848,CY848,saidpur
+849,CY849,hosapete
+850,CY850,mandi dhanora
+851,CY851,tilhar
+852,CY852,budaun
+853,CY853,kachla
+854,CY854,hyderabad
+855,CY855,sherkot
+856,CY856,balrala
+857,CY857,kiratpur
+858,CY858,aonla
+859,CY859,afzalgarh
+860,CY860,bilari
+861,CY861,modadabad
+862,CY862,seohara
+863,CY863,noorpur
+864,CY864,milak
+865,CY865,bisalpur
+866,CY866,bahjoi
+867,CY867,thakurwara
+868,CY868,bisauli
+869,CY869,thakurdwara
+870,CY870,powayan
+871,CY871,babrala
+872,CY872,kollegal
+873,CY873,sirsi
+874,CY874,melukote
+875,CY875,gokarn
+876,CY876,udupi
+877,CY877,sri adichunchanagiri  kshethra
+878,CY878,sudi
+879,CY879,valsad
+880,CY880,bhanvad
+881,CY881,chandauli
+882,CY882,bhadohi
+883,CY883,varanasi
+884,CY884,barewan
+885,CY885,ballia
+886,CY886,duddhi
+887,CY887,rasra
+888,CY888,nagra
+889,CY889,marihan
+890,CY890,bilthara road
+891,CY891,gyanpur
+892,CY892,bhimpura
+893,CY893,mirjapur
+894,CY894,"civil line, ballia"
+895,CY895,robertsganj
+896,CY896,chopan
+897,CY897,s.r.n bhadohi
+898,CY898,ghorawal
+899,CY899,anjana nagar
+900,CY900,sakaldiha-chandauli
+901,CY901,autadwadi handewadi
+902,CY902,chakiya
+903,CY903,"chilkahar, ballia"
+904,CY904,shivamogga
+905,CY905,belthara road
+906,CY906,jpur
+907,CY907,adalhat
+908,CY908,trikalpur
+909,CY909,gadag
+910,CY910,dala
+911,CY911,suriyawan
+912,CY912,chunar
+913,CY913,anpara
+914,CY914,"chunar, mirzapur"
+915,CY915,sant ravidas nagar
+916,CY916,kailahat
+917,CY917,davangere
+918,CY918,renukoot
+919,CY919,kalaburagi
+920,CY920,mughalsarai
+921,CY921,madhupur
+922,CY922,rabertsganj
+923,CY923,bhodhi
+924,CY924,dudhi
+925,CY925,"raksa, ratsar"
+926,CY926,maniar
+927,CY927,obra
+928,CY928,"nerul, navi mumbai"
+929,CY929,adgaon
+930,CY930,mira road
+931,CY931,navi mumbai
+932,CY932,latur
+933,CY933,amravati
+934,CY934,dhule
+935,CY935,mumbai
+936,CY936,pune
+937,CY937,nagpur
+938,CY938,nallasopara
+939,CY939,nigdi pune
+940,CY940,shirpur
+941,CY941,jalna
+942,CY942,nelamangala
+943,CY943,nashik
+944,CY944,dugad phata
+945,CY945,buldana
+946,CY946,akola
+947,CY947,ahmednagar
+948,CY948,kolar gold fields
+949,CY949,akluj
+950,CY950,gondia
+951,CY951,beed
+952,CY952,solapur
+953,CY953,osmanabad
+954,CY954,jalgaon kh
+955,CY955,patur
+956,CY956,khed
+957,CY957,sangamner
+958,CY958,yeola
+959,CY959,mayani
+960,CY960,purna
+961,CY961,wardha
+962,CY962,ahmadnagar
+963,CY963,palghar
+964,CY964,"amravati"""
+965,CY965,shimoga
+966,CY966,colaba
+967,CY967,washim
+968,CY968,chickkaballapur
+969,CY969,narhe
+970,CY970,chinchwad
+971,CY971,dombivli
+972,CY972,parbhani
+973,CY973,kundapura
+974,CY974,akkalkuwa
+975,CY975,"kalwa, thane"
+976,CY976,kannad
+977,CY977,sindhudurg
+978,CY978,barshi
+979,CY979,ratnagiri
+980,CY980,chiplun
+981,CY981,tiptur
+982,CY982,yavatmal
+983,CY983,nanded
+984,CY984,aurnagabad
+985,CY985,ujire
+986,CY986,chandrapur
+987,CY987,sawantwadi
+988,CY988,virar
+989,CY989,thane
+990,CY990,ponnampet
+991,CY991,alibag
+992,CY992,junnar
+993,CY993,bellary
+994,CY994,vijaypur-karnataka
+995,CY995,udgir
+996,CY996,kudal
+997,CY997,chikhli
+998,CY998,chandwad
+999,CY999,vengurla
+1000,CY1000,solpapur
+1001,CY1001,moodabidri
+1002,CY1002,khamgaon
+1003,CY1003,andheri
+1004,CY1004,dapoli
+1005,CY1005,bhutvad
+1006,CY1006,derdi
+1007,CY1007,"rudhauli, basti"
+1008,CY1008,maharajganj
+1009,CY1009,kushinagar
+1010,CY1010,dumariaganj
+1011,CY1011,gorakhpur
+1012,CY1012,siddharth nagar
+1013,CY1013,deoria
+1014,CY1014,sant kabir nagar
+1015,CY1015,basti
+1016,CY1016,birdpur
+1017,CY1017,menhdawal
+1018,CY1018,siddharthnagar
+1019,CY1019,nidasoshi
+1020,CY1020,khalilabad
+1021,CY1021,mahrajganj
+1022,CY1022,vadu
+1023,CY1023,mahabir chhapra
+1024,CY1024,padrauna
+1025,CY1025,ranebennur
+1026,CY1026,bansi
+1027,CY1027,sahajanwa
+1028,CY1028,lar towan
+1029,CY1029,gajpur
+1030,CY1030,kahalilabad
+1031,CY1031,kaptanganj
+1032,CY1032,kasia
+1033,CY1033,barhaj
+1034,CY1034,nichlaul
+1035,CY1035,barahalganj
+1036,CY1036,salempur
+1037,CY1037,rudrapur deoria
+1038,CY1038,chikkaballapur
+1039,CY1039,bhatpar rani
+1040,CY1040,naugarh
+1041,CY1041,siswa bazar
+1042,CY1042,nagar panchayat rudrapur
+1043,CY1043,bhatwali bazar
+1044,CY1044,anandnagar
+1045,CY1045,ramkola kushinagar
+1046,CY1046,bangalroe
+1047,CY1047,"lar, deoria"
+1048,CY1048,ghughli maharajganj
+1049,CY1049,fazilnagar
+1050,CY1050,dhani bazar
+1051,CY1051,ballari
+1052,CY1052,shohratgarh
+1053,CY1053,nonapar
+1054,CY1054,bangalore urben
+1055,CY1055,lar
+1056,CY1056,kauriram
+1057,CY1057,santkabir nagar
+1058,CY1058,gorakhhpur
+1059,CY1059,dumariya ganj
+1060,CY1060,harriya
+1061,CY1061,nagercoil
+1062,CY1062,mayiladuthurai
+1063,CY1063,srivilliputtur
+1064,CY1064,dharmapuri
+1065,CY1065,aranthangi
+1066,CY1066,natham
+1067,CY1067,dindigul
+1068,CY1068,sirkali
+1069,CY1069,namakkal
+1070,CY1070,anthiyur
+1071,CY1071,botad
+1072,CY1072,virudhunagar
+1073,CY1073,villupuram
+1074,CY1074,gobichettipalayam
+1075,CY1075,vellore
+1076,CY1076,tirunelveli
+1077,CY1077,cuddalore
+1078,CY1078,papanasan
+1079,CY1079,thiruvannamalai
+1080,CY1080,trichy
+1081,CY1081,tiruppur
+1082,CY1082,pudukkottai
+1083,CY1083,tenkasi
+1084,CY1084,ramanathapuram
+1085,CY1085,kovilpatti
+1086,CY1086,thiruvallur
+1087,CY1087,veerapandi
+1088,CY1088,ambur
+1089,CY1089,chetpet
+1090,CY1090,tiruvannamalai
+1091,CY1091,"sankari, salem"
+1092,CY1092,thoothukudi
+1093,CY1093,kallakurichi
+1094,CY1094,thiruppatur
+1095,CY1095,perambalur
+1096,CY1096,krishnagiri
+1097,CY1097,madurai
+1098,CY1098,chengalpattu
+1099,CY1099,tiruttani
+1100,CY1100,sankari
+1101,CY1101,ulundurupet
+1102,CY1102,periyakulam
+1103,CY1103,udayarpalayam
+1104,CY1104,gingee
+1105,CY1105,madathukulam
+1106,CY1106,kuzhithurai
+1107,CY1107,tirupattur
+1108,CY1108,podhattoorpet
+1109,CY1109,chidambaram
+1110,CY1110,arakkonam
+1111,CY1111,nellikuppam
+1112,CY1112,marthandam
+1113,CY1113,neelambur
+1114,CY1114,erode
+1115,CY1115,theni
+1116,CY1116,pudukottai
+1117,CY1117,mehsana
+1118,CY1118,coimbatore
+1119,CY1119,vaniyambadi
+1120,CY1120,thanjavur
+1121,CY1121,kappiyarai
+1122,CY1122,thuraiyur
+1123,CY1123,pappinaickanahalli
+1124,CY1124,kumbakonam
+1125,CY1125,ganapathipuram
+1126,CY1126,manapparai
+1127,CY1127,karaikudi
+1128,CY1128,natarampalli
+1129,CY1129,manjalumoodu po
+1130,CY1130,peraiyur
+1131,CY1131,thanjavore
+1132,CY1132,meignanapuram
+1133,CY1133,dharapuram
+1134,CY1134,tiruppattur
+1135,CY1135,sivakasi
+1136,CY1136,thiruchirapalli
+1137,CY1137,thiruvarur
+1138,CY1138,kundrakudi
+1139,CY1139,pollachi
+1140,CY1140,illuppur
+1141,CY1141,regunathapuram
+1142,CY1142,vriddhachalam
+1143,CY1143,veeravanallur
+1144,CY1144,kancheepuram
+1145,CY1145,arni
+1146,CY1146,tiruchengode
+1147,CY1147,tirupur
+1148,CY1148,kalasapakkam
+1149,CY1149,vallioor
+1150,CY1150,tiruvarur
+1151,CY1151,karur
+1152,CY1152,sivaganga
+1153,CY1153,veppanthatti
+1154,CY1154,tiruchirappalli
+1155,CY1155,veppanthattai
+1156,CY1156,cheyyar
+1157,CY1157,aundipatti
+1158,CY1158,pattukkottai
+1159,CY1159,rasipuram
+1160,CY1160,palani
+1161,CY1161,cumbum
+1162,CY1162,alangudi
+1163,CY1163,kanchipuram
+1164,CY1164,sholinghur
+1165,CY1165,arumbavur
+1166,CY1166,polur
+1167,CY1167,vandavasi
+1168,CY1168,jayankondam
+1169,CY1169,thisayanvilai
+1170,CY1170,kalapatti
+1171,CY1171,paramakudi
+1172,CY1172,nagapattinam
+1173,CY1173,kanyakumari hq nagercoil
+1174,CY1174,attur
+1175,CY1175,srivilliputhur
+1176,CY1176,kadayanallur
+1177,CY1177,tirupathur
+1178,CY1178,andimadam
+1179,CY1179,jolarpettai
+1180,CY1180,sawyerpuram
+1181,CY1181,thiruvitancode
+1182,CY1182,bhavani
+1183,CY1183,sankarankovil
+1184,CY1184,sarigam
+1185,CY1185,harur
+1186,CY1186,seydunganallur
+1187,CY1187,bommidi
+1188,CY1188,sankarapuram
+1189,CY1189,thirumayam  pudukkottai
+1190,CY1190,thathanur
+1191,CY1191,sivagiri
+1192,CY1192,arcot
+1193,CY1193,kattumannarkoil
+1194,CY1194,udhagamandalam
+1195,CY1195,tindivanam
+1196,CY1196,"enathi,sivagangai"
+1197,CY1197,coimbatotre
+1198,CY1198,vadalur
+1199,CY1199,neyveli
+1200,CY1200,sivagangai
+1201,CY1201,"gudiyatham, vellore"
+1202,CY1202,walajabad
+1203,CY1203,manamadurai
+1204,CY1204,gudiyattam
+1205,CY1205,tiruvallur
+1206,CY1206,mandavai
+1207,CY1207,uthiramerur
+1208,CY1208,sattur
+1209,CY1209,sattankulam
+1210,CY1210,hosur
+1211,CY1211,sulur
+1212,CY1212,sathyamangalam
+1213,CY1213,uthukottai
+1214,CY1214,musiri
+1215,CY1215,royappanpatty
+1216,CY1216,maduranthakam
+1217,CY1217,puthukkadai
+1218,CY1218,vedaraniam
+1219,CY1219,mil nadu
+1220,CY1220,panruti
+1221,CY1221,paramathi velur
+1222,CY1222,bethelpuram
+1223,CY1223,kulasekharam
+1224,CY1224,kulithalai
+1225,CY1225,rajapalayam
+1226,CY1226,ranchi
+1227,CY1227,gumla
+1228,CY1228,lohardaga
+1229,CY1229,torpa
+1230,CY1230,khunti
+1231,CY1231,chainpur
+1232,CY1232,kolebira
+1233,CY1233,simdega
+1234,CY1234,shikohabad
+1235,CY1235,etah
+1236,CY1236,mathura
+1237,CY1237,firozabad
+1238,CY1238,mainpuri
+1239,CY1239,bhongoan
+1240,CY1240,khair
+1241,CY1241,kasganj
+1242,CY1242,vrindaban
+1243,CY1243,tundla
+1244,CY1244,hathras
+1245,CY1245,sirsaganj
+1246,CY1246,aliganj
+1247,CY1247,bajna
+1248,CY1248,patiyali
+1249,CY1249,jalesar
+1250,CY1250,sakeet etah
+1251,CY1251,sadabad
+1252,CY1252,mahamayanagar
+1253,CY1253,sidhpura
+1254,CY1254,farah mathura
+1255,CY1255,bah
+1256,CY1256,city mathura
+1257,CY1257,jasrana
+1258,CY1258,fariha
+1259,CY1259,sahawar
+1260,CY1260,bhongaon
+1261,CY1261,bhargain
+1262,CY1262,barnahal
+1263,CY1263,atrauli
+1264,CY1264,karhal
+1265,CY1265,ppal
+1266,CY1266,kurawali
+1267,CY1267,goverdhan
+1268,CY1268,raya
+1269,CY1269,eka
+1270,CY1270,aunchha
+1271,CY1271,soron
+1272,CY1272,anwalkhera
+1273,CY1273,ganjdundwara
+1274,CY1274,sikandra rao
+1275,CY1275,"mathura"""
+1276,CY1276,gabhana
+1277,CY1277,bhongaon mainpuri
+1278,CY1278,kanshiram nagar
+1279,CY1279,"sikandrarao, hathras"
+1280,CY1280,etmadpur
+1281,CY1281,vrindavan
+1282,CY1282,kosikalan
+1283,CY1283,sadbad
+1284,CY1284,nkara
+1285,CY1285,jam kalyanpur
+1286,CY1286,dhrangadhra dhrangadhra
+1287,CY1287,rajnandgaon
+1288,CY1288,bhilai
+1289,CY1289,ambikapur
+1290,CY1290,khairagarh
+1291,CY1291,raipur
+1292,CY1292,naya raipur
+1293,CY1293,narayanpur
+1294,CY1294,durg
+1295,CY1295,dantewada
+1296,CY1296,mahasamund
+1297,CY1297,kawardha
+1298,CY1298,khatpur
+1299,CY1299,jashpur nagar
+1300,CY1300,raigarh
+1301,CY1301,kanker
+1302,CY1302,pandharpur
+1303,CY1303,karmala
+1304,CY1304,mangalwedha
+1305,CY1305,jeur
+1306,CY1306,paniv
+1307,CY1307,angar
+1308,CY1308,sangola
+1309,CY1309,modnimb
+1310,CY1310,mandrup
+1311,CY1311,madha
+1312,CY1312,malshiras
+1313,CY1313,vairag
+1314,CY1314,natepute
+1315,CY1315,akkalkot
+1316,CY1316,a/p-karole
+1317,CY1317,shelve-pandharpur
+1318,CY1318,wadala
+1319,CY1319,velapur
+1320,CY1320,mohol
+1321,CY1321,limbdi
+1322,CY1322,kurduwadi
+1323,CY1323,jaunpur
+1324,CY1324,mau
+1325,CY1325,jaunpu
+1326,CY1326,handia
+1327,CY1327,bakri
+1328,CY1328,azamghar
+1329,CY1329,mau nath bhanjan
+1330,CY1330,sadat
+1331,CY1331,gahmer
+1332,CY1332,zamania
+1333,CY1333,dohrighat
+1334,CY1334,badlapur jaunpur
+1335,CY1335,kopaganj
+1336,CY1336,maryadpur
+1337,CY1337,mariahu
+1338,CY1338,aunpur
+1339,CY1339,amila
+1340,CY1340,madhuban
+1341,CY1341,shahganj
+1342,CY1342,azzmghar
+1343,CY1343,gazipur
+1344,CY1344,dubari
+1345,CY1345,tirupati
+1346,CY1346,changa
+1347,CY1347,sakoli
+1348,CY1348,ramtek
+1349,CY1349,hinganghat
+1350,CY1350,dhalegaon
+1351,CY1351,bhandara
+1352,CY1352,chandur bazar
+1353,CY1353,darwha
+1354,CY1354,paratwada
+1355,CY1355,ziro
+1356,CY1356,itanagar
+1357,CY1357,changlang
+1358,CY1358,aalo
+1359,CY1359,bomdila
+1360,CY1360,deomali
+1361,CY1361,pasighat
+1362,CY1362,seppa
+1363,CY1363,tezu
+1364,CY1364,korba
+1365,CY1365,jagdalpur
+1366,CY1366,shillong
+1367,CY1367,nongstoin
+1368,CY1368,dalu
+1369,CY1369,technocity
+1370,CY1370,jowai
+1371,CY1371,tura
+1372,CY1372,nongtalang
+1373,CY1373,new bhaitbari
+1374,CY1374,nongpoh
+1375,CY1375,khliehriat
+1376,CY1376,mawsynram
+1377,CY1377,tikrikilla
+1378,CY1378,mawkyrwat
+1379,CY1379,barddhaman
+1380,CY1380,durgapur
+1381,CY1381,kalyani
+1382,CY1382,kharagpur
+1383,CY1383,bankura
+1384,CY1384,siliguri
+1385,CY1385,asansol
+1386,CY1386,doomurjala
+1387,CY1387,midnapore
+1388,CY1388,jalpaiguri
+1389,CY1389,malda
+1390,CY1390,alipore
+1391,CY1391,koklata
+1392,CY1392,burdwan
+1393,CY1393,new
+1394,CY1394,haldia
+1395,CY1395,bardhaman
+1396,CY1396,sainthia
+1397,CY1397,jaipur
+1398,CY1398,vikravandi
+1399,CY1399,thiruninravur
+1400,CY1400,gummidipoondi
+1401,CY1401,vaodara
+1402,CY1402,thiruvllur
+1403,CY1403,vadamavandal
+1404,CY1404,sriperumbudur
+1405,CY1405,vaniayambadi
+1406,CY1406,ulundurpet
+1407,CY1407,vikiravandi
+1408,CY1408,"selaiyur , chennai"
+1409,CY1409,thiruporur
+1410,CY1410,maduranthagam
+1411,CY1411,akasampet
+1412,CY1412,kavaraipettai
+1413,CY1413,padappai
+1414,CY1414,vanur
+1415,CY1415,new raipur
+1416,CY1416,janjgir
+1417,CY1417,baikunthpur
+1418,CY1418,dhamtarii
+1419,CY1419,pantnagar
+1420,CY1420,ranichauri
+1421,CY1421,bharsar
+1422,CY1422,dimapur
+1423,CY1423,kohima
+1424,CY1424,wokha
+1425,CY1425,peren
+1426,CY1426,longleng
+1427,CY1427,zunheboto
+1428,CY1428,mokokchung
+1429,CY1429,tuensang
+1430,CY1430,pfutsero
+1431,CY1431,jalukie
+1432,CY1432,tuli
+1433,CY1433,kiphire
+1434,CY1434,mon
+1435,CY1435,kushalnagar
+1436,CY1436,mangalore city
+1437,CY1437,haleyangadi
+1438,CY1438,manipal
+1439,CY1439,bellare
+1440,CY1440,madikeri
+1441,CY1441,kodagu
+1442,CY1442,brahmavar
+1443,CY1443,virajpete
+1444,CY1444,virajpet
+1445,CY1445,vit
+1446,CY1446,mangaluru
+1447,CY1447,kalladka
+1448,CY1448,punjalakatte
+1449,CY1449,surathkal
+1450,CY1450,hebri
+1451,CY1451,b.c.road
+1452,CY1452,venoor
+1453,CY1453,kapu
+1454,CY1454,subrahmanya
+1455,CY1455,somavarpet
+1456,CY1456,gonikoppal
+1457,CY1457,barkur
+1458,CY1458,shirva
+1459,CY1459,mulki
+1460,CY1460,dumiyani
+1461,CY1461,madanthyar
+1462,CY1462,byndoor
+1463,CY1463,somwarpet
+1464,CY1464,somavarapet
+1465,CY1465,kateel
+1466,CY1466,basrur
+1467,CY1467,vijayawada
+1468,CY1468,secunderabad
+1469,CY1469,milnadu
+1470,CY1470,kodaikanal
+1471,CY1471,oddanchatram
+1472,CY1472,sonepat
+1473,CY1473,khanpurkalan
+1474,CY1474,sarupeta
+1475,CY1475,mangaldai
+1476,CY1476,lanka
+1477,CY1477,tezpur
+1478,CY1478,nalbari
+1479,CY1479,pathsala
+1480,CY1480,nagaon
+1481,CY1481,gohpur
+1482,CY1482,bijni
+1483,CY1483,barpeta
+1484,CY1484,kalabari
+1485,CY1485,gossaigaon
+1486,CY1486,ngla
+1487,CY1487,kokrajhar
+1488,CY1488,dhubri
+1489,CY1489,bengtol
+1490,CY1490,biswanath chariali
+1491,CY1491,hojai
+1492,CY1492,lumding
+1493,CY1493,bongaigaon
+1494,CY1494,morigaon
+1495,CY1495,goalpara
+1496,CY1496,salbari
+1497,CY1497,mangaldoi
+1498,CY1498,barpeta road
+1499,CY1499,patacharkuchi
+1500,CY1500,golakganj
+1501,CY1501,fakiragram
+1502,CY1502,"panbazar, guwahati"
+1503,CY1503,lakhipur
+1504,CY1504,vallabh vidhya nagar
+1505,CY1505,barama
+1506,CY1506,sapatgram
+1507,CY1507,khoirabari
+1508,CY1508,dhekiajuli
+1509,CY1509,orang
+1510,CY1510,gauripur
+1511,CY1511,sorbhog
+1512,CY1512,sipajhar
+1513,CY1513,jamugurihat
+1514,CY1514,gauhati
+1515,CY1515,momgaldoi
+1516,CY1516,tihu
+1517,CY1517,"basistha, guwahati"
+1518,CY1518,abhayapuri
+1519,CY1519,dudhnoi
+1520,CY1520,rangia
+1521,CY1521,udalguri
+1522,CY1522,doboka
+1523,CY1523,howli
+1524,CY1524,kharupetia
+1525,CY1525,mirza
+1526,CY1526,jagiroad
+1527,CY1527,sualkuchi
+1528,CY1528,nagon
+1529,CY1529,basugaon
+1530,CY1530,gauwahati
+1531,CY1531,kajagaon
+1532,CY1532,pandavapura
+1533,CY1533,chamarajanagara
+1534,CY1534,udayapura
+1535,CY1535,"halaguru, malavalli"
+1536,CY1536,arsikere
+1537,CY1537,mysuru
+1538,CY1538,belur
+1539,CY1539,maddur
+1540,CY1540,saligrama
+1541,CY1541,mysure
+1542,CY1542,malavalli
+1543,CY1543,holenarasipura
+1544,CY1544,hunsur
+1545,CY1545,srirangapatna
+1546,CY1546,besagarahalli
+1547,CY1547,k.r.pet
+1548,CY1548,nanjangud
+1549,CY1549,sakaleshpur
+1550,CY1550,gundlupet
+1551,CY1551,channarayapatna
+1552,CY1552,k.r.sagara
+1553,CY1553,c r patna
+1554,CY1554,k r nagar
+1555,CY1555,nazarbad
+1556,CY1556,gorur
+1557,CY1557,sakleshpura
+1558,CY1558,bharathinagara
+1559,CY1559,yelandur
+1560,CY1560,alur
+1561,CY1561,konanur
+1562,CY1562,periyapatna
+1563,CY1563,"periyapatna, mysore"
+1564,CY1564,t.narasipur
+1565,CY1565,k.r nagar
+1566,CY1566,k.r. nagara
+1567,CY1567,channaraypatna
+1568,CY1568,hanagodu
+1569,CY1569,arakalagudu
+1570,CY1570,hanur
+1571,CY1571,kirugavalu
+1572,CY1572,banavara
+1573,CY1573,koppa
+1574,CY1574,arasikere
+1575,CY1575,krishnarajapet
+1576,CY1576,new v v nagar
+1577,CY1577,halebeedu
+1578,CY1578,hetture
+1579,CY1579,rapur
+1580,CY1580,abhaypur
+1581,CY1581,bhagalpur
+1582,CY1582,munger
+1583,CY1583,kahalgaon
+1584,CY1584,jhajha
+1585,CY1585,khagaria
+1586,CY1586,sheikhpura
+1587,CY1587,jamalpur
+1588,CY1588,banka
+1589,CY1589,jamui
+1590,CY1590,barbigha
+1591,CY1591,naugachia
+1592,CY1592,barhiya
+1593,CY1593,haveli kharagpur
+1594,CY1594,parbatta
+1595,CY1595,rajoun
+1596,CY1596,lakhisarai
+1597,CY1597,hiriyur
+1598,CY1598,harapnahalli
+1599,CY1599,holalkere
+1600,CY1600,harapanahalli
+1601,CY1601,malladihalli
+1602,CY1602,honnali
+1603,CY1603,davanagere
+1604,CY1604,harihar
+1605,CY1605,harihara
+1606,CY1606,jagalur
+1607,CY1607,channagiri
+1608,CY1608,mahemdabad
+1609,CY1609,challakere
+1610,CY1610,chithradurga
+1611,CY1611,santebennuru
+1612,CY1612,hosadurga
+1613,CY1613,bharamasagara
+1614,CY1614,mayakonda
+1615,CY1615,"hiriyur, chitradurga"
+1616,CY1616,nyamathi
+1617,CY1617,nayakanahatti
+1618,CY1618,shankaraghatta
+1619,CY1619,rikere
+1620,CY1620,"ajjampura, tarikere"
+1621,CY1621,bhadravathi
+1622,CY1622,rikere t
+1623,CY1623,sagar
+1624,CY1624,shiralakoppa
+1625,CY1625,thirthahalli
+1626,CY1626,konandur
+1627,CY1627,shikaripura
+1628,CY1628,narasimharajapura
+1629,CY1629,hosanagara
+1630,CY1630,panchnahalli
+1631,CY1631,shvaimoga
+1632,CY1632,birur
+1633,CY1633,sringeri
+1634,CY1634,chickmagalur
+1635,CY1635,shiralkoppa
+1636,CY1636,anavatti
+1637,CY1637,chickmaglur
+1638,CY1638,sorab
+1639,CY1639,kaduru
+1640,CY1640,"yagati, kadur"
+1641,CY1641,anandapuram
+1642,CY1642,kadur
+1643,CY1643,mudigere
+1644,CY1644,daman
+1645,CY1645,rajpipla
+1646,CY1646,narmada
+1647,CY1647,vyara
+1648,CY1648,umargam
+1649,CY1649,visakhapatnam
+1650,CY1650,markapur
+1651,CY1651,kesanupalli
+1652,CY1652,mylavaram
+1653,CY1653,ongole
+1654,CY1654,bhimavaram
+1655,CY1655,tenali
+1656,CY1656,mallampudi
+1657,CY1657,koyyalagudem
+1658,CY1658,jangareddigudem
+1659,CY1659,guntur
+1660,CY1660,ibrahimpatnam
+1661,CY1661,vizianagaram
+1662,CY1662,tuni
+1663,CY1663,macherla
+1664,CY1664,chirala
+1665,CY1665,"vijayawada, krishna"
+1666,CY1666,narasaraopet
+1667,CY1667,palasa
+1668,CY1668,bobbili
+1669,CY1669,depalligudem
+1670,CY1670,chebrolu
+1671,CY1671,kakinada
+1672,CY1672,rajahmundry
+1673,CY1673,peddapuram
+1674,CY1674,eluru
+1675,CY1675,gudlavalleru
+1676,CY1676,ponnur
+1677,CY1677,surampalem
+1678,CY1678,chilakaluripet
+1679,CY1679,rajam
+1680,CY1680,visakhaptnam
+1681,CY1681,tiruvuru
+1682,CY1682,agripalli
+1683,CY1683,srikakulam
+1684,CY1684,hanuman
+1685,CY1685,ramachandrapuram
+1686,CY1686,podili
+1687,CY1687,"paritala, kanchikacherla"
+1688,CY1688,inkollu
+1689,CY1689,kandukur
+1690,CY1690,vissannapeta
+1691,CY1691,korangi
+1692,CY1692,bhogapuram
+1693,CY1693,navrangpura
+1694,CY1694,"adalaj,gandhinagar"
+1695,CY1695,singarayakonda
+1696,CY1696,vadlamudi
+1697,CY1697,surampalli
+1698,CY1698,telaprolu
+1699,CY1699,nuzvid
+1700,CY1700,rampachodavaram
+1701,CY1701,pedana
+1702,CY1702,rajahhmundry
+1703,CY1703,nallajerla
+1704,CY1704,kakinanada
+1705,CY1705,addanki
+1706,CY1706,narsapur
+1707,CY1707,jaggayyapet
+1708,CY1708,amalapuram
+1709,CY1709,odalarevu
+1710,CY1710,kanchikacherla
+1711,CY1711,nuku
+1712,CY1712,mummidivraram
+1713,CY1713,palakol
+1714,CY1714,chmakurthy
+1715,CY1715,jaggayyapeta
+1716,CY1716,tekkali
+1717,CY1717,prathipadu
+1718,CY1718,gudivada
+1719,CY1719,satuluru
+1720,CY1720,kanigiri
+1721,CY1721,etcherla
+1722,CY1722,sattenapalli
+1723,CY1723,makapur
+1724,CY1724,batlapalem
+1725,CY1725,lankapalli
+1726,CY1726,narsipatnam
+1727,CY1727,bestavaripeta
+1728,CY1728,nandigama
+1729,CY1729,prakasam
+1730,CY1730,markapuram
+1731,CY1731,bapatla
+1732,CY1732,tumsar
+1733,CY1733,chimur
+1734,CY1734,sawargaon
+1735,CY1735,bramhapuri
+1736,CY1736,katol
+1737,CY1737,koradi
+1738,CY1738,chopa
+1739,CY1739,seloo
+1740,CY1740,mul
+1741,CY1741,gadchiroli
+1742,CY1742,ashti
+1743,CY1743,chamorshi
+1744,CY1744,sindi rly
+1745,CY1745,butibori
+1746,CY1746,at- gadchandur
+1747,CY1747,nagbhid
+1748,CY1748,dhanora
+1749,CY1749,bhusawal
+1750,CY1750,bhadrawati
+1751,CY1751,warora
+1752,CY1752,pombhurna
+1753,CY1753,ballarpur
+1754,CY1754,armori
+1755,CY1755,lakhandur
+1756,CY1756,pauni
+1757,CY1757,lodhi
+1758,CY1758,bela
+1759,CY1759,umrer
+1760,CY1760,umred
+1761,CY1761,saoner
+1762,CY1762,sadak arjuni
+1763,CY1763,gondpipri
+1764,CY1764,kondha-kosra
+1765,CY1765,kondha
+1766,CY1766,desaiganj
+1767,CY1767,sironcha
+1768,CY1768,narkhed
+1769,CY1769,sihora
+1770,CY1770,deori
+1771,CY1771,nagapur
+1772,CY1772,parseoni
+1773,CY1773,ghugus
+1774,CY1774,amgaon
+1775,CY1775,saoli
+1776,CY1776,lunawada
+1777,CY1777,samudrapur
+1778,CY1778,lakhani
+1779,CY1779,sangadi
+1780,CY1780,bhiwapur
+1781,CY1781,mandhal
+1782,CY1782,salekasa
+1783,CY1783,rajura
+1784,CY1784,arvi
+1785,CY1785,aheri
+1786,CY1786,hardoli
+1787,CY1787,goregaon
+1788,CY1788,kalmeshwer
+1789,CY1789,kurkheda
+1790,CY1790,kuhi
+1791,CY1791,korchi
+1792,CY1792,kalmeshwar
+1793,CY1793,pavni
+1794,CY1794,pulgaon
+1795,CY1795,kamptee
+1796,CY1796,arjuni
+1797,CY1797,vadner
+1798,CY1798,palandur
+1799,CY1799,khaperkheda
+1800,CY1800,mulchera
+1801,CY1801,allapalli
+1802,CY1802,rohana
+1803,CY1803,gondiya
+1804,CY1804,at- vyahad khurd
+1805,CY1805,pachkhedi
+1806,CY1806,gondiaya
+1807,CY1807,nawegaon/bandh
+1808,CY1808,saomer
+1809,CY1809,nanda
+1810,CY1810,chandrpapur
+1811,CY1811,thugaondeo
+1812,CY1812,dasgaon
+1813,CY1813,bhisi
+1814,CY1814,vairagad
+1815,CY1815,nagpur city
+1816,CY1816,vadnagar
+1817,CY1817,mouda
+1818,CY1818,ekodi
+1819,CY1819,hingangaht
+1820,CY1820,jiwati
+1821,CY1821,kosra
+1822,CY1822,etapalli
+1823,CY1823,legaon
+1824,CY1824,gadchandur
+1825,CY1825,chadrapur
+1826,CY1826,sindewahi
+1827,CY1827,sadak/arjuni
+1828,CY1828,sadak arjini
+1829,CY1829,at-kosra-kondha
+1830,CY1830,korpana
+1831,CY1831,warthi
+1832,CY1832,hingna
+1833,CY1833,nawargaon
+1834,CY1834,bothali
+1835,CY1835,at-ashti
+1836,CY1836,khairi - bijewada
+1837,CY1837,mohadi
+1838,CY1838,borgaon
+1839,CY1839,ballarupr
+1840,CY1840,kondhali
+1841,CY1841,karanja ghadge
+1842,CY1842,mowad
+1843,CY1843,soundad
+1844,CY1844,sewagram
+1845,CY1845,veltur
+1846,CY1846,ngpur
+1847,CY1847,brahmapuri
+1848,CY1848,nagur
+1849,CY1849,vaishali
+1850,CY1850,hajipur
+1851,CY1851,sitamarhi
+1852,CY1852,champaran
+1853,CY1853,mahua
+1854,CY1854,bettiah
+1855,CY1855,motihari
+1856,CY1856,areraj
+1857,CY1857,narkatiaganj
+1858,CY1858,raxaul
+1859,CY1859,"bara chakia, motihari"
+1860,CY1860,dayalpur
+1861,CY1861,jhargram
+1862,CY1862,mluk
+1863,CY1863,panskura
+1864,CY1864,gha
+1865,CY1865,chandrakona road
+1866,CY1866,maligram
+1867,CY1867,silda
+1868,CY1868,purba medinipur
+1869,CY1869,goaltore
+1870,CY1870,contai
+1871,CY1871,khejuri
+1872,CY1872,dantan
+1873,CY1873,garhbeta
+1874,CY1874,nandigram
+1875,CY1875,chandrakona
+1876,CY1876,"nazir bazar, purba medinipur"
+1877,CY1877,west medinipur
+1878,CY1878,mahishadal
+1879,CY1879,paschim medinipur
+1880,CY1880,debra
+1881,CY1881,midnapur
+1882,CY1882,kolaghat
+1883,CY1883,not
+1884,CY1884,chaipat
+1885,CY1885,egra
+1886,CY1886,manikpara
+1887,CY1887,lutunia
+1888,CY1888,gariyaband
+1889,CY1889,sausar
+1890,CY1890,chhatarpur
+1891,CY1891,dumra
+1892,CY1892,"jaisinagar,sagar"
+1893,CY1893,chhindwara
+1894,CY1894,damoh
+1895,CY1895,niwari
+1896,CY1896,panna
+1897,CY1897,maharajpur
+1898,CY1898,bina
+1899,CY1899,lavkushnagar
+1900,CY1900,khurai
+1901,CY1901,devendra nagar
+1902,CY1902,dhana
+1903,CY1903,pandhurna
+1904,CY1904,lavkush nagar
+1905,CY1905,ghuwara
+1906,CY1906,parasiya
+1907,CY1907,hatta
+1908,CY1908,patharia
+1909,CY1909,tikamgarh
+1910,CY1910,nowgong
+1911,CY1911,banda
+1912,CY1912,parasia
+1913,CY1913,amarwara
+1914,CY1914,jatara
+1915,CY1915,mia
+1916,CY1916,harpalpur
+1917,CY1917,palera
+1918,CY1918,tendukheda
+1919,CY1919,amanganj
+1920,CY1920,bijawar
+1921,CY1921,damua
+1922,CY1922,junnardeo
+1923,CY1923,shahnagar
+1924,CY1924,devendranagar
+1925,CY1925,jabera
+1926,CY1926,rehli
+1927,CY1927,chourai
+1928,CY1928,"amarmou, shahgarh"
+1929,CY1929,rajnagar
+1930,CY1930,prithvipur
+1931,CY1931,badamalhara
+1932,CY1932,malthone
+1933,CY1933,ajaigarh
+1934,CY1934,rahatgarh
+1935,CY1935,kesli
+1936,CY1936,lodhikheda
+1937,CY1937,pawai
+1938,CY1938,gannaur
+1939,CY1939,gohana
+1940,CY1940,supasi
+1941,CY1941,dharpur-patan
+1942,CY1942,noida
+1943,CY1943,kota
+1944,CY1944,hindaun city
+1945,CY1945,bundi
+1946,CY1946,sawai madhopur
+1947,CY1947,baran
+1948,CY1948,nadauti
+1949,CY1949,aklera
+1950,CY1950,jhalawar
+1951,CY1951,lakheri
+1952,CY1952,gangapurcity
+1953,CY1953,anta
+1954,CY1954,ramganjmandi
+1955,CY1955,todabhim
+1956,CY1956,karauli
+1957,CY1957,bhawani mandi
+1958,CY1958,gangapur city
+1959,CY1959,bhawanimandi
+1960,CY1960,itawa
+1961,CY1961,sangod
+1962,CY1962,hindoli
+1963,CY1963,chhipabarod
+1964,CY1964,kelwara
+1965,CY1965,bonli
+1966,CY1966,shri mahaveer ji
+1967,CY1967,dug
+1968,CY1968,sawaimadhopur
+1969,CY1969,khanpur
+1970,CY1970,kapren
+1971,CY1971,nainwan
+1972,CY1972,ramganj mandi
+1973,CY1973,chhabra
+1974,CY1974,gopalganj
+1975,CY1975,chapra
+1976,CY1976,hathwa
+1977,CY1977,mairwa
+1978,CY1978,bardoli
+1979,CY1979,sathupally mdl
+1980,CY1980,karimnagar
+1981,CY1981,patancheru
+1982,CY1982,nalgonda
+1983,CY1983,medak
+1984,CY1984,sangareddy
+1985,CY1985,bhongir
+1986,CY1986,ranga reddy
+1987,CY1987,jangoan
+1988,CY1988,kodad
+1989,CY1989,nizamabad
+1990,CY1990,godavarikhani
+1991,CY1991,madhira
+1992,CY1992,mahabubnagar
+1993,CY1993,secundera bad
+1994,CY1994,khammam
+1995,CY1995,abdulapurmet
+1996,CY1996,kothapally
+1997,CY1997,"chilkur, moinabad , r.r r"
+1998,CY1998,warangal
+1999,CY1999,narsampet
+2000,CY2000,chevella
+2001,CY2001,ghatkesar
+2002,CY2002,deshmukhi
+2003,CY2003,pocharam
+2004,CY2004,rangareddy
+2005,CY2005,ibrahimpatanam
+2006,CY2006,suryapet
+2007,CY2007,hayathnagar
+2008,CY2008,boduppal
+2009,CY2009,grater hyderabad
+2010,CY2010,hyderaabd
+2011,CY2011,karepalli
+2012,CY2012,venkatraopally
+2013,CY2013,ramoji film city
+2014,CY2014,paloncha
+2015,CY2015,jangaon
+2016,CY2016,shabad
+2017,CY2017,peddapalli
+2018,CY2018,r.r
+2019,CY2019,peddapally
+2020,CY2020,hanamakonda
+2021,CY2021,"sheriguda, ibrahimpatnam"
+2022,CY2022,devarakonda
+2023,CY2023,"gunthapally, hayathnagar"
+2024,CY2024,pregnapur
+2025,CY2025,hydrabad
+2026,CY2026,hanamkonda
+2027,CY2027,moinabad
+2028,CY2028,kazipet
+2029,CY2029,"muqdumpuram,chennaraopet"
+2030,CY2030,palvoncha
+2031,CY2031,armoor
+2032,CY2032,pochampally
+2033,CY2033,vikarabad
+2034,CY2034,"centenary colony, ramagiri"
+2035,CY2035,"rajapet, wanaparthy"
+2036,CY2036,gajwel
+2037,CY2037,medchal
+2038,CY2038,kuppenakuntla -v
+2039,CY2039,"nachupally , kodimial"
+2040,CY2040,seunderabad
+2041,CY2041,kammam
+2042,CY2042,kothagudem
+2043,CY2043,shamshabad
+2044,CY2044,kondapak
+2045,CY2045,rangareddi
+2046,CY2046,medchal-malkajgiri
+2047,CY2047,huzurabad
+2048,CY2048,siddipet
+2049,CY2049,"deshmukhi, pochampalli"
+2050,CY2050,mulkalla mancherial
+2051,CY2051,khairatabad
+2052,CY2052,adilabad
+2053,CY2053,mahewa
+2054,CY2054,gaziabad
+2055,CY2055,faizabad
+2056,CY2056,gwalikhera
+2057,CY2057,sultanpur
+2058,CY2058,ghaziabad
+2059,CY2059,raniganj
+2060,CY2060,badalapur
+2061,CY2061,khekra
+2062,CY2062,ambedkar nagar
+2063,CY2063,pratapgarh
+2064,CY2064,sarai akil
+2065,CY2065,kherva - mehsana
+2066,CY2066,chitrakoot
+2067,CY2067,orai
+2068,CY2068,jalaun
+2069,CY2069,sant ravidas nagar bhadohi
+2070,CY2070,pharenda
+2071,CY2071,rath
+2072,CY2072,gunnaur
+2073,CY2073,gonda
+2074,CY2074,patti pratapgarh
+2075,CY2075,"madhuban, mau"
+2076,CY2076,khalilabad sant kabir nagar
+2077,CY2077,anoopshahr
+2078,CY2078,sikanderpur
+2079,CY2079,mharajganj
+2080,CY2080,karwi- chitrakoot
+2081,CY2081,danghata
+2082,CY2082,jhalokhar
+2083,CY2083,sakaldiha
+2084,CY2084,nda
+2085,CY2085,sonbhadra
+2086,CY2086,bhatni
+2087,CY2087,azamagrh
+2088,CY2088,pratapgargh
+2089,CY2089,sulatanpur
+2090,CY2090,"tejibazar, jaunpur"
+2091,CY2091,barasana
+2092,CY2092,bahraich
+2093,CY2093,naimisharanya
+2094,CY2094,kaushambhi
+2095,CY2095,rudauli
+2096,CY2096,azamagarh
+2097,CY2097,muradabad
+2098,CY2098,aurai
+2099,CY2099,chilhiya
+2100,CY2100,barabanki
+2101,CY2101,sujanganj
+2102,CY2102,vijapur
+2103,CY2103,ayodhya
+2104,CY2104,saharanpur
+2105,CY2105,ambedkarnagar
+2106,CY2106,hapur
+2107,CY2107,khurja
+2108,CY2108,balrampur
+2109,CY2109,vrindavan mathura
+2110,CY2110,sikadarpur
+2111,CY2111,shahjhanpur
+2112,CY2112,kirthal
+2113,CY2113,mahoba
+2114,CY2114,bela mavai
+2115,CY2115,meerut
+2116,CY2116,matar
+2117,CY2117,govardhan
+2118,CY2118,sidharth nagar
+2119,CY2119,dalmau
+2120,CY2120,chitrakoot dham karwi
+2121,CY2121,mehdawal
+2122,CY2122,suriyawa
+2123,CY2123,saheswan
+2124,CY2124,kalpi
+2125,CY2125,hathrash
+2126,CY2126,kgf
+2127,CY2127,kanakapura
+2128,CY2128,marathalli
+2129,CY2129,"horamvu, banaswadi bangalore"
+2130,CY2130,anekal
+2131,CY2131,bangarpet
+2132,CY2132,devanahalli
+2133,CY2133,harohalli
+2134,CY2134,chickaballapur
+2135,CY2135,chintamani
+2136,CY2136,banglore
+2137,CY2137,ramanagar
+2138,CY2138,gauribidanur
+2139,CY2139,bengalooru
+2140,CY2140,shidlaghatta
+2141,CY2141,indiranagar
+2142,CY2142,hoskote
+2143,CY2143,"horamauv, banaswadi"
+2144,CY2144,bangaluru
+2145,CY2145,malur
+2146,CY2146,thyamagondlu
+2147,CY2147,mulbagal
+2148,CY2148,shivajinagar
+2149,CY2149,dodballapur
+2150,CY2150,bidadi
+2151,CY2151,banaglore
+2152,CY2152,bangalaore
+2153,CY2153,k.g.f
+2154,CY2154,bangaruthirupathi
+2155,CY2155,bangaore
+2156,CY2156,banagalore
+2157,CY2157,kim
+2158,CY2158,peenya nd stage
+2159,CY2159,srinivasapur
+2160,CY2160,"byrapalli, srinivaspur"
+2161,CY2161,bagepalli
+2162,CY2162,chikkaballapura
+2163,CY2163,doddaballapura
+2164,CY2164,tharad
+2165,CY2165,kichha
+2166,CY2166,haldwani
+2167,CY2167,muni ki reti
+2168,CY2168,roorkee
+2169,CY2169,rudrapur
+2170,CY2170,dehraddun
+2171,CY2171,ranikhet
+2172,CY2172,kashipur
+2173,CY2173,haridwar
+2174,CY2174,tehri garhwal
+2175,CY2175,roorlee
+2176,CY2176,bhim
+2177,CY2177,rishikesh
+2178,CY2178,pithoragarh
+2179,CY2179,pauri garhwal
+2180,CY2180,dhamnagar
+2181,CY2181,bhadrak
+2182,CY2182,balasore
+2183,CY2183,baleshwar
+2184,CY2184,basudevpur
+2185,CY2185,markona
+2186,CY2186,baleswar
+2187,CY2187,naikanidihi
+2188,CY2188,soro
+2189,CY2189,barikpur
+2190,CY2190,basudev pur
+2191,CY2191,chandbali
+2192,CY2192,bhogarai
+2193,CY2193,balsore
+2194,CY2194,jaleswar
+2195,CY2195,baliapal
+2196,CY2196,srinagar
+2197,CY2197,baramulla
+2198,CY2198,pulwama
+2199,CY2199,kulgam
+2200,CY2200,anantnag
+2201,CY2201,handwara
+2202,CY2202,dooru
+2203,CY2203,kargil
+2204,CY2204,ngdhar
+2205,CY2205,sopore
+2206,CY2206,tral
+2207,CY2207,budgam
+2208,CY2208,ganderbal
+2209,CY2209,kashmir
+2210,CY2210,kilam
+2211,CY2211,leh
+2212,CY2212,jagi
+2213,CY2213,vemulawada
+2214,CY2214,husnabad
+2215,CY2215,jagtial
+2216,CY2216,metpally
+2217,CY2217,valbhapur
+2218,CY2218,manthani
+2219,CY2219,jammikunta
+2220,CY2220,piludara
+2221,CY2221,ramagudnam
+2222,CY2222,sircilla
+2223,CY2223,dharmaram
+2224,CY2224,kalvasrirampur
+2225,CY2225,koratla
+2226,CY2226,raikal
+2227,CY2227,pedapalli
+2228,CY2228,choppadandi
+2229,CY2229,gangadhara
+2230,CY2230,mulkanoor
+2231,CY2231,karimngar
+2232,CY2232,kamanpur
+2233,CY2233,kasulapalli
+2234,CY2234,centenary colony
+2235,CY2235,sulthanabad
+2236,CY2236,mahadevpur
+2237,CY2237,mustabad
+2238,CY2238,rekurthy
+2239,CY2239,jagityal
+2240,CY2240,ramagundam
+2241,CY2241,korutla
+2242,CY2242,nagari-sihawa
+2243,CY2243,ghumka
+2244,CY2244,basna
+2245,CY2245,kasdol
+2246,CY2246,rajim
+2247,CY2247,kurud
+2248,CY2248,nagri
+2249,CY2249,chhura
+2250,CY2250,dongargarh
+2251,CY2251,gariaband
+2252,CY2252,gurur
+2253,CY2253,bhilai nagar
+2254,CY2254,dahod
+2255,CY2255,dhamtari
+2256,CY2256,lalbahadur nagar
+2257,CY2257,nawagarh
+2258,CY2258,dondi lohara
+2259,CY2259,deobhog
+2260,CY2260,pallari
+2261,CY2261,saraipali
+2262,CY2262,kumhari
+2263,CY2263,balod
+2264,CY2264,bhatgaon
+2265,CY2265,arjunda
+2266,CY2266,baloda bazar
+2267,CY2267,dhamdha
+2268,CY2268,bagbahara
+2269,CY2269,dondi
+2270,CY2270,bemetara
+2271,CY2271,arang
+2272,CY2272,nawapara
+2273,CY2273,ambagarh chowki
+2274,CY2274,kopra
+2275,CY2275,berla
+2276,CY2276,bhatapara
+2277,CY2277,pithora
+2278,CY2278,dallirajhara
+2279,CY2279,tilda
+2280,CY2280,kharo road tilda
+2281,CY2281,ahiwara
+2282,CY2282,kalol
+2283,CY2283,jashpur
+2284,CY2284,khertha
+2285,CY2285,tilda-neora
+2286,CY2286,sahaspur lohara
+2287,CY2287,lawan
+2288,CY2288,dongargaon
+2289,CY2289,balodabazar
+2290,CY2290,abhanpur
+2291,CY2291,manpur
+2292,CY2292,bilaigarh
+2293,CY2293,anjora durg
+2294,CY2294,dwarahat
+2295,CY2295,kanda
+2296,CY2296,berinag
+2297,CY2297,jaspur
+2298,CY2298,munsyari
+2299,CY2299,garur
+2300,CY2300,bhikiyasen
+2301,CY2301,banabasa
+2302,CY2302,almora
+2303,CY2303,sitarganj
+2304,CY2304,champawat
+2305,CY2305,garudabanj
+2306,CY2306,naini
+2307,CY2307,lohaghat
+2308,CY2308,u.s.nagar
+2309,CY2309,someshwar
+2310,CY2310,nakpur
+2311,CY2311,nanak matta
+2312,CY2312,bazpur
+2313,CY2313,bageshwar
+2314,CY2314,khatima
+2315,CY2315,gangolihat
+2316,CY2316,manila
+2317,CY2317,dharchula
+2318,CY2318,hsil - kaladungi
+2319,CY2319,achampet
+2320,CY2320,wanaparthy
+2321,CY2321,narayanpet
+2322,CY2322,kollapur
+2323,CY2323,kalwakurthy
+2324,CY2324,hanwada
+2325,CY2325,shadnagar
+2326,CY2326,kodangal
+2327,CY2327,kothakota
+2328,CY2328,nagar kurnool
+2329,CY2329,jadcherla
+2330,CY2330,makthal
+2331,CY2331,telkapally
+2332,CY2332,nagarkurnool
+2333,CY2333,mahbubnagar
+2334,CY2334,atmakur
+2335,CY2335,dharmapoor
+2336,CY2336,amrabad
+2337,CY2337,gadwal
+2338,CY2338,bhuj
+2339,CY2339,"hadala,rajkot"
+2340,CY2340,ieeja
+2341,CY2341,marikal
+2342,CY2342,devarakadra
+2343,CY2343,"nagasala, jadcherla"
+2344,CY2344,kadthal
+2345,CY2345,pebbair
+2346,CY2346,bijinapally
+2347,CY2347,jogulamba gadwal
+2348,CY2348,nawabpet
+2349,CY2349,koilkonda
+2350,CY2350,nellore
+2351,CY2351,gannavaram
+2352,CY2352,proddatur
+2353,CY2353,kodur
+2354,CY2354,abhipur
+2355,CY2355,samana
+2356,CY2356,dhuri
+2357,CY2357,amloh
+2358,CY2358,chamkaur sahib
+2359,CY2359,ramgarh
+2360,CY2360,mansa
+2361,CY2361,chural kalan
+2362,CY2362,sardargarh
+2363,CY2363,dirba
+2364,CY2364,lehragaga
+2365,CY2365,bhikhi
+2366,CY2366,malerkotla
+2367,CY2367,lwandi sabo
+2368,CY2368,kotkapura
+2369,CY2369,nayanangal
+2370,CY2370,bareta
+2371,CY2371,moonak
+2372,CY2372,bhatinda
+2373,CY2373,nabha
+2374,CY2374,bajakhana
+2375,CY2375,gharuan
+2376,CY2376,morinda
+2377,CY2377,jhunir
+2378,CY2378,bassi pathana
+2379,CY2379,sunam
+2380,CY2380,sanghol
+2381,CY2381,goniana mandi
+2382,CY2382,rampura phul
+2383,CY2383,bhadaur
+2384,CY2384,jaitu
+2385,CY2385,sas nagar mohali
+2386,CY2386,ahmedgarh
+2387,CY2387,sandaur
+2388,CY2388,maur mandi
+2389,CY2389,bhwanigarh
+2390,CY2390,sadiq
+2391,CY2391,bassi pathanan
+2392,CY2392,jaito
+2393,CY2393,brnala
+2394,CY2394,raman
+2395,CY2395,nurpur bedi
+2396,CY2396,llewal
+2397,CY2397,kurali
+2398,CY2398,sarulgarh
+2399,CY2399,marwahi
+2400,CY2400,baloda
+2401,CY2401,dabhara
+2402,CY2402,dipika
+2403,CY2403,seepat
+2404,CY2404,adipur
+2405,CY2405,rahod
+2406,CY2406,pamgarh
+2407,CY2407,mungeli
+2408,CY2408,katghora
+2409,CY2409,pendra
+2410,CY2410,jaijaipur
+2411,CY2411,sakti
+2412,CY2412,pendraroad
+2413,CY2413,kharod
+2414,CY2414,sariya
+2415,CY2415,baradwar
+2416,CY2416,champa
+2417,CY2417,sheorinarayan
+2418,CY2418,sarangarh
+2419,CY2419,hasoud
+2420,CY2420,kharsia
+2421,CY2421,dharamjaygarh
+2422,CY2422,malkharoda
+2423,CY2423,masturi
+2424,CY2424,akaltara
+2425,CY2425,pendra road
+2426,CY2426,bilha
+2427,CY2427,balauda
+2428,CY2428,sargaon
+2429,CY2429,lormi
+2430,CY2430,nagarpanchayat baloda
+2431,CY2431,lailunga
+2432,CY2432,sirsa
+2433,CY2433,"dhani bachan singh, ellenabad"
+2434,CY2434,fatehabad
+2435,CY2435,ellenabad
+2436,CY2436,bhuna
+2437,CY2437,odhan
+2438,CY2438,tohana
+2439,CY2439,kalanwali
+2440,CY2440,ratia
+2441,CY2441,dabwali
+2442,CY2442,mandi dabwali
+2443,CY2443,sri jiwan nagar
+2444,CY2444,new delhi
+2445,CY2445,delhi
+2446,CY2446,south delhi
+2447,CY2447,ladnun
+2448,CY2448,charkhari
+2449,CY2449,biwar
+2450,CY2450,baberu
+2451,CY2451,lalitpur
+2452,CY2452,konch
+2453,CY2453,samthar
+2454,CY2454,poonchh
+2455,CY2455,mauranipur
+2456,CY2456,gursarai
+2457,CY2457,moth
+2458,CY2458,maudaha
+2459,CY2459,gohan
+2460,CY2460,kuthond
+2461,CY2461,agarahunda
+2462,CY2462,karwi chitrakoot
+2463,CY2463,naraini
+2464,CY2464,kamasin
+2465,CY2465,mahroni
+2466,CY2466,jagammanpur
+2467,CY2467,rajapur
+2468,CY2468,garautha
+2469,CY2469,manikpur
+2470,CY2470,kulpahad
+2471,CY2471,karwi
+2472,CY2472,madhaugarh
+2473,CY2473,lbehat
+2474,CY2474,chirgaon
+2475,CY2475,bhandu
+2476,CY2476,badausa
+2477,CY2477,kharela
+2478,CY2478,sonapur
+2479,CY2479,thannamandi
+2480,CY2480,kathua
+2481,CY2481,samba
+2482,CY2482,jammu
+2483,CY2483,nowshera
+2484,CY2484,vijaypur
+2485,CY2485,j&k
+2486,CY2486,udhampur
+2487,CY2487,"lakhanpur, kathua"
+2488,CY2488,akhnoor
+2489,CY2489,rajouri
+2490,CY2490,mendhar
+2491,CY2491,doda
+2492,CY2492,bhaderwah
+2493,CY2493,budhal
+2494,CY2494,banihal
+2495,CY2495,poonch
+2496,CY2496,reasi
+2497,CY2497,kishtwar
+2498,CY2498,bishnah
+2499,CY2499,ramban
+2500,CY2500,bari brahmana
+2501,CY2501,bani
+2502,CY2502,chatroo
+2503,CY2503,basohli
+2504,CY2504,billawar
+2505,CY2505,bhallesa
+2506,CY2506,sunderbani
+2507,CY2507,dharmari
+2508,CY2508,katra
+2509,CY2509,puri
+2510,CY2510,bhubneswar
+2511,CY2511,sundargarh
+2512,CY2512,balangir
+2513,CY2513,anugul
+2514,CY2514,khallikote
+2515,CY2515,cuttack
+2516,CY2516,berhampur
+2517,CY2517,goblaj
+2518,CY2518,balasinor
+2519,CY2519,seethanagaram
+2520,CY2520,parvatipuram
+2521,CY2521,anakapalle
+2522,CY2522,anakapalli
+2523,CY2523,visakhapatnm
+2524,CY2524,gopalapuram
+2525,CY2525,mandapeta
+2526,CY2526,ravulapalem
+2527,CY2527,chittoor
+2528,CY2528,penugonda
+2529,CY2529,devarapalli
+2530,CY2530,unguturu
+2531,CY2531,bheemii
+2532,CY2532,garividi
+2533,CY2533,nathavaram
+2534,CY2534,p gannavaram
+2535,CY2535,vishakhapatnam
+2536,CY2536,parvathipuram
+2537,CY2537,vellivennu
+2538,CY2538,u.kothapalli
+2539,CY2539,rajamahendravaram
+2540,CY2540,malikipuram
+2541,CY2541,vizianagarm
+2542,CY2542,nellimarla
+2543,CY2543,visakahaptnam
+2544,CY2544,vadasma
+2545,CY2545,rajavommangi
+2546,CY2546,mukteswaram
+2547,CY2547,kothapeta
+2548,CY2548,rajanajaram
+2549,CY2549,k perumallapuram
+2550,CY2550,gajuwaka
+2551,CY2551,gajapathinagarm
+2552,CY2552,atreyapuram
+2553,CY2553,chodavaram
+2554,CY2554,rzole
+2555,CY2555,kirlampudi
+2556,CY2556,yeleswaram
+2557,CY2557,chintalapudi
+2558,CY2558,nidadavole
+2559,CY2559,sakhinetipalli
+2560,CY2560,vijayarai
+2561,CY2561,narasapur
+2562,CY2562,jangareddygudem
+2563,CY2563,srungavarapukota
+2564,CY2564,"pippara,ganapavaram"
+2565,CY2565,valia
+2566,CY2566,rayavaram
+2567,CY2567,atchutapuram
+2568,CY2568,vizinagaram
+2569,CY2569,srungavarapu kota
+2570,CY2570,jangareddy gudem
+2571,CY2571,andhra pradesh
+2572,CY2572,pithapuram
+2573,CY2573,golugonga
+2574,CY2574,attili
+2575,CY2575,yellamanchili
+2576,CY2576,kamavarapukota
+2577,CY2577,jami
+2578,CY2578,ganapavaram
+2579,CY2579,payakaraopeta
+2580,CY2580,buttayagudem
+2581,CY2581,kottavalasa
+2582,CY2582,llapudi
+2583,CY2583,pedagummuluru so
+2584,CY2584,paderu
+2585,CY2585,salur
+2586,CY2586,bheemunipatanam mendal
+2587,CY2587,gokavaram
+2588,CY2588,maruteru
+2589,CY2589,annavaram
+2590,CY2590,visakahapatnam
+2591,CY2591,gollala mamidada
+2592,CY2592,seetanagaram
+2593,CY2593,gajapathinagaram
+2594,CY2594,samisragudem
+2595,CY2595,s.kota
+2596,CY2596,veeravasaram
+2597,CY2597,madhurawada
+2598,CY2598,ambajipeta
+2599,CY2599,kothavalasa
+2600,CY2600,mummidivaram
+2601,CY2601,kapavaram
+2602,CY2602,razole
+2603,CY2603,achanta
+2604,CY2604,addateegala
+2605,CY2605,gantyada
+2606,CY2606,jaggampeta
+2607,CY2607,waltair
+2608,CY2608,janga reddy gurem
+2609,CY2609,"royapeta, narsapur"
+2610,CY2610,anaparthi
+2611,CY2611,sabbavaram
+2612,CY2612,penumantra
+2613,CY2613,badangi
+2614,CY2614,pedamerangi
+2615,CY2615,draksharama
+2616,CY2616,samalkot
+2617,CY2617,bhimadolu
+2618,CY2618,cheepurupalli
+2619,CY2619,kamvarapukota
+2620,CY2620,nagaram
+2621,CY2621,gummalaksmi puram
+2622,CY2622,angara
+2623,CY2623,dumpagadapa
+2624,CY2624,anantapur
+2625,CY2625,balijipeta
+2626,CY2626,kovvur
+2627,CY2627,viskhapatnam
+2628,CY2628,llarevu
+2629,CY2629,lingapalem
+2630,CY2630,yelamanchalli
+2631,CY2631,old gajuwaka
+2632,CY2632,narayanapuram
+2633,CY2633,kurupam
+2634,CY2634,i.polavaram
+2635,CY2635,palakollu
+2636,CY2636,bheemunipatnam
+2637,CY2637,kapadwanj
+2638,CY2638,sikar
+2639,CY2639,bikaner
+2640,CY2640,satpuli
+2641,CY2641,vedikhal
+2642,CY2642,gopeshwar
+2643,CY2643,nainbagh
+2644,CY2644,purola
+2645,CY2645,chakrata
+2646,CY2646,vikasnagar
+2647,CY2647,kotdwara
+2648,CY2648,thalisain
+2649,CY2649,devprayag
+2650,CY2650,gairsain
+2651,CY2651,hardwar
+2652,CY2652,dehra dun
+2653,CY2653,lwari
+2654,CY2654,tehri range
+2655,CY2655,narendra nagar
+2656,CY2656,barkot
+2657,CY2657,kotdwar
+2658,CY2658,mussoorie
+2659,CY2659,"laksar, haridwar"
+2660,CY2660,uttarkashi
+2661,CY2661,chinyalisaur
+2662,CY2662,lansdowne
+2663,CY2663,nakhri
+2664,CY2664,manglour
+2665,CY2665,rikhnikhal
+2666,CY2666,doiwala
+2667,CY2667,rudraprayag
+2668,CY2668,new tehri
+2669,CY2669,guptkashi
+2670,CY2670,ghansali
+2671,CY2671,"govt. degree college, pokhal"
+2672,CY2672,thatyud
+2673,CY2673,agastyamuni
+2674,CY2674,chaubattakhal
+2675,CY2675,joshimath
+2676,CY2676,lambgaon
+2677,CY2677,karanprayag
+2678,CY2678,chamoli
+2679,CY2679,kavali
+2680,CY2680,vidavalur
+2681,CY2681,naidupeta
+2682,CY2682,"kakutur, venkatachalem"
+2683,CY2683,buchireddypalem
+2684,CY2684,vinjamuru
+2685,CY2685,naidupet
+2686,CY2686,sullurupet
+2687,CY2687,podalkuru
+2688,CY2688,venkatagiri
+2689,CY2689,gudur
+2690,CY2690,kovur
+2691,CY2691,venkatachalam
+2692,CY2692,allur
+2693,CY2693,sullurpeta
+2694,CY2694,seetharamapuram
+2695,CY2695,vidyanagar
+2696,CY2696,nelloer
+2697,CY2697,balayapalli
+2698,CY2698,udayagiri
+2699,CY2699,spsr nellore
+2700,CY2700,spsr nelloer
+2701,CY2701,nelore
+2702,CY2702,narasannapeta
+2703,CY2703,kanchili
+2704,CY2704,veeraghattam
+2705,CY2705,ichapuram
+2706,CY2706,amadalavalasa
+2707,CY2707,vajrapu kotthuru
+2708,CY2708,mandasa
+2709,CY2709,kasibugga
+2710,CY2710,santha kavati
+2711,CY2711,kaviti
+2712,CY2712,ranastalam
+2713,CY2713,sompeta
+2714,CY2714,vajrapukotturu
+2715,CY2715,hiramandalam
+2716,CY2716,palakonda
+2717,CY2717,sarubujjili
+2718,CY2718,seethamapeta
+2719,CY2719,haripuram
+2720,CY2720,vangara
+2721,CY2721,ponduru
+2722,CY2722,palasa-kasibugga
+2723,CY2723,kotabommali
+2724,CY2724,pathapatnam
+2725,CY2725,kotturu
+2726,CY2726,jalumuru
+2727,CY2727,heeramandalam
+2728,CY2728,palkonda
+2729,CY2729,bhanpuri
+2730,CY2730,antagarh
+2731,CY2731,sukma
+2732,CY2732,keshkal
+2733,CY2733,kirandul
+2734,CY2734,bhanupratappur
+2735,CY2735,konta
+2736,CY2736,bhopalpatnam
+2737,CY2737,narharpur
+2738,CY2738,pakhanjore
+2739,CY2739,kondagaon
+2740,CY2740,thiruvathevan
+2741,CY2741,thottiam
+2742,CY2742,sengipatti
+2743,CY2743,tiruchirappali
+2744,CY2744,thirukkuvalai
+2745,CY2745,tittakudi
+2746,CY2746,gandarvakottai
+2747,CY2747,viralimalai
+2748,CY2748,mannargudi
+2749,CY2749,ariyalur
+2750,CY2750,trichirappalli
+2751,CY2751,tirucharappali
+2752,CY2752,thirumayam
+2753,CY2753,thiruchirappalli
+2754,CY2754,sirohi
+2755,CY2755,dausa
+2756,CY2756,neemrana
+2757,CY2757,alwar
+2758,CY2758,dungarpur
+2759,CY2759,bharatpur
+2760,CY2760,surajgarh
+2761,CY2761,dundlod
+2762,CY2762,nathdwara
+2763,CY2763,pilani
+2764,CY2764,kapasan
+2765,CY2765,abu road
+2766,CY2766,sri ganganagar
+2767,CY2767,jhalrapatan
+2768,CY2768,tulsi jakhmund
+2769,CY2769,khetri
+2770,CY2770,chittaurgarh
+2771,CY2771,hanumangarh
+2772,CY2772,machilipatnam
+2773,CY2773,chatrai
+2774,CY2774,gampalagudem
+2775,CY2775,bantumilli
+2776,CY2776,chaparda
+2777,CY2777,kaikalur
+2778,CY2778,"tiruvuru, krishna"
+2779,CY2779,vuyyuru
+2780,CY2780,gudiwada
+2781,CY2781,vatsavai
+2782,CY2782,penuganchiprolu
+2783,CY2783,movva
+2784,CY2784,koduru
+2785,CY2785,avanigadda
+2786,CY2786,pamarru
+2787,CY2787,mudinepalli
+2788,CY2788,kanchikacharla
+2789,CY2789,"challapalli, challapalli"
+2790,CY2790,vijayawda
+2791,CY2791,nagayalanka
+2792,CY2792,"jaggaiahpet, krishna"
+2793,CY2793,vissannapeata
+2794,CY2794,kanchikicharla
+2795,CY2795,kaikaluru
+2796,CY2796,jaggaiahpeta
+2797,CY2797,challapalii
+2798,CY2798,vijaywada
+2799,CY2799,ganguru
+2800,CY2800,dubbak
+2801,CY2801,kulackcherla
+2802,CY2802,pargi
+2803,CY2803,seetharampet
+2804,CY2804,don bosco
+2805,CY2805,barkas
+2806,CY2806,chikkadpally
+2807,CY2807,hayath nagar
+2808,CY2808,maheshwaram
+2809,CY2809,zaheerabad
+2810,CY2810,shanker pally
+2811,CY2811,kulakherla
+2812,CY2812,parigi
+2813,CY2813,pamulaparthy
+2814,CY2814,ramayanpet
+2815,CY2815,ranpur
+2816,CY2816,habsiguda
+2817,CY2817,rajendra nagar
+2818,CY2818,medipally
+2819,CY2819,ramanthapur
+2820,CY2820,chegunta
+2821,CY2821,ibrahim patnam
+2822,CY2822,mallapur
+2823,CY2823,l.b nagar
+2824,CY2824,ranra reddy
+2825,CY2825,kukatpally kphb
+2826,CY2826,keesara
+2827,CY2827,ndur
+2828,CY2828,hyderbad
+2829,CY2829,cheeryal
+2830,CY2830,chevalla
+2831,CY2831,qutubullapur
+2832,CY2832,sitarampet
+2833,CY2833,kohir
+2834,CY2834,thumkunta
+2835,CY2835,secundrabad/ hyderabad
+2836,CY2836,kevadia colony
+2837,CY2837,dilsukhnagar
+2838,CY2838,siddiet
+2839,CY2839,ramayampet
+2840,CY2840,tupran
+2841,CY2841,jogipet
+2842,CY2842,wargal
+2843,CY2843,bandlaguda x road
+2844,CY2844,bhuvanagiri
+2845,CY2845,edaicode
+2846,CY2846,ibrahimpatan
+2847,CY2847,toopran
+2848,CY2848,quthbullapur
+2849,CY2849,"domalguda, hyderabad"
+2850,CY2850,gollapally
+2851,CY2851,narayankhed
+2852,CY2852,sanga reddy
+2853,CY2853,maheswaram
+2854,CY2854,secundrabad
+2855,CY2855,gatkesar
+2856,CY2856,santoshnagar
+2857,CY2857,secunderad
+2858,CY2858,nancherla gate
+2859,CY2859,sangaredy
+2860,CY2860,secunderbad
+2861,CY2861,"king koti, road abids, hyderabad"
+2862,CY2862,saroornagar
+2863,CY2863,gagillapur
+2864,CY2864,hydetabad
+2865,CY2865,hyd
+2866,CY2866,hyderabd
+2867,CY2867,d. erravally
+2868,CY2868,"dilsukhnagar, hyderabad"
+2869,CY2869,sadasivpet
+2870,CY2870,kompally
+2871,CY2871,bechraji
+2872,CY2872,jhunjhunu
+2873,CY2873,chittor garh
+2874,CY2874,sri ganganaagar
+2875,CY2875,sriganganagar
+2876,CY2876,mundiyagargh
+2877,CY2877,mangalwar
+2878,CY2878,chomu
+2879,CY2879,nawalgarh
+2880,CY2880,"matunda, bundi"
+2881,CY2881,sardarshahar
+2882,CY2882,gogunda
+2883,CY2883,adoni
+2884,CY2884,pattikonda
+2885,CY2885,kurnool
+2886,CY2886,nandyal
+2887,CY2887,dhone
+2888,CY2888,koilakuntla
+2889,CY2889,allagadda
+2890,CY2890,atmakur kurnool
+2891,CY2891,kodumur
+2892,CY2892,velgode
+2893,CY2893,chagalamarri
+2894,CY2894,srisailam proejct
+2895,CY2895,peapully
+2896,CY2896,yemmiganur
+2897,CY2897,banaganapalli
+2898,CY2898,tuggali
+2899,CY2899,koilkuntla
+2900,CY2900,narasapuram
+2901,CY2901,nandikotkuru
+2902,CY2902,nandikotkur
+2903,CY2903,naira
+2904,CY2904,mahanandi
+2905,CY2905,chinna ranga puram
+2906,CY2906,madakasira
+2907,CY2907,rajnadgaon
+2908,CY2908,karimganj
+2909,CY2909,hailakandi
+2910,CY2910,silchar
+2911,CY2911,pialapool
+2912,CY2912,karbi anglong
+2913,CY2913,diphu
+2914,CY2914,haflong
+2915,CY2915,kalain
+2916,CY2916,bakalia ghat
+2917,CY2917,badarpur
+2918,CY2918,maibang
+2919,CY2919,umrongso
+2920,CY2920,donkamukam
+2921,CY2921,dokmoka
+2922,CY2922,kalinagar pt ii
+2923,CY2923,buchireddypalem v&m
+2924,CY2924,chauth ka barwara
+2925,CY2925,neem ka thana
+2926,CY2926,gharsana
+2927,CY2927,chechat
+2928,CY2928,bhadra
+2929,CY2929,lalsot
+2930,CY2930,malsisar
+2931,CY2931,mandawar
+2932,CY2932,ranagar
+2933,CY2933,govindgarh
+2934,CY2934,sikrai
+2935,CY2935,neemkathana
+2936,CY2936,chirana
+2937,CY2937,banswara
+2938,CY2938,dholpur
+2939,CY2939,shrimadhopur
+2940,CY2940,bissau
+2941,CY2941,vasan
+2942,CY2942,kankroli
+2943,CY2943,jalia ll
+2944,CY2944,jaswantgarh
+2945,CY2945,mukundgarh
+2946,CY2946,buhana
+2947,CY2947,peeth
+2948,CY2948,salemabad
+2949,CY2949,gudha gorji
+2950,CY2950,salasar
+2951,CY2951,sagwara
+2952,CY2952,barisadri
+2953,CY2953,hunagunda
+2954,CY2954,yadgir
+2955,CY2955,hoovinahadagali
+2956,CY2956,humanabad
+2957,CY2957,kundapur
+2958,CY2958,chikmagalore
+2959,CY2959,kalaburgi
+2960,CY2960,sindhanoor
+2961,CY2961,nippani
+2962,CY2962,hoovinahipparagi
+2963,CY2963,chikkanayakanahalli
+2964,CY2964,basavanabagewadi
+2965,CY2965,kollegala
+2966,CY2966,hasan
+2967,CY2967,lingasuguru
+2968,CY2968,thirumansoali
+2969,CY2969,pottapalayam
+2970,CY2970,kilakarai
+2971,CY2971,k.singarakottai
+2972,CY2972,aundipatty
+2973,CY2973,tamil nadu
+2974,CY2974,gangtok
+2975,CY2975,aizawl
+2976,CY2976,cuddapah
+2977,CY2977,pulicherla
+2978,CY2978,rajampet
+2979,CY2979,sullurpet
+2980,CY2980,kadapa
+2981,CY2981,pulivendula
+2982,CY2982,madanapalle
+2983,CY2983,tiruchanoor
+2984,CY2984,dipatri
+2985,CY2985,anantpaur
+2986,CY2986,"dipatri,anantapur"
+2987,CY2987,ananthapuramu
+2988,CY2988,"parnapally,nandyal"
+2989,CY2989,badvel
+2990,CY2990,vijayapuram
+2991,CY2991,palamaner
+2992,CY2992,vinjamur
+2993,CY2993,anantapuramu
+2994,CY2994,srikalahasthi
+2995,CY2995,"peddavadaguru, gooty"
+2996,CY2996,gooty
+2997,CY2997,siddavatam
+2998,CY2998,kuppam
+2999,CY2999,anantapuram
+3000,CY3000,rayachoty
+3001,CY3001,hindupur
+3002,CY3002,linch
+3003,CY3003,sri potti sriramulu nellore
+3004,CY3004,tirupathi
+3005,CY3005,spsr  nellore
+3006,CY3006,balahar
+3007,CY3007,thrissur
+3008,CY3008,bhopal
+3009,CY3009,thiruvattar
+3010,CY3010,tiruchendur
+3011,CY3011,vasudevanallur
+3012,CY3012,kanyakumari
+3013,CY3013,tuticorin
+3014,CY3014,puliangudi
+3015,CY3015,kariapatti
+3016,CY3016,vadakkangulam
+3017,CY3017,palayamkottai
+3018,CY3018,mundradaippu
+3019,CY3019,tisaiyanvilai
+3020,CY3020,s.p.g.c.nagar
+3021,CY3021,nazareth
+3022,CY3022,radhapuram
+3023,CY3023,aralvaimozhi
+3024,CY3024,aruppukottai
+3025,CY3025,buxar
+3026,CY3026,rohtas
+3027,CY3027,bhojpur
+3028,CY3028,bhabua
+3029,CY3029,ara
+3030,CY3030,kaimur bhabua
+3031,CY3031,kaimur
+3032,CY3032,sasaram
+3033,CY3033,"rohtas, bhabhua"
+3034,CY3034,dumraon
+3035,CY3035,bhabhua
+3036,CY3036,gowraram
+3037,CY3037,katrenikona
+3038,CY3038,dornakal
+3039,CY3039,yellandu
+3040,CY3040,bhupalpally
+3041,CY3041,sathupally
+3042,CY3042,mancherial
+3043,CY3043,asifabad
+3044,CY3044,wardhannapet
+3045,CY3045,thorrur
+3046,CY3046,nirmal
+3047,CY3047,kusumanchi
+3048,CY3048,kalluru
+3049,CY3049,mahabubabad
+3050,CY3050,mandamarri
+3051,CY3051,khamam
+3052,CY3052,maripeda bunglow
+3053,CY3053,sirpur kagaznagar
+3054,CY3054,utnoor
+3055,CY3055,kesamudram
+3056,CY3056,yerrupalem
+3057,CY3057,wyra
+3058,CY3058,manuguru
+3059,CY3059,"kothagudem, bhadradri kothagudem"
+3060,CY3060,cherla
+3061,CY3061,dandepally
+3062,CY3062,parkal
+3063,CY3063,mahemdavad
+3064,CY3064,luxettipet
+3065,CY3065,hanmakonda
+3066,CY3066,station ghanpur
+3067,CY3067,sirpur kaghaznagar
+3068,CY3068,palvancha
+3069,CY3069,boath
+3070,CY3070,kunavaram
+3071,CY3071,aswaraopeta
+3072,CY3072,jannaram
+3073,CY3073,tekulapally
+3074,CY3074,bhainsa
+3075,CY3075,chennur
+3076,CY3076,bhadrachalam
+3077,CY3077,bellampally
+3078,CY3078,nidigonda
+3079,CY3079,sathupalli
+3080,CY3080,luxetipet
+3081,CY3081,venkatapuram
+3082,CY3082,bhoopalpalli
+3083,CY3083,narsamapet
+3084,CY3084,laxmanchnada
+3085,CY3085,nelakondapally
+3086,CY3086,"thorrur, warangal"
+3087,CY3087,penubally
+3088,CY3088,tdp center
+3089,CY3089,bhadradrikothagudem
+3090,CY3090,cherial
+3091,CY3091,"nirmal, adilabad"
+3092,CY3092,maripeda
+3093,CY3093,jayashankar
+3094,CY3094,ichoda
+3095,CY3095,bodhan
+3096,CY3096,punganoor
+3097,CY3097,nagari
+3098,CY3098,srikalahasti
+3099,CY3099,punganur
+3100,CY3100,madanapalli
+3101,CY3101,sathyavedu
+3102,CY3102,yadamari
+3103,CY3103,pakala
+3104,CY3104,piler
+3105,CY3105,kalikiri
+3106,CY3106,chandragiri
+3107,CY3107,bangarupalem
+3108,CY3108,satayavedu
+3109,CY3109,chhotaudepur
+3110,CY3110,valmikipuram
+3111,CY3111,v.kota
+3112,CY3112,puthalapattu
+3113,CY3113,narayanavanam
+3114,CY3114,rompicherla
+3115,CY3115,mulakalacheruvu
+3116,CY3116,sodam
+3117,CY3117,penumuru
+3118,CY3118,yerpedu
+3119,CY3119,renigunta
+3120,CY3120,chittoor..ap
+3121,CY3121,humnabad
+3122,CY3122,goraya
+3123,CY3123,rn taran
+3124,CY3124,jandiala
+3125,CY3125,chung
+3126,CY3126,jalandhar cantt
+3127,CY3127,rntaran
+3128,CY3128,dhariwal
+3129,CY3129,mukandpur
+3130,CY3130,sultnpur lodhi
+3131,CY3131,dhilwan
+3132,CY3132,fatehgarh churian
+3133,CY3133,sultanpur lodhi
+3134,CY3134,_bholath
+3135,CY3135,begowal
+3136,CY3136,"jandiala guru, amritsar"
+3137,CY3137,jlandhar
+3138,CY3138,sbs nagar
+3139,CY3139,khadur sahib
+3140,CY3140,chohla sahib
+3141,CY3141,badhnai
+3142,CY3142,kairon
+3143,CY3143,kartarpur
+3144,CY3144,nawnshahr
+3145,CY3145,qadian
+3146,CY3146,rayya
+3147,CY3147,"kala sanghian, kapurthala"
+3148,CY3148,nurmahal
+3149,CY3149,phillaur
+3150,CY3150,bhikhiwind
+3151,CY3151,chhina
+3152,CY3152,banga
+3153,CY3153,rewari
+3154,CY3154,mahendergarh
+3155,CY3155,rohtak
+3156,CY3156,gurgaon
+3157,CY3157,palwal
+3158,CY3158,sohna
+3159,CY3159,bhiwani
+3160,CY3160,narnaul
+3161,CY3161,loharu
+3162,CY3162,uru
+3163,CY3163,badhra
+3164,CY3164,hodal
+3165,CY3165,faridabad
+3166,CY3166,jhajjar
+3167,CY3167,hassanpur
+3168,CY3168,farrukhnagar
+3169,CY3169,ch.dadri
+3170,CY3170,dubaldhan
+3171,CY3171,ferozepur jhirka
+3172,CY3172,gurugram
+3173,CY3173,sidhrawali
+3174,CY3174,ateli
+3175,CY3175,charkhi dadri
+3176,CY3176,farrukh nagar
+3177,CY3177,ballabgarh
+3178,CY3178,pataudi
+3179,CY3179,beri
+3180,CY3180,bahadurgarh
+3181,CY3181,hathin
+3182,CY3182,kosli
+3183,CY3183,ballabhgaarh
+3184,CY3184,siwani mandi
+3185,CY3185,kungar
+3186,CY3186,lakhan majra
+3187,CY3187,mohindergarh
+3188,CY3188,kanina
+3189,CY3189,sampla
+3190,CY3190,mahender garh
+3191,CY3191,hailey mandi
+3192,CY3192,kharkhoda
+3193,CY3193,khanpur khurd
+3194,CY3194,nuh
+3195,CY3195,meham
+3196,CY3196,badkali
+3197,CY3197,kalanaur
+3198,CY3198,gorgaon
+3199,CY3199,kanwali
+3200,CY3200,bawal
+3201,CY3201,ch. dadri
+3202,CY3202,satnali
+3203,CY3203,wazirpur
+3204,CY3204,ferozpur jhirka
+3205,CY3205,ganaur
+3206,CY3206,haryana
+3207,CY3207,dujana
+3208,CY3208,tosham
+3209,CY3209,nahar
+3210,CY3210,nangal choudhary
+3211,CY3211,sihma
+3212,CY3212,ballabhgarh
+3213,CY3213,ballabgahr
+3214,CY3214,farukh nagar
+3215,CY3215,himatnagar
+3216,CY3216,salahawas
+3217,CY3217,ateli mandi
+3218,CY3218,jhajhar
+3219,CY3219,mahendragarh
+3220,CY3220,mahenderagarh
+3221,CY3221,haley mandi
+3222,CY3222,tiiruppathur
+3223,CY3223,mudukulathur
+3224,CY3224,kamuthi
+3225,CY3225,ilayangudi
+3226,CY3226,poovanthi
+3227,CY3227,devakottai
+3228,CY3228,baraut
+3229,CY3229,merut
+3230,CY3230,shikarpur
+3231,CY3231,greater noida
+3232,CY3232,baghpat
+3233,CY3233,mawana
+3234,CY3234,gangoh
+3235,CY3235,jahangirabad
+3236,CY3236,modinagar
+3237,CY3237,muradnagar
+3238,CY3238,sikandrabad
+3239,CY3239,pilkhuwa
+3240,CY3240,g.b nagar
+3241,CY3241,sahibabad
+3242,CY3242,g b nagar
+3243,CY3243,garhmukteshwar
+3244,CY3244,buladshahr
+3245,CY3245,jindal nagar
+3246,CY3246,shamli
+3247,CY3247,meerapur
+3248,CY3248,jewar
+3249,CY3249,gulaothi
+3250,CY3250,loni
+3251,CY3251,sarurpur khurd
+3252,CY3252,dibai
+3253,CY3253,punwarka
+3254,CY3254,mawana meerut
+3255,CY3255,rampur maniharan
+3256,CY3256,graeter noida
+3257,CY3257,gautambuddhnagar
+3258,CY3258,siyana
+3259,CY3259,jhinjhana
+3260,CY3260,chhatari
+3261,CY3261,hastinapur
+3262,CY3262,bulandsheher
+3263,CY3263,khatauli
+3264,CY3264,modiangar
+3265,CY3265,sharanpur
+3266,CY3266,badalpur
+3267,CY3267,gb nagar
+3268,CY3268,sub
+3269,CY3269,simbhaoli
+3270,CY3270,dankaur
+3271,CY3271,khatuali
+3272,CY3272,nanauta
+3273,CY3273,meeerut
+3274,CY3274,pahasu
+3275,CY3275,gautam budh nagar
+3276,CY3276,behat
+3277,CY3277,dadri
+3278,CY3278,choundera
+3279,CY3279,kairana
+3280,CY3280,debai
+3281,CY3281,gautam buddha nagar
+3282,CY3282,behsuma
+3283,CY3283,greaternoida
+3284,CY3284,modinagara
+3285,CY3285,"loni, ghaziabad"
+3286,CY3286,sardhana
+3287,CY3287,kandhla
+3288,CY3288,charthawal
+3289,CY3289,baleni
+3290,CY3290,chhaprauli
+3291,CY3291,sardulghar
+3292,CY3292,firozpur
+3293,CY3293,mudh
+3294,CY3294,sarabha
+3295,CY3295,firozepur
+3296,CY3296,raikot
+3297,CY3297,mukerian
+3298,CY3298,ran taran
+3299,CY3299,"ram nagar, banur"
+3300,CY3300,sri amritsar
+3301,CY3301,gopalpur
+3302,CY3302,guruharsahai
+3303,CY3303,ferozepur
+3304,CY3304,ram nagar
+3305,CY3305,zira
+3306,CY3306,punjab
+3307,CY3307,kauni
+3308,CY3308,dasuya
+3309,CY3309,garhdiwala
+3310,CY3310,chandigarh
+3311,CY3311,sukhanand
+3312,CY3312,chabbewal
+3313,CY3313,rattewal
+3314,CY3314,bulhowal
+3315,CY3315,doraha
+3316,CY3316,gidderbaha
+3317,CY3317,chandigrh
+3318,CY3318,balachaur
+3319,CY3319,fazilka 
+3320,CY3320,samrala
+3321,CY3321,lwara
+3322,CY3322,machhiwara
+3323,CY3323,dharamkot
+3324,CY3324,nihal singh wala
+3325,CY3325,miani
+3326,CY3326,lopon
+3327,CY3327,ganj basoda
+3328,CY3328,jabalpur
+3329,CY3329,rewa
+3330,CY3330,gwalior
+3331,CY3331,indore
+3332,CY3332,shivpuri
+3333,CY3333,maihar
+3334,CY3334,katihar
+3335,CY3335,purnea
+3336,CY3336,araria
+3337,CY3337,madhepura
+3338,CY3338,saharsa
+3339,CY3339,"forbesganj, araria"
+3340,CY3340,supaul
+3341,CY3341,purnia
+3342,CY3342,kihsnaganj
+3343,CY3343,udakishunganj
+3344,CY3344,kishanganj
+3345,CY3345,bahadurganj
+3346,CY3346,birpur
+3347,CY3347,forbesganj
+3348,CY3348,"bariyahi, bangaon"
+3349,CY3349,thakurganj
+3350,CY3350,raghopur
+3351,CY3351,simraha
+3352,CY3352,thandla
+3353,CY3353,khandwa
+3354,CY3354,dhar
+3355,CY3355,mandleshwar
+3356,CY3356,burhanpur
+3357,CY3357,madhya pradesh
+3358,CY3358,mhow
+3359,CY3359,jhabua
+3360,CY3360,niwali
+3361,CY3361,dharampuri
+3362,CY3362,rajgarh dhar
+3363,CY3363,jobat
+3364,CY3364,sanwer
+3365,CY3365,sendhwa
+3366,CY3366,khargone
+3367,CY3367,barwani
+3368,CY3368,kasrawad
+3369,CY3369,alirajpur
+3370,CY3370,kukshi
+3371,CY3371,badnawar
+3372,CY3372,"rau, indore"
+3373,CY3373,bhabra
+3374,CY3374,sanawad
+3375,CY3375,pandhana
+3376,CY3376,nepanagar
+3377,CY3377,barwaha
+3378,CY3378,khaknar
+3379,CY3379,rau - indore
+3380,CY3380,ndore
+3381,CY3381,dhamnod
+3382,CY3382,anjad
+3383,CY3383,new harsud
+3384,CY3384,sednwha
+3385,CY3385,bhikangaon
+3386,CY3386,petlawad
+3387,CY3387,rourkela
+3388,CY3388,ghiajodi
+3389,CY3389,bhawanipatna
+3390,CY3390,khordha
+3391,CY3391,gunupur
+3392,CY3392,angul
+3393,CY3393,dhenkanal
+3394,CY3394,rayagada
+3395,CY3395,brahmapur
+3396,CY3396,sambalpur
+3397,CY3397,jeypore
+3398,CY3398,khurda
+3399,CY3399,jharsuguda
+3400,CY3400,kansbahal
+3401,CY3401,koraput
+3402,CY3402,bargarh
+3403,CY3403,srikona
+3404,CY3404,bubaneshwar
+3405,CY3405,jatni
+3406,CY3406,vempalli
+3407,CY3407,jammalamadugu
+3408,CY3408,pullampet
+3409,CY3409,kamalapuram
+3410,CY3410,siddavattam
+3411,CY3411,t sundupalli
+3412,CY3412,porumamilla
+3413,CY3413,y.s.r
+3414,CY3414,rajampeta
+3415,CY3415,pulivendla
+3416,CY3416,duvvur
+3417,CY3417,yerraguntla
+3418,CY3418,y.s.r.  kadapa
+3419,CY3419,veerapunayunipalli
+3420,CY3420,jammalamdugu
+3421,CY3421,mydukur
+3422,CY3422,galiveedu
+3423,CY3423,viziyanagarm
+3424,CY3424,rajahamundry
+3425,CY3425,begumpet
+3426,CY3426,ankleshwar
+3427,CY3427,kadiri
+3428,CY3428,machilipatnam krishna
+3429,CY3429,repalle
+3430,CY3430,"tenali, guntur"
+3431,CY3431,bukkarayasamudram
+3432,CY3432,palanpur
+3433,CY3433,gutntur
+3434,CY3434,"mlakpet, hyderabad"
+3435,CY3435,guntakal
+3436,CY3436,hydearabad
+3437,CY3437,kothapalle
+3438,CY3438,rajanagaram m
+3439,CY3439,ntirupathi
+3440,CY3440,"sanga reddy, hyderabad"
+3441,CY3441,sangivalasa
+3442,CY3442,bommakal
+3443,CY3443,narektpally
+3444,CY3444,barwala panchkula
+3445,CY3445,rajound
+3446,CY3446,faridbad
+3447,CY3447,cambridge
+3448,CY3448,jammu tawi
+3449,CY3449,laheriasarai
+3450,CY3450,bambolim
+3451,CY3451,ponda
+3452,CY3452,verna
+3453,CY3453,margao
+3454,CY3454,panaji
+3455,CY3455,mapusa
+3456,CY3456,quepem
+3457,CY3457,"margao, salcete"
+3458,CY3458,sanquelim
+3459,CY3459,vasco da gama
+3460,CY3460,navelim
+3461,CY3461,pernem
+3462,CY3462,pilar
+3463,CY3463,canacona
+3464,CY3464,cuncolim
+3465,CY3465,"mapusa, bardez - goa"
+3466,CY3466,bicholim
+3467,CY3467,"jasnagar, merta city"
+3468,CY3468,nasirabad
+3469,CY3469,masuda
+3470,CY3470,"riyan bari, merta city"
+3471,CY3471,maulasar
+3472,CY3472,banthari
+3473,CY3473,madanganj-kishangarh
+3474,CY3474,diaptri
+3475,CY3475,gorantla
+3476,CY3476,penukonda
+3477,CY3477,anasntapur
+3478,CY3478,dharmavaram
+3479,CY3479,uravakonda
+3480,CY3480,rayadurg
+3481,CY3481,ananatapuramu
+3482,CY3482,kalyandurg
+3483,CY3483,kalyandurgam
+3484,CY3484,dharamavaram
+3485,CY3485,agali
+3486,CY3486,ananthapur
+3487,CY3487,anantapram
+3488,CY3488,mudigubba
+3489,CY3489,kanekal
+3490,CY3490,ananatapur
+3491,CY3491,kothacheruvu
+3492,CY3492,bukkapatnam
+3493,CY3493,guru har sahai
+3494,CY3494,ferozepur city
+3495,CY3495,ratlam
+3496,CY3496,waidhan
+3497,CY3497,burhar
+3498,CY3498,hoshangabad
+3499,CY3499,sehore
+3500,CY3500,mandla
+3501,CY3501,raisen
+3502,CY3502,chhabragugor
+3503,CY3503,umaria
+3504,CY3504,"sagar-kanpur road, banda"
+3505,CY3505,morena
+3506,CY3506,pipariya
+3507,CY3507,dhanbad
+3508,CY3508,ujjain
+3509,CY3509,multai
+3510,CY3510,dhanpuri
+3511,CY3511,sarani
+3512,CY3512,sabalgarh
+3513,CY3513,neemuch
+3514,CY3514,dabra
+3515,CY3515,satna
+3516,CY3516,bhind
+3517,CY3517,dewas
+3518,CY3518,betul
+3519,CY3519,guna
+3520,CY3520,panagar
+3521,CY3521,najibabad
+3522,CY3522,katni
+3523,CY3523,balaghat
+3524,CY3524,shajapur
+3525,CY3525,kareli
+3526,CY3526,mandideep
+3527,CY3527,gadarwara
+3528,CY3528,seoni
+3529,CY3529,churu
+3530,CY3530,barrackpore
+3531,CY3531,begumganj
+3532,CY3532,mandsaur
+3533,CY3533,shahdol
+3534,CY3534,harda
+3535,CY3535,barhi
+3536,CY3536,biaora
+3537,CY3537,lahar
+3538,CY3538,sironj
+3539,CY3539,anuppur
+3540,CY3540,beohari
+3541,CY3541,banda belai
+3542,CY3542,ashok nagar
+3543,CY3543,narsinghgarh
+3544,CY3544,ambah
+3545,CY3545,narsingpur
+3546,CY3546,itarsi
+3547,CY3547,vidisha
+3548,CY3548,shivipuri
+3549,CY3549,bareli
+3550,CY3550,shujalpur
+3551,CY3551,pathakhera
+3552,CY3552,sheopur
+3553,CY3553,sidhi
+3554,CY3554,datia
+3555,CY3555,singrauli
+3556,CY3556,narsinghpur
+3557,CY3557,nagda
+3558,CY3558,seoni malwa
+3559,CY3559,porsa
+3560,CY3560,amla
+3561,CY3561,kotma
+3562,CY3562,ganjbasoda
+3563,CY3563,bhopla
+3564,CY3564,dharmshala
+3565,CY3565,waraseoni
+3566,CY3566,badnagar
+3567,CY3567,bhnapura
+3568,CY3568,mehidpur
+3569,CY3569,kalapipal
+3570,CY3570,ujjai
+3571,CY3571,khachrod
+3572,CY3572,maksi
+3573,CY3573,sandalpur
+3574,CY3574,rana
+3575,CY3575,agar
+3576,CY3576,susner
+3577,CY3577,bhensoda mandi
+3578,CY3578,jawad
+3579,CY3579,shujalpur mandi
+3580,CY3580,barnagar
+3581,CY3581,kannod
+3582,CY3582,garoth
+3583,CY3583,nalkheda
+3584,CY3584,bhanpura
+3585,CY3585,suwasra
+3586,CY3586,neemuch m.p
+3587,CY3587,khategaon
+3588,CY3588,polaykala
+3589,CY3589,pipliyamandi
+3590,CY3590,bagil
+3591,CY3591,shajapur m. p
+3592,CY3592,rampura
+3593,CY3593,shamgarh
+3594,CY3594,manasa
+3595,CY3595,mahipur
+3596,CY3596,sonkatch
+3597,CY3597,nagda jn
+3598,CY3598,dalouda
+3599,CY3599,akodia mandi
+3600,CY3600,bagli
+3601,CY3601,sidhi m.p
+3602,CY3602,sirmour
+3603,CY3603,deosar
+3604,CY3604,semariya
+3605,CY3605,teonthar
+3606,CY3606,rajendragram/pushprajgarh
+3607,CY3607,chakghat
+3608,CY3608,mauganj
+3609,CY3609,jiasinghnagar
+3610,CY3610,jaitwara
+3611,CY3611,vindhyanagar
+3612,CY3612,gangeo
+3613,CY3613,simgrauli
+3614,CY3614,birsinghpur pali
+3615,CY3615,amarpatan
+3616,CY3616,kalukheda
+3617,CY3617,alot
+3618,CY3618,jaora
+3619,CY3619,sailana
+3620,CY3620,kolluru
+3621,CY3621,mangalagiri
+3622,CY3622,chebrole
+3623,CY3623,giddalur
+3624,CY3624,gunntur
+3625,CY3625,phirangipuram
+3626,CY3626,tulluru
+3627,CY3627,duggirala
+3628,CY3628,vinukonda
+3629,CY3629,cherukupalli
+3630,CY3630,darsi
+3631,CY3631,pamuru
+3632,CY3632,dikonda
+3633,CY3633,nadikudi
+3634,CY3634,nidubrolu
+3635,CY3635,nagarjuna nagar
+3636,CY3636,chilakaluripeta
+3637,CY3637,pedakakani
+3638,CY3638,kollipara
+3639,CY3639,amaravathi
+3640,CY3640,kondapi
+3641,CY3641,rlupadu
+3642,CY3642,girsomnath
+3643,CY3643,bhattiprolu
+3644,CY3644,g u n t u r
+3645,CY3645,piduguralla
+3646,CY3646,narsaraopet
+3647,CY3647,vetapalem
+3648,CY3648,ponnuru
+3649,CY3649,chillakaluripet
+3650,CY3650,nagarjuna sagar
+3651,CY3651,pedanandipadu
+3652,CY3652,thimmasamudram
+3653,CY3653,bestavara peta
+3654,CY3654,pamur
+3655,CY3655,chilumuru
+3656,CY3656,dehgam
+3657,CY3657,mature
+3658,CY3658,janakpuri
+3659,CY3659,"mohan garden, new delhi"
+3660,CY3660,najafgarh
+3661,CY3661,mew delhi
+3662,CY3662,hauz khas
+3663,CY3663,rohini
+3664,CY3664,"rajpur, kadi"
+3665,CY3665,krishan vihar
+3666,CY3666,narela
+3667,CY3667,kabirdham
+3668,CY3668,borsi
+3669,CY3669,korea
+3670,CY3670,mamidikuduru
+3671,CY3671,pilathara
+3672,CY3672,north 24 parganas
+3673,CY3673,thiruvananthapuram
+3674,CY3674,madgao
+3675,CY3675,huzurnagar
+3676,CY3676,mothkur
+3677,CY3677,nakrekal
+3678,CY3678,miryalaguda
+3679,CY3679,valigonda
+3680,CY3680,ramannapet
+3681,CY3681,choutuppal
+3682,CY3682,narketpally
+3683,CY3683,alair
+3684,CY3684,haliya
+3685,CY3685,thungathurthy
+3686,CY3686,thirumalagiri
+3687,CY3687,telangana
+3688,CY3688,marriguda
+3689,CY3689,miryalguda
+3690,CY3690,chandur
+3691,CY3691,rajapet
+3692,CY3692,devrakonda
+3693,CY3693,stanford
+3694,CY3694,nagarjunasagar
+3695,CY3695,nidamanoor
+3696,CY3696,kondamallepally
+3697,CY3697,aler
+3698,CY3698,narayanapur
+3699,CY3699,"kawardha, kabirdham"
+3700,CY3700,nainpur
+3701,CY3701,baihar
+3702,CY3702,shahpura
+3703,CY3703,dindori
+3704,CY3704,katangi
+3705,CY3705,rithi
+3706,CY3706,bamhni banjar
+3707,CY3707,kundam
+3708,CY3708,barghat
+3709,CY3709,chhapara
+3710,CY3710,dheemarkheda
+3711,CY3711,villge shrinagar
+3712,CY3712,bhuabichhiya
+3713,CY3713,kymore
+3714,CY3714,paraswada
+3715,CY3715,lakhnadon
+3716,CY3716,sleemnabad
+3717,CY3717,lanji
+3718,CY3718,gotegaon
+3719,CY3719,niwas
+3720,CY3720,keolari
+3721,CY3721,katnagi
+3722,CY3722,"nerul , navi mumbai"
+3723,CY3723,"mumbra,thane"
+3724,CY3724,byculla
+3725,CY3725,ulhasnagar
+3726,CY3726,vikramgad
+3727,CY3727,maharashtra
+3728,CY3728,"sarajini naidu road, mulund"
+3729,CY3729,"vikhroli , mumbai"
+3730,CY3730,patpanhale-shringartali
+3731,CY3731,neral
+3732,CY3732,kankavli
+3733,CY3733,chafe
+3734,CY3734,kalyan
+3735,CY3735,karjat
+3736,CY3736,bhandup
+3737,CY3737,malvan
+3738,CY3738,"borivli, mumbai"
+3739,CY3739,"vitawa , kalwa , thane"
+3740,CY3740,devrukh
+3741,CY3741,c.b.d. belapur
+3742,CY3742,loja
+3743,CY3743,dodamarg
+3744,CY3744,kharghar
+3745,CY3745,badlapur
+3746,CY3746,vasai-virar
+3747,CY3747,roha
+3748,CY3748,vaibhavwadi
+3749,CY3749,koparkhairane
+3750,CY3750,ghatkopar
+3751,CY3751,bhayandar
+3752,CY3752,borivli
+3753,CY3753,oros
+3754,CY3754,mira bhayandar
+3755,CY3755,rasayani
+3756,CY3756,wada
+3757,CY3757,new panvel
+3758,CY3758,vasai
+3759,CY3759,kanidvali
+3760,CY3760,mumabi
+3761,CY3761,shahapur
+3762,CY3762,murbad
+3763,CY3763,jogeshwari
+3764,CY3764,lanja
+3765,CY3765,bandra - mumbai
+3766,CY3766,sawarde
+3767,CY3767,mandangad
+3768,CY3768,uran
+3769,CY3769,bhivandi
+3770,CY3770,kalyan w
+3771,CY3771,pen
+3772,CY3772,pali-sudhagad
+3773,CY3773,kankavali
+3774,CY3774,rfe karjat
+3775,CY3775,achara
+3776,CY3776,bhal
+3777,CY3777,vashi navi mumbai
+3778,CY3778,pachal
+3779,CY3779,mumbra
+3780,CY3780,raigad
+3781,CY3781,dombivali
+3782,CY3782,kalyan-w
+3783,CY3783,thane - shahapur
+3784,CY3784,"khanda colony, new panvel"
+3785,CY3785,nallasopara w
+3786,CY3786,kandivali
+3787,CY3787,shahapur thane
+3788,CY3788,borivali
+3789,CY3789,pedhambe
+3790,CY3790,"bandra , mumbai"
+3791,CY3791,mangaon
+3792,CY3792,new - panvel
+3793,CY3793,"chembur, mumbai"
+3794,CY3794,jawhar
+3795,CY3795,panvel
+3796,CY3796,boisar
+3797,CY3797,bhiwandi
+3798,CY3798,ambernath
+3799,CY3799,vile parle
+3800,CY3800,tala
+3801,CY3801,mumbai city
+3802,CY3802,devgad
+3803,CY3803,maharastra
+3804,CY3804,"kharegaon, kalwa, thane"
+3805,CY3805,murud janjira
+3806,CY3806,dadar
+3807,CY3807,asangaon
+3808,CY3808,boisar-pasthal
+3809,CY3809,dahanu bordi
+3810,CY3810,"parel, mumbai"
+3811,CY3811,mumuld
+3812,CY3812,dahanu road
+3813,CY3813,uran navi mumbai
+3814,CY3814,sanpada
+3815,CY3815,vikhroli  mumbai
+3816,CY3816,navi  mumbai
+3817,CY3817,"vashi, navi mumbai"
+3818,CY3818,"dahisar, , mumbai"
+3819,CY3819,mahad
+3820,CY3820,churchgatge
+3821,CY3821,kalwa thane
+3822,CY3822,mhasala
+3823,CY3823,"kalamboli, navi mumbai"
+3824,CY3824,khardi
+3825,CY3825,katta
+3826,CY3826,vasind
+3827,CY3827,navimumbai
+3828,CY3828,vikhroli
+3829,CY3829,mokhada
+3830,CY3830,sion e
+3831,CY3831,powai
+3832,CY3832,poladpur
+3833,CY3833,"panvel,raigad"
+3834,CY3834,nerul
+3835,CY3835,shahad
+3836,CY3836,ambav
+3837,CY3837,murud-janjira
+3838,CY3838,mumbai central
+3839,CY3839,kalwa
+3840,CY3840,fort  mumbai
+3841,CY3841,vasai road
+3842,CY3842,khopoli
+3843,CY3843,"andheri , mumbai"
+3844,CY3844,guhagar
+3845,CY3845,south city
+3846,CY3846,shivoor
+3847,CY3847,pimpalgaon renukai
+3848,CY3848,telgaon
+3849,CY3849,rajur
+3850,CY3850,ambad
+3851,CY3851,tuljapur
+3852,CY3852,partur
+3853,CY3853,kallam
+3854,CY3854,murum
+3855,CY3855,patoda
+3856,CY3856,paithan
+3857,CY3857,kalamb
+3858,CY3858,chousala
+3859,CY3859,bhoom
+3860,CY3860,ambajogai
+3861,CY3861,shrur kasar
+3862,CY3862,mantha
+3863,CY3863,vaijapur
+3864,CY3864,kada
+3865,CY3865,janla
+3866,CY3866,bhokardhan
+3867,CY3867,majalgaon
+3868,CY3868,paradh bk
+3869,CY3869,padegaon
+3870,CY3870,jafrabad
+3871,CY3871,sillod
+3872,CY3872,tembhurni
+3873,CY3873,kaij
+3874,CY3874,ambhai
+3875,CY3875,makani
+3876,CY3876,omerga
+3877,CY3877,pimpalner
+3878,CY3878,dhawda
+3879,CY3879,auangabad
+3880,CY3880,bharadi
+3881,CY3881,waluj
+3882,CY3882,dahiphal
+3883,CY3883,parali v
+3884,CY3884,khuldabad
+3885,CY3885,aurangabaddd
+3886,CY3886,khultabad
+3887,CY3887,naldurg
+3888,CY3888,soegaon
+3889,CY3889,paranda
+3890,CY3890,phulambri
+3891,CY3891,ajanta
+3892,CY3892,shirur kasar
+3893,CY3893,parli vaijnath
+3894,CY3894,nandughat
+3895,CY3895,manur
+3896,CY3896,auranagabad
+3897,CY3897,sirsala
+3898,CY3898,gadhi
+3899,CY3899,chaklamba
+3900,CY3900,georai
+3901,CY3901,golegaon
+3902,CY3902,adas
+3903,CY3903,"jalna road,beed"
+3904,CY3904,bazarsawangi
+3905,CY3905,warud bk
+3906,CY3906,bhokardan
+3907,CY3907,dhoki
+3908,CY3908,narangwadi
+3909,CY3909,bid
+3910,CY3910,amalner
+3911,CY3911,deogaon
+3912,CY3912,aurangbad
+3913,CY3913,badnapur
+3914,CY3914,lohara
+3915,CY3915,ankushnagar
+3916,CY3916,wadwani
+3917,CY3917,ghansawangi
+3918,CY3918,"gevrai tanda, paithan road"
+3919,CY3919,kille-dharur
+3920,CY3920,girwali
+3921,CY3921,sevali
+3922,CY3922,joura
+3923,CY3923,daboh
+3924,CY3924,pichhore
+3925,CY3925,bhander
+3926,CY3926,chanderi
+3927,CY3927,ashoknagar
+3928,CY3928,kailaras
+3929,CY3929,mohana
+3930,CY3930,alampur
+3931,CY3931,indergarh
+3932,CY3932,gohad
+3933,CY3933,aron
+3934,CY3934,mungaoli
+3935,CY3935,ishagarh
+3936,CY3936,raghogarh
+3937,CY3937,karera
+3938,CY3938,chachoda road binaganj
+3939,CY3939,gormi
+3940,CY3940,mehgaon
+3941,CY3941,kolaras
+3942,CY3942,pohari
+3943,CY3943,wadhvan city
+3944,CY3944,binaganj-chachoda
+3945,CY3945,seondha
+3946,CY3946,mihona
+3947,CY3947,lahr
+3948,CY3948,guragon
+3949,CY3949,mohindargarh
+3950,CY3950,kamareddy
+3951,CY3951,pitlam
+3952,CY3952,kamaredd
+3953,CY3953,morthad
+3954,CY3954,yellareddy
+3955,CY3955,balkonda
+3956,CY3956,banswada
+3957,CY3957,bichkunda
+3958,CY3958,gandhari
+3959,CY3959,nandipet
+3960,CY3960,bheemgal
+3961,CY3961,marcela
+3962,CY3962,athner
+3963,CY3963,timarni
+3964,CY3964,misrod
+3965,CY3965,pachmarhi
+3966,CY3966,chidoriya munjapta
+3967,CY3967,nasrullaganj
+3968,CY3968,kurwai
+3969,CY3969,obedullaganj
+3970,CY3970,gairatganj
+3971,CY3971,obaidullaganj
+3972,CY3972,khilchipur
+3973,CY3973,ichhawar
+3974,CY3974,bagdona
+3975,CY3975,babai
+3976,CY3976,silwani
+3977,CY3977,baroda
+3978,CY3978,zirapur
+3979,CY3979,sohagpur
+3980,CY3980,"berasia ,bhopal"
+3981,CY3981,khirkiya
+3982,CY3982,obedullahganj
+3983,CY3983,sarangpur
+3984,CY3984,sarni
+3985,CY3985,bhainsdehi
+3986,CY3986,pachore
+3987,CY3987,udaipura
+3988,CY3988,rajgarh  m.p
+3989,CY3989,naregal
+3990,CY3990,gajendragad
+3991,CY3991,bhatkal
+3992,CY3992,byadgi
+3993,CY3993,mundgod
+3994,CY3994,hangal
+3995,CY3995,old hubli
+3996,CY3996,mundargi
+3997,CY3997,kumta
+3998,CY3998,surshettykoppa
+3999,CY3999,shiggaon
+4000,CY4000,bankapur
+4001,CY4001,hirekerur
+4002,CY4002,akki -alur
+4003,CY4003,ron
+4004,CY4004,nargund
+4005,CY4005,hole-alur
+4006,CY4006,kalaghatgi
+4007,CY4007,noolvi
+4008,CY4008,honnavar
+4009,CY4009,lakshmeshwar
+4010,CY4010,savanur
+4011,CY4011,kundgol
+4012,CY4012,hubballi
+4013,CY4013,haunsbhavi
+4014,CY4014,mulgund
+4015,CY4015,ankola
+4016,CY4016,navalgund
+4017,CY4017,hubbali
+4018,CY4018,ulga ka
+4019,CY4019,motebennur
+4020,CY4020,rattihalli
+4021,CY4021,yellapur
+4022,CY4022,ranebennura
+4023,CY4023,annigeri
+4024,CY4024,dandeli
+4025,CY4025,joida
+4026,CY4026,shirahatti
+4027,CY4027,naragund
+4028,CY4028,gadg
+4029,CY4029,dhaerwad
+4030,CY4030,gadag-betgeri
+4031,CY4031,siddapura
+4032,CY4032,mundaragi
+4033,CY4033,gokarna
+4034,CY4034,kundagol
+4035,CY4035,siddapur
+4036,CY4036,parvhipuram
+4037,CY4037,arabhavi
+4038,CY4038,munirabad
+4039,CY4039,melasivapuri
+4040,CY4040,kodavasal
+4041,CY4041,vedaranyam
+4042,CY4042,sembanarkoil
+4043,CY4043,thiruppanandal
+4044,CY4044,thiruthuraipoondi
+4045,CY4045,pudhukottai
+4046,CY4046,nagakudaiyan
+4047,CY4047,peravurani
+4048,CY4048,nannilam
+4049,CY4049,orathanadu
+4050,CY4050,cantonement
+4051,CY4051,pallapatti
+4052,CY4052,tiruchirapalli
+4053,CY4053,jeyankondam
+4054,CY4054,thriuvarur
+4055,CY4055,papanasam
+4056,CY4056,kambampadu
+4057,CY4057,reddigudem
+4058,CY4058,makloor
+4059,CY4059,banmore morena
+4060,CY4060,banmore
+4061,CY4061,morar
+4062,CY4062,jabalpaur
+4063,CY4063,bhoapl
+4064,CY4064,"sada, gwalior"
+4065,CY4065,khambhat
+4066,CY4066,lashkar
+4067,CY4067,arandia
+4068,CY4068,thikti
+4069,CY4069,borawan
+4070,CY4070,barela
+4071,CY4071,saij kalol
+4072,CY4072,rajthal road
+4073,CY4073,kaveripakkam
+4074,CY4074,srimushnam
+4075,CY4075,neyveli township
+4076,CY4076,avalurpet
+4077,CY4077,thellar
+4078,CY4078,melvisharam
+4079,CY4079,walajapet vellore
+4080,CY4080,kallakurchi
+4081,CY4081,virudhachalam
+4082,CY4082,wandiwash
+4083,CY4083,chengam
+4084,CY4084,tirukoilur
+4085,CY4085,villianur
+4086,CY4086,tholudur
+4087,CY4087,oomerabad
+4088,CY4088,bodinayakanur
+4089,CY4089,thirumangalam
+4090,CY4090,usilampatti
+4091,CY4091,periyakualam
+4092,CY4092,uthamapalayam
+4093,CY4093,chinnamanur
+4094,CY4094,koduvilarpatti
+4095,CY4095,nohar
+4096,CY4096,pallu
+4097,CY4097,suratgarh
+4098,CY4098,patroda
+4099,CY4099,rawatsar
+4100,CY4100,padampur
+4101,CY4101,ganganagar
+4102,CY4102,pilibangan
+4103,CY4103,sadulpur
+4104,CY4104,dahemi
+4105,CY4105,ratangarh
+4106,CY4106,hanumangarh jn
+4107,CY4107,biakner
+4108,CY4108,new gharsana
+4109,CY4109,new mandi gharsana
+4110,CY4110,sri dungargarh
+4111,CY4111,raisinghnagar
+4112,CY4112,thalarka
+4113,CY4113,bigga
+4114,CY4114,sri vijaynagar
+4115,CY4115,sidhmukh
+4116,CY4116,katar chhoti
+4117,CY4117,bidasar
+4118,CY4118,anupgarh
+4119,CY4119,gajsinghpur
+4120,CY4120,t. bhadra
+4121,CY4121,pilibanga
+4122,CY4122,gullapalli
+4123,CY4123,komarapalayam
+4124,CY4124,ooty
+4125,CY4125,saravanampatti
+4126,CY4126,chennimalai
+4127,CY4127,perundurai
+4128,CY4128,new v.v.nagar
+4129,CY4129,thiruchengode
+4130,CY4130,ketti
+4131,CY4131,tirucengode
+4132,CY4132,coimbtore
+4133,CY4133,mettur
+4134,CY4134,kangayam
+4135,CY4135,narasarao pet
+4136,CY4136,kollipora
+4137,CY4137,laxmangarh
+4138,CY4138,lachhmangarh
+4139,CY4139,kotputali
+4140,CY4140,kotputli
+4141,CY4141,deeg
+4142,CY4142,phagi
+4143,CY4143,bagru
+4144,CY4144,behror
+4145,CY4145,deeg city deeg
+4146,CY4146,fatehpur shekhawati
+4147,CY4147,dantaramgarh
+4148,CY4148,thanagazi
+4149,CY4149,v/p srimadhopur
+4150,CY4150,reengus
+4151,CY4151,chaksu
+4152,CY4152,singhana
+4153,CY4153,kaman
+4154,CY4154,ajitagrh
+4155,CY4155,narainpur
+4156,CY4156,jobner
+4157,CY4157,pahari
+4158,CY4158,jaisinghwas
+4159,CY4159,kanwat
+4160,CY4160,bandikui
+4161,CY4161,ranoli
+4162,CY4162,weir
+4163,CY4163,mahwa
+4164,CY4164,bassi
+4165,CY4165,bansur
+4166,CY4166,chanana
+4167,CY4167,khatushyamji
+4168,CY4168,mandawa
+4169,CY4169,dhodhsar
+4170,CY4170,losal
+4171,CY4171,kathumar
+4172,CY4172,udaipurwati
+4173,CY4173,nadbai
+4174,CY4174,bagar
+4175,CY4175,tijara
+4176,CY4176,jamwaramgarh
+4177,CY4177,nagar
+4178,CY4178,jamwa ramgarh
+4179,CY4179,bhirr
+4180,CY4180,danta
+4181,CY4181,"ranoli, sikar"
+4182,CY4182,chirawa
+4183,CY4183,bagar-jhunjhunu
+4184,CY4184,bayana
+4185,CY4185,shhjahanpur
+4186,CY4186,palsana
+4187,CY4187,bhusawar
+4188,CY4188,nechhwa
+4189,CY4189,kherli
+4190,CY4190,khandela
+4191,CY4191,hingonia
+4192,CY4192,ajitgarh
+4193,CY4193,mahuwa
+4194,CY4194,manda bheem singh
+4195,CY4195,baseri
+4196,CY4196,sikar`
+4197,CY4197,kishangarh renwal
+4198,CY4198,udaipurwat
+4199,CY4199,amer
+4200,CY4200,rudawal
+4201,CY4201,khejroli
+4202,CY4202,dabla
+4203,CY4203,srimadhopur
+4204,CY4204,behror alwar
+4205,CY4205,baragaon
+4206,CY4206,laxmanghrh
+4207,CY4207,gadakhera
+4208,CY4208,bhiwadi
+4209,CY4209,viratnagar
+4210,CY4210,kishangarh bas
+4211,CY4211,manoharpur
+4212,CY4212,mandrella
+4213,CY4213,kumher
+4214,CY4214,khairthal diatt alwar
+4215,CY4215,waghai
+4216,CY4216,mundawar
+4217,CY4217,phulera
+4218,CY4218,th - dhod
+4219,CY4219,ringus
+4220,CY4220,thoi
+4221,CY4221,dhaulpur
+4222,CY4222,ramgarh shekhawati
+4223,CY4223,bhana
+4224,CY4224,khairthal
+4225,CY4225,kishangarh-bas
+4226,CY4226,kaladera
+4227,CY4227,barau
+4228,CY4228,sodawas
+4229,CY4229,khoor
+4230,CY4230,sangalia
+4231,CY4231,saipau
+4232,CY4232,shahpura-jaipur
+4233,CY4233,sohali
+4234,CY4234,mania
+4235,CY4235,chirwa
+4236,CY4236,paota
+4237,CY4237,dhopur rajasthan
+4238,CY4238,himmatanagar
+4239,CY4239,rajakhera
+4240,CY4240,fatehpur-shekhawati
+4241,CY4241,uchchain
+4242,CY4242,mania dholpur
+4243,CY4243,pathriei mor
+4244,CY4244,rupbas
+4245,CY4245,siakr
+4246,CY4246,holpur
+4247,CY4247,bari
+4248,CY4248,"singhana, jhunjhunu"
+4249,CY4249,malviya nagar
+4250,CY4250,"paota,kotputli"
+4251,CY4251,kera
+4252,CY4252,kukas
+4253,CY4253,bhimadole
+4254,CY4254,narasaraopeta
+4255,CY4255,kandukuru
+4256,CY4256,kalpakkam
+4257,CY4257,parel
+4258,CY4258,gurazala
+4259,CY4259,khajipalem
+4260,CY4260,yerragondapalem
+4261,CY4261,maddipadu
+4262,CY4262,parchoor
+4263,CY4263,"gowada, amartahlur"
+4264,CY4264,umerkote
+4265,CY4265,bhanjanagar
+4266,CY4266,nandapur
+4267,CY4267,tikabali
+4268,CY4268,nuvapada
+4269,CY4269,sunabeda
+4270,CY4270,ganjam
+4271,CY4271,kodala
+4272,CY4272,aska
+4273,CY4273,surada
+4274,CY4274,phulbani
+4275,CY4275,g.udayagiri
+4276,CY4276,"n.a.c.,gopalpur"
+4277,CY4277,paralakhemundi
+4278,CY4278,nabarangpur
+4279,CY4279,jagannath prasad
+4280,CY4280,hinjilicut
+4281,CY4281,malkangiri
+4282,CY4282,digapahandi
+4283,CY4283,balliguda
+4284,CY4284,boipariguda
+4285,CY4285,chatrapur
+4286,CY4286,balimela
+4287,CY4287,"berhampur, ankushpur"
+4288,CY4288,raikia
+4289,CY4289,chikiti
+4290,CY4290,padmapur
+4291,CY4291,polasara
+4292,CY4292,kashinagar
+4293,CY4293,gudari
+4294,CY4294,muniguda
+4295,CY4295,kundura
+4296,CY4296,keshpur
+4297,CY4297,govindapalli
+4298,CY4298,"berhampur , ganjam"
+4299,CY4299,dabugaon
+4300,CY4300,kotpad
+4301,CY4301,"laxmipur, koraput"
+4302,CY4302,buguda
+4303,CY4303,bissamcuttack
+4304,CY4304,buduka
+4305,CY4305,kabisurya nagar
+4306,CY4306,purushottampur
+4307,CY4307,berhaampur
+4308,CY4308,pattapur
+4309,CY4309,chatula
+4310,CY4310,chandiput
+4311,CY4311,bamunigam
+4312,CY4312,sheragada
+4313,CY4313,semiliguda
+4314,CY4314,ballipadar
+4315,CY4315,konkorada
+4316,CY4316,narsaropet
+4317,CY4317,cheemakurthi
+4318,CY4318,jajpur
+4319,CY4319,cuttck
+4320,CY4320,pattamundai
+4321,CY4321,lcher
+4322,CY4322,jajpur road
+4323,CY4323,kamakhyanagar
+4324,CY4324,nayagarh
+4325,CY4325,jajapur
+4326,CY4326,amanakud
+4327,CY4327,"konark , n.a.c"
+4328,CY4328,kendrapara
+4329,CY4329,kuhurhi
+4330,CY4330,kanimul
+4331,CY4331,asureswar
+4332,CY4332,bajpur
+4333,CY4333,khurdha
+4334,CY4334,ankula
+4335,CY4335,jagatsinghpur
+4336,CY4336,balugaon
+4337,CY4337,paradip
+4338,CY4338,bhuban
+4339,CY4339,pallahara
+4340,CY4340,daspalla
+4341,CY4341,mangalpur
+4342,CY4342,kakatpur
+4343,CY4343,bhubanesawr
+4344,CY4344,block. bhuban
+4345,CY4345,bhuabneswar
+4346,CY4346,tigiria
+4347,CY4347,nischintakoili
+4348,CY4348,banki
+4349,CY4349,choudwar
+4350,CY4350,kaipadar
+4351,CY4351,gania
+4352,CY4352,nimapada
+4353,CY4353,gurudijhatia
+4354,CY4354,astarang
+4355,CY4355,tirtol
+4356,CY4356,bhubeneswar
+4357,CY4357,redhua
+4358,CY4358,nimapara
+4359,CY4359,pipli     n.a.c
+4360,CY4360,pattamundei
+4361,CY4361,parjang
+4362,CY4362,kujang
+4363,CY4363,rajanga
+4364,CY4364,konark
+4365,CY4365,jajpur road muncipality
+4366,CY4366,brahmabarada
+4367,CY4367,kendrapada
+4368,CY4368,athgarh
+4369,CY4369,banpur
+4370,CY4370,tolarpasi
+4371,CY4371,rajkanika
+4372,CY4372,nimapara n.a.c
+4373,CY4373,hata sahi
+4374,CY4374,jarapada
+4375,CY4375,alijoda
+4376,CY4376,kalapathar
+4377,CY4377,korpada
+4378,CY4378,nac
+4379,CY4379,gopapur
+4380,CY4380,khandapara
+4381,CY4381,hindol road
+4382,CY4382,sajjangarh
+4383,CY4383,rajsamand
+4384,CY4384,sheoganj
+4385,CY4385,rajsmand
+4386,CY4386,chhotisadri
+4387,CY4387,jhadol
+4388,CY4388,rawatbhata
+4389,CY4389,anandpuri
+4390,CY4390,dhariyawad
+4391,CY4391,garhi
+4392,CY4392,chittorgarh
+4393,CY4393,bagidora
+4394,CY4394,udaipuir
+4395,CY4395,vallabhnagar
+4396,CY4396,salumber
+4397,CY4397,aburoad
+4398,CY4398,fatehnagar
+4399,CY4399,mandphiya
+4400,CY4400,kanore
+4401,CY4401,delwara
+4402,CY4402,mount abu
+4403,CY4403,rishabhdeo
+4404,CY4404,badwai
+4405,CY4405,abu parvat
+4406,CY4406,dhariyaward
+4407,CY4407,chittaugarh
+4408,CY4408,ghatol
+4409,CY4409,kherwara
+4410,CY4410,nimbahera
+4411,CY4411,debari
+4412,CY4412,amet
+4413,CY4413,anjana
+4414,CY4414,railmagra
+4415,CY4415,udapiur
+4416,CY4416,begun
+4417,CY4417,aspur
+4418,CY4418,paloda
+4419,CY4419,kotra
+4420,CY4420,timba gamdi
+4421,CY4421,partapur
+4422,CY4422,bangalorre
+4423,CY4423,b.g.nagara
+4424,CY4424,basaveshwarnagar
+4425,CY4425,tumakuru
+4426,CY4426,manvi
+4427,CY4427,"mulki, mangalore"
+4428,CY4428,banglaore
+4429,CY4429,hospet
+4430,CY4430,chikballpur
+4431,CY4431,madhugiri
+4432,CY4432,koratagere
+4433,CY4433,at/po- bedkihal - shamanewadi
+4434,CY4434,terdal
+4435,CY4435,ullal mangalore
+4436,CY4436,bijaypur
+4437,CY4437,murudeshwar
+4438,CY4438,mooodbdiri
+4439,CY4439,balagangadharanatha nagara
+4440,CY4440,"bagalur main road,bangalore"
+4441,CY4441,sahawa
+4442,CY4442,nokha
+4443,CY4443,"rawla mandi, gharsana"
+4444,CY4444,khajuwala
+4445,CY4445,jaitsr
+4446,CY4446,sardarshahr
+4447,CY4447,"sadulpur, rajgarh"
+4448,CY4448,sujangarh
+4449,CY4449,raisingh nagar
+4450,CY4450,sri ganga nagar
+4451,CY4451,sandwa
+4452,CY4452,kesrisinghpur
+4453,CY4453,kolayat
+4454,CY4454,lalgarh jattan
+4455,CY4455,sangaria
+4456,CY4456,sadul shahar
+4457,CY4457,goluwala
+4458,CY4458,sri karanpur
+4459,CY4459,sri karanpue
+4460,CY4460,tara nagar
+4461,CY4461,lunkaransar
+4462,CY4462,sadulshahar
+4463,CY4463,jaitsar
+4464,CY4464,tibbi
+4465,CY4465,th-taranagar
+4466,CY4466,sambhar lake
+4467,CY4467,sonepur
+4468,CY4468,rairakhol
+4469,CY4469,baramati
+4470,CY4470,panchgaon
+4471,CY4471,bolangir
+4472,CY4472,jandol
+4473,CY4473,deogarh
+4474,CY4474,bhatli
+4475,CY4475,jaipatna
+4476,CY4476,chandanbhati
+4477,CY4477,"burla, sambalpur"
+4478,CY4478,kapsi
+4479,CY4479,bandhapali
+4480,CY4480,laida
+4481,CY4481,komna
+4482,CY4482,binka
+4483,CY4483,paikmal
+4484,CY4484,barpali
+4485,CY4485,dharamgarh
+4486,CY4486,khariar
+4487,CY4487,birmitrapur
+4488,CY4488,titilagarh
+4489,CY4489,belpahar
+4490,CY4490,attabira
+4491,CY4491,saintala
+4492,CY4492,agalpur
+4493,CY4493,boudh
+4494,CY4494,patnagarh
+4495,CY4495,kuchinda
+4496,CY4496,koira
+4497,CY4497,kishorenagar
+4498,CY4498,sohela
+4499,CY4499,loisingha
+4500,CY4500,subarnapur
+4501,CY4501,junagarh
+4502,CY4502,boden
+4503,CY4503,bijepur
+4504,CY4504,samablpur
+4505,CY4505,kantabanji
+4506,CY4506,belpada
+4507,CY4507,reamal
+4508,CY4508,ulunda
+4509,CY4509,brajrajnagar
+4510,CY4510,jharbeda
+4511,CY4511,kalahandi
+4512,CY4512,kesinga
+4513,CY4513,tukla
+4514,CY4514,rajgangpur
+4515,CY4515,kalampur
+4516,CY4516,nuapada
+4517,CY4517,golamunda
+4518,CY4518,muribahal
+4519,CY4519,sundergarh
+4520,CY4520,m.rampur
+4521,CY4521,bausenpali
+4522,CY4522,burla
+4523,CY4523,khairapali
+4524,CY4524,mundra
+4525,CY4525,rbha
+4526,CY4526,birmaharajpur
+4527,CY4527,himatagar
+4528,CY4528,rentachintala
+4529,CY4529,velpur
+4530,CY4530,komarole
+4531,CY4531,nakarekallu
+4532,CY4532,dachipalli
+4533,CY4533,tripurantakam
+4534,CY4534,gandhidham
+4535,CY4535,martur
+4536,CY4536,khanpur kalan
+4537,CY4537,udumalpet
+4538,CY4538,anjar
+4539,CY4539,coonoor
+4540,CY4540,nakhatrana
+4541,CY4541,coimabtore
+4542,CY4542,kodaypul
+4543,CY4543,periyanaickenpalayam
+4544,CY4544,valparai
+4545,CY4545,gudalur
+4546,CY4546,kotagiri
+4547,CY4547,karamadai
+4548,CY4548,"dharapuram, tiruppur"
+4549,CY4549,melapalayam
+4550,CY4550,alangulam
+4551,CY4551,kayalpatnam
+4552,CY4552,karungal
+4553,CY4553,aralvaimoli
+4554,CY4554,thoothukkudi
+4555,CY4555,vickramasingapuram
+4556,CY4556,alwarkurichi
+4557,CY4557,neyyoor
+4558,CY4558,kaliakkavilai
+4559,CY4559,ambasamudram
+4560,CY4560,tirucheudur
+4561,CY4561,sathankulam
+4562,CY4562,nagercoi
+4563,CY4563,marthaandam
+4564,CY4564,panagudi
+4565,CY4565,veerakeralampudur
+4566,CY4566,"palayamkottai, tirunelveli"
+4567,CY4567,ottapidaram
+4568,CY4568,srivaikuntam
+4569,CY4569,kommadikottai
+4570,CY4570,mokhana
+4571,CY4571,maval
+4572,CY4572,manchar
+4573,CY4573,silvassa
+4574,CY4574,koradgaon
+4575,CY4575,"akurdi, pune"
+4576,CY4576,malegaon
+4577,CY4577,jamkhed
+4578,CY4578,sinnar
+4579,CY4579,shrigonda
+4580,CY4580,kalwan
+4581,CY4581,ashvi kd
+4582,CY4582,rahuri
+4583,CY4583,narayangaon
+4584,CY4584,shirur ghodnadi
+4585,CY4585,shrirampur
+4586,CY4586,wadala bahiroba
+4587,CY4587,legaon dighe
+4588,CY4588,inapur
+4589,CY4589,pimpalgaon pisa
+4590,CY4590,ozar mig
+4591,CY4591,harabad
+4592,CY4592,rajgurunagar
+4593,CY4593,chinchwadgaon pune
+4594,CY4594,kopargaon
+4595,CY4595,belapur
+4596,CY4596,khedshivapur
+4597,CY4597,"shrigonda,ahmednagar"
+4598,CY4598,daund
+4599,CY4599,akurdi
+4600,CY4600,deolali pravara
+4601,CY4601,bhor
+4602,CY4602,shevgaon
+4603,CY4603,walchandnagar
+4604,CY4604,legaon dabhade
+4605,CY4605,lasalgaon
+4606,CY4606,akole
+4607,CY4607,nasik
+4608,CY4608,bavdhan  pune
+4609,CY4609,pimpalgaon
+4610,CY4610,bota
+4611,CY4611,nasik road
+4612,CY4612,vadgaon maval
+4613,CY4613,"pimpri, pune"
+4614,CY4614,"thergaon, pune"
+4615,CY4615,"chinchwad, pune"
+4616,CY4616,abhone
+4617,CY4617,chakan
+4618,CY4618,pimpri chinchwad
+4619,CY4619,jejuri
+4620,CY4620,kalamb-walchandngar
+4621,CY4621,niphad
+4622,CY4622,newasa
+4623,CY4623,"zodage, malegaon"
+4624,CY4624,someshwarnagar
+4625,CY4625,deola
+4626,CY4626,otur
+4627,CY4627,loni kd
+4628,CY4628,burhannagar ahmednagar
+4629,CY4629,saswad
+4630,CY4630,surgana
+4631,CY4631,pathardi
+4632,CY4632,bodhegaon
+4633,CY4633,kharda
+4634,CY4634,koregaon bhima pune
+4635,CY4635,lonavala
+4636,CY4636,peth
+4637,CY4637,pirangut
+4638,CY4638,parner
+4639,CY4639,varvand
+4640,CY4640,satana
+4641,CY4641,koregaon bhima
+4642,CY4642,purandar
+4643,CY4643,"wadki, pune"
+4644,CY4644,pimpri
+4645,CY4645,"pimpri,pune"
+4646,CY4646,igatpuri
+4647,CY4647,kedgaon
+4648,CY4648,pimpalwandi
+4649,CY4649,rahu
+4650,CY4650,nandgaon
+4651,CY4651,legaon dhamdhere
+4652,CY4652,dumbarwadi
+4653,CY4653,ghodgaon
+4654,CY4654,bhende
+4655,CY4655,mandavgan pharata
+4656,CY4656,loni bk
+4657,CY4657,nampur
+4658,CY4658,rahata
+4659,CY4659,charoli
+4660,CY4660,lohoner
+4661,CY4661,"ozar , nashik"
+4662,CY4662,bhigwan
+4663,CY4663,indapur
+4664,CY4664,nahsik
+4665,CY4665,shendi
+4666,CY4666,vani
+4667,CY4667,ale
+4668,CY4668,kalamb-walchandnagar
+4669,CY4669,baramti
+4670,CY4670,"chinchwad,pune"
+4671,CY4671,pimpri-chinchwad
+4672,CY4672,manmad
+4673,CY4673,"bagalan, nashik"
+4674,CY4674,bhosari
+4675,CY4675,pimpri pune
+4676,CY4676,same as above
+4677,CY4677,sonai
+4678,CY4678,sidhpur
+4679,CY4679,dodi bk
+4680,CY4680,mirajgaon
+4681,CY4681,saikheda
+4682,CY4682,khednagar
+4683,CY4683,harsul
+4684,CY4684,bawada
+4685,CY4685,babhulgaon
+4686,CY4686,shirur
+4687,CY4687,tryambakeshwar
+4688,CY4688,pure roop
+4689,CY4689,sangipur
+4690,CY4690,akbarpur ambedkar nagar
+4691,CY4691,gauriganj
+4692,CY4692,akbapur
+4693,CY4693,faizbad
+4694,CY4694,kunda
+4695,CY4695,saidehi ambedkar nagar
+4696,CY4696,ambedkernagar
+4697,CY4697,kadipur
+4698,CY4698,ambedkarmagar
+4699,CY4699,ambedkranagar
+4700,CY4700,paras pur
+4701,CY4701,jalalpur
+4702,CY4702,pratpgarh
+4703,CY4703,bara banki
+4704,CY4704,sadullah nagar
+4705,CY4705,shrawasti
+4706,CY4706,lambhua
+4707,CY4707,bhinga
+4708,CY4708,katehri
+4709,CY4709,nawabganj
+4710,CY4710,kanera
+4711,CY4711,colonelganj
+4712,CY4712,paraspur
+4713,CY4713,dariyabad
+4714,CY4714,nanpara
+4715,CY4715,dostpur
+4716,CY4716,pahitipur
+4717,CY4717,baskhari
+4718,CY4718,rupaidiha
+4719,CY4719,shravasti
+4720,CY4720,prtapgarh
+4721,CY4721,babhnan
+4722,CY4722,bikapur
+4723,CY4723,kurebhar
+4724,CY4724,akaberpur
+4725,CY4725,shukla bazar
+4726,CY4726,sihauli
+4727,CY4727,sohawal
+4728,CY4728,alapur
+4729,CY4729,saifabad patti
+4730,CY4730,pratpagarh
+4731,CY4731,mankapur
+4732,CY4732,amethi sultanpur
+4733,CY4733,musafirkhana
+4734,CY4734,duntur
+4735,CY4735,balurghat
+4736,CY4736,english bazar
+4737,CY4737,itahar
+4738,CY4738,raiganj
+4739,CY4739,gangarampur
+4740,CY4740,buniadpur
+4741,CY4741,maldah
+4742,CY4742,harirampur
+4743,CY4743,kaliyaganj
+4744,CY4744,dalkhola
+4745,CY4745,gazole
+4746,CY4746,patiram
+4747,CY4747,ethamukkala
+4748,CY4748,sami
+4749,CY4749,bibirani
+4750,CY4750,chimakurthi
+4751,CY4751,panki
+4752,CY4752,garhwa
+4753,CY4753,rehla
+4754,CY4754,medininagar
+4755,CY4755,manjhiaon
+4756,CY4756,bhawnathpur
+4757,CY4757,bishrampur
+4758,CY4758,daltonganj
+4759,CY4759,chhattarpur
+4760,CY4760,latehar
+4761,CY4761,mahuadanr
+4762,CY4762,rhasi
+4763,CY4763,hussainabad
+4764,CY4764,nagar untari
+4765,CY4765,pedakurapadu
+4766,CY4766,karampudi
+4767,CY4767,ramrajatala
+4768,CY4768,kanpur puras
+4769,CY4769,belpukur
+4770,CY4770,dhamangaon railway
+4771,CY4771,ansing
+4772,CY4772,shegaon
+4773,CY4773,jarud
+4774,CY4774,motala
+4775,CY4775,akot
+4776,CY4776,sakharkherda
+4777,CY4777,achalpure
+4778,CY4778,morshi
+4779,CY4779,warud
+4780,CY4780,mangrul pir
+4781,CY4781,pusad
+4782,CY4782,dharni
+4783,CY4783,umarkhed
+4784,CY4784,shendurjana
+4785,CY4785,nandgaon khandeshwar
+4786,CY4786,mangrulpir
+4787,CY4787,teosa
+4788,CY4788,dhamangaon rly
+4789,CY4789,dusarbid
+4790,CY4790,wani
+4791,CY4791,mehkar
+4792,CY4792,murtizapur
+4793,CY4793,shendurjanaghat
+4794,CY4794,deulgaon raja
+4795,CY4795,parwa
+4796,CY4796,nandura
+4797,CY4797,karanja
+4798,CY4798,telhara
+4799,CY4799,pandharkawada
+4800,CY4800,buldaba
+4801,CY4801,chandur rly
+4802,CY4802,mulawa
+4803,CY4803,tiwasa
+4804,CY4804,digras
+4805,CY4805,chikhaldara
+4806,CY4806,anjangaon surji
+4807,CY4807,badnera rly
+4808,CY4808,asegaon purna
+4809,CY4809,nerparsopant
+4810,CY4810,risod
+4811,CY4811,pohradevi
+4812,CY4812,jalgaon jamod
+4813,CY4813,wanoja
+4814,CY4814,balapur
+4815,CY4815,yavatamal
+4816,CY4816,daryapur
+4817,CY4817,wadhona ram
+4818,CY4818,badnera-amravati
+4819,CY4819,budlana
+4820,CY4820,walgaon
+4821,CY4821,tiosa
+4822,CY4822,chandur railway
+4823,CY4823,amravti
+4824,CY4824,nandgaon kh
+4825,CY4825,sagwan buldana
+4826,CY4826,hiwarkhed
+4827,CY4827,ralegaon
+4828,CY4828,kamargaon
+4829,CY4829,mahagaon
+4830,CY4830,warwat bakal
+4831,CY4831,karanja lad
+4832,CY4832,manora
+4833,CY4833,badnera - amravati
+4834,CY4834,lonar
+4835,CY4835,pimpalgaon kale
+4836,CY4836,dhrangadhra
+4837,CY4837,ghatanji
+4838,CY4838,patanbori
+4839,CY4839,karajgaon
+4840,CY4840,muazffarpur
+4841,CY4841,palakkad
+4842,CY4842,perinthalmanna
+4843,CY4843,chittur
+4844,CY4844,ulliyeri
+4845,CY4845,irinjalakuda
+4846,CY4846,kottayi
+4847,CY4847,calicut
+4848,CY4848,malappuram
+4849,CY4849,kuttiadi
+4850,CY4850,shoranur
+4851,CY4851,pattambi
+4852,CY4852,pudukkad
+4853,CY4853,perinthalamanna
+4854,CY4854,manjeri
+4855,CY4855,meppayur
+4856,CY4856,nemmara
+4857,CY4857,kadungathukundu
+4858,CY4858,ramanattukara
+4859,CY4859,chalakkudy
+4860,CY4860,kozhikode
+4861,CY4861,menonpara
+4862,CY4862,koottanad
+4863,CY4863,edavanna
+4864,CY4864,valanchery
+4865,CY4865,lakkidi
+4866,CY4866,nadapuram
+4867,CY4867,cheloor
+4868,CY4868,thrithala
+4869,CY4869,bongaon
+4870,CY4870,helencha
+4871,CY4871,barasat
+4872,CY4872,naihat
+4873,CY4873,taki
+4874,CY4874,barasat-pgs
+4875,CY4875,gobardanga
+4876,CY4876,kaukepara
+4877,CY4877,madhyamgram
+4878,CY4878,tentulia
+4879,CY4879,habra
+4880,CY4880,kalinagar
+4881,CY4881,sadhanpur
+4882,CY4882,naihati
+4883,CY4883,basirhat
+4884,CY4884,deganga
+4885,CY4885,ashokenagar
+4886,CY4886,minakhan
+4887,CY4887,hingalganj
+4888,CY4888,bhwanipatana
+4889,CY4889,chaibasa
+4890,CY4890,ghatsila
+4891,CY4891,seraikella
+4892,CY4892,chakradharpur
+4893,CY4893,jamshedpur
+4894,CY4894,jamshedur
+4895,CY4895,gamharia
+4896,CY4896,chandil
+4897,CY4897,baharagora
+4898,CY4898,phondaghat
+4899,CY4899,cherthala
+4900,CY4900,mavelikara
+4901,CY4901,trivandrum
+4902,CY4902,alalppuzha
+4903,CY4903,chengannur
+4904,CY4904,punalur
+4905,CY4905,kollam
+4906,CY4906,varkala
+4907,CY4907,pathanapuram
+4908,CY4908,peringammala
+4909,CY4909,pothencode
+4910,CY4910,kayamkulam
+4911,CY4911,attingal
+4912,CY4912,oyoor
+4913,CY4913,kottarakkara
+4914,CY4914,thiruvanathapuram
+4915,CY4915,adoor
+4916,CY4916,ayoor
+4917,CY4917,neyyattinkara
+4918,CY4918,ambalapuzha
+4919,CY4919,oyur
+4920,CY4920,chavara
+4921,CY4921,kulathupuzha
+4922,CY4922,muthukulam
+4923,CY4923,kottarakara
+4924,CY4924,kadakkal
+4925,CY4925,neyattinkara
+4926,CY4926,kadampanad
+4927,CY4927,anchal
+4928,CY4928,kattakkada
+4929,CY4929,karunagappally
+4930,CY4930,mavelikaa
+4931,CY4931,thiruvanandapuram
+4932,CY4932,kallambalam
+4933,CY4933,thiruvananthapurm
+4934,CY4934,kanjiramkulam
+4935,CY4935,thiruvananathapuram
+4936,CY4936,ayur
+4937,CY4937,nedumangad
+4938,CY4938,thiruvananthpuram
+4939,CY4939,vythiri
+4940,CY4940,nileshwar
+4941,CY4941,liparamba
+4942,CY4942,kannur
+4943,CY4943,thalassery
+4944,CY4944,pariyaram
+4945,CY4945,panoor
+4946,CY4946,kasaragod
+4947,CY4947,kasaragode
+4948,CY4948,payyanur
+4949,CY4949,mananthavady
+4950,CY4950,chengala
+4951,CY4951,"kanhangad,kasaragod"
+4952,CY4952,iritty
+4953,CY4953,cheruvathur
+4954,CY4954,chemperi
+4955,CY4955,kanhangad
+4956,CY4956,kasargod
+4957,CY4957,mattannur
+4958,CY4958,paisakary
+4959,CY4959,alakode
+4960,CY4960,kallikkandy
+4961,CY4961,panamaram
+4962,CY4962,peravoor
+4963,CY4963,anjarakandy
+4964,CY4964,mattanur
+4965,CY4965,cherupuzha
+4966,CY4966,mavilayi
+4967,CY4967,rajapuram
+4968,CY4968,chala
+4969,CY4969,cherukunnu
+4970,CY4970,mathamangalam
+4971,CY4971,kanhirangad
+4972,CY4972,trikaripur
+4973,CY4973,chervathur
+4974,CY4974,kuthuparamba
+4975,CY4975,kumbla
+4976,CY4976,mayyil
+4977,CY4977,manjeshwar
+4978,CY4978,payangadi
+4979,CY4979,kadavathur
+4980,CY4980,kalichanadukkam
+4981,CY4981,manathawady
+4982,CY4982,adyar
+4983,CY4983,keelachery
+4984,CY4984,ponneri
+4985,CY4985,"maduranthakam  ,kancheepuram"
+4986,CY4986,madhuranthakam
+4987,CY4987,annanagar
+4988,CY4988,nemmeli
+4989,CY4989,nileshwaram
+4990,CY4990,berhampore
+4991,CY4991,plassey
+4992,CY4992,dhuliyan
+4993,CY4993,murshidabad
+4994,CY4994,betai
+4995,CY4995,domkal
+4996,CY4996,krishnagar
+4997,CY4997,nadia
+4998,CY4998,beldanga
+4999,CY4999,jiaganj
+5000,CY5000,kandi
+5001,CY5001,karimpur
+5002,CY5002,khaira
+5003,CY5003,raghunathpur
+5004,CY5004,parlakhemundi
+5005,CY5005,kherva
+5006,CY5006,goguladinne
+5007,CY5007,sindkhed raja
+5008,CY5008,prantij
+5009,CY5009,raver
+5010,CY5010,parbhnani
+5011,CY5011,khapar
+5012,CY5012,manund
+5013,CY5013,dongarkathore
+5014,CY5014,shahada
+5015,CY5015,santacruz
+5016,CY5016,nandurbar
+5017,CY5017,"vallabh vidyanagar, anand"
+5018,CY5018,chalisgaon
+5019,CY5019,ganpat vidyanagar
+5020,CY5020,bandra
+5021,CY5021,kadodara
+5022,CY5022,diat. vadodara
+5023,CY5023,chembur
+5024,CY5024,jat
+5025,CY5025,goa
+5026,CY5026,giridih
+5027,CY5027,godda
+5028,CY5028,"barkagaon, hazaribag"
+5029,CY5029,itkhori
+5030,CY5030,sadar hazaribag
+5031,CY5031,bokaro steel city
+5032,CY5032,bhurkunda
+5033,CY5033,sindri
+5034,CY5034,bokaro
+5035,CY5035,jamua
+5036,CY5036,hazaribag
+5037,CY5037,deoghar
+5038,CY5038,katras
+5039,CY5039,isri bazar
+5040,CY5040,patratu
+5041,CY5041,jhumari telaiya
+5042,CY5042,nirsha
+5043,CY5043,jhumri telaiya
+5044,CY5044,chatra
+5045,CY5045,jhumritelaiya
+5046,CY5046,maithon
+5047,CY5047,mandu
+5048,CY5048,hazaribagh
+5049,CY5049,phusro
+5050,CY5050,koderma
+5051,CY5051,rajdhanwar
+5052,CY5052,dumri
+5053,CY5053,r.b. tenughat
+5054,CY5054,jhmri telaiya
+5055,CY5055,ndwa
+5056,CY5056,"suriya, giridih"
+5057,CY5057,neyatttnkara
+5058,CY5058,medarametla
+5059,CY5059,markhel
+5060,CY5060,kandhar
+5061,CY5061,naigaon
+5062,CY5062,kalamnuri
+5063,CY5063,chakur
+5064,CY5064,deulagaon raja
+5065,CY5065,arvi road wardha
+5066,CY5066,swami-chincholi
+5067,CY5067,ukhrid
+5068,CY5068,sultandi
+5069,CY5069,bolpur
+5070,CY5070,purulia
+5071,CY5071,khatra
+5072,CY5072,memari
+5073,CY5073,chinsurah
+5074,CY5074,haripal
+5075,CY5075,chittaranjan
+5076,CY5076,shyamsundar
+5077,CY5077,laulara
+5078,CY5078,manbazar
+5079,CY5079,madian
+5080,CY5080,rakeswar
+5081,CY5081,galsi
+5082,CY5082,katwa
+5083,CY5083,arambagh
+5084,CY5084,khosbag
+5085,CY5085,joypur
+5086,CY5086,kalna
+5087,CY5087,paschim radhanagar
+5088,CY5088,rampurhat
+5089,CY5089,ahmadpur
+5090,CY5090,bishnupur
+5091,CY5091,bhadreswar
+5092,CY5092,panchmura
+5093,CY5093,-illambazar
+5094,CY5094,suisa
+5095,CY5095,panrari
+5096,CY5096,rangiladi
+5097,CY5097,chandernagore
+5098,CY5098,santiniketan
+5099,CY5099,mankar
+5100,CY5100,pandua
+5101,CY5101,usir
+5102,CY5102,halud kanali
+5103,CY5103,kulti
+5104,CY5104,bengai
+5105,CY5105,labpur
+5106,CY5106,pandaveswar
+5107,CY5107,hetampur rajbati
+5108,CY5108,khamargachhi
+5109,CY5109,hetampur
+5110,CY5110,kandra
+5111,CY5111,chandannagar
+5112,CY5112,nalhati
+5113,CY5113,sonamukhi
+5114,CY5114,khayrasole
+5115,CY5115,suri
+5116,CY5116,gushkara
+5117,CY5117,patrasayer
+5118,CY5118,khamra
+5119,CY5119,po. darapur
+5120,CY5120,amarkanan
+5121,CY5121,lokepara
+5122,CY5122,amodghata
+5123,CY5123,dhaka
+5124,CY5124,khujutipara
+5125,CY5125,bargram
+5126,CY5126,chitaguppa
+5127,CY5127,kamlapur
+5128,CY5128,bellandur
+5129,CY5129,k.g.halli bangalore
+5130,CY5130,deodurg
+5131,CY5131,sindhanur
+5132,CY5132,"kamothe, navi mumbai"
+5133,CY5133,aurad b
+5134,CY5134,afzalpur
+5135,CY5135,vallanad
+5136,CY5136,mettupalayam
+5137,CY5137,kohinoor
+5138,CY5138,vadamalapet  chittoor
+5139,CY5139,tendukheda damoh
+5140,CY5140,laundi
+5141,CY5141,shahpur patti
+5142,CY5142,dehri-on-sone
+5143,CY5143,chittapur
+5144,CY5144,sidndhanur
+5145,CY5145,devadurga
+5146,CY5146,chanduvav
+5147,CY5147,palasar
+5148,CY5148,khedbrahma
+5149,CY5149,m.k.hubli
+5150,CY5150,waddarhatti-gangavati
+5151,CY5151,ittigi
+5152,CY5152,deesa
+5153,CY5153,deodar
+5154,CY5154,thara
+5155,CY5155,mehasana
+5156,CY5156,sedrana
+5157,CY5157,baspa
+5158,CY5158,radhanpur
+5159,CY5159,androkha
+5160,CY5160,bayad
+5161,CY5161,meerganj
+5162,CY5162,islamnager
+5163,CY5163,shahjahanupr
+5164,CY5164,vashi
+5165,CY5165,"new panvel, navi mumbai"
+5166,CY5166,shreewardhan
+5167,CY5167,borli panchatan
+5168,CY5168,sangameshwar
+5169,CY5169,velneshwar
+5170,CY5170,kharepatan
+5171,CY5171,phansagaon
+5172,CY5172,dahanu
+5173,CY5173,vangani
+5174,CY5174,khadavali
+5175,CY5175,nandivali
+5176,CY5176,kaman - vasai
+5177,CY5177,thatchanallur
+5178,CY5178,khadiya
+5179,CY5179,hingoli
+5180,CY5180,ranavav
+5181,CY5181,bhesan
+5182,CY5182,kotdasangani
+5183,CY5183,paddhari
+5184,CY5184,chotila      pn
+5185,CY5185,jafarabad
+5186,CY5186,manjakalpatti
+5187,CY5187,coochbehar
+5188,CY5188,koch behar
+5189,CY5189,cooch behar
+5190,CY5190,dinhata
+5191,CY5191,mathabhanga
+5192,CY5192,mekhliganj
+5193,CY5193,haldibari
+5194,CY5194,sitalkuchi
+5195,CY5195,darjeeling
+5196,CY5196,kalimpong
+5197,CY5197,kurseong
+5198,CY5198,mirik
+5199,CY5199,sonada
+5200,CY5200,alipurduar
+5201,CY5201,birpara
+5202,CY5202,falakata
+5203,CY5203,maynaguri
+5204,CY5204,jaigaon
+5205,CY5205,mal
+5206,CY5206,kamakhyaguri
+5207,CY5207,dhupguri
+5208,CY5208,dumka
+5209,CY5209,jamtara
+5210,CY5210,pathargama
+5211,CY5211,rajmahal
+5212,CY5212,pakur
+5213,CY5213,barharwa
+5214,CY5214,dhamri gopalram
+5215,CY5215,sahibganj
+5216,CY5216,sendurai
+5217,CY5217,kannampalayam
+5218,CY5218,sowripalayam
+5219,CY5219,dharmpuri
+5220,CY5220,dinidigul
+5221,CY5221,kangeyam
+5222,CY5222,melmaruvathur
+5223,CY5223,kelambakkam
+5224,CY5224,tirumangalam
+5225,CY5225,kavalkinaru.jn
+5226,CY5226,vadakangulam
+5227,CY5227,cheranmahadevi
+5228,CY5228,"konalai,tiruchirappalli"
+5229,CY5229,viluppuram
+5230,CY5230,trichirapalli
+5231,CY5231,manikandam po
+5232,CY5232,krishnan kovil
+5233,CY5233,samuktala
+5234,CY5234,nakshalbari
+5235,CY5235,nishiganj
+5236,CY5236,vridhachalam
+5237,CY5237,kumarapalayam
+5238,CY5238,thidal
+5239,CY5239,madhuranthagam
+5240,CY5240,budalur
+5241,CY5241,ruichhattisi
+5242,CY5242,pune city
+5243,CY5243,triuchengode
+5244,CY5244,kurla
+5245,CY5245,sagbara
+5246,CY5246,ahwa
+5247,CY5247,jhaghadia
+5248,CY5248,kaprada
+5249,CY5249,bandipora
+5250,CY5250,bandipore
+5251,CY5251,humhama
+5252,CY5252,hyderpora
+5253,CY5253,"nowgam, srinagar"
+5254,CY5254,narabal
+5255,CY5255,pampore
+5256,CY5256,srinager
+5257,CY5257,shopian
+5258,CY5258,bulandhahr
+5259,CY5259,gr noida
+5260,CY5260,darbhanga
+5261,CY5261,madhubani
+5262,CY5262,vainguinim beach
+5263,CY5263,mandre
+5264,CY5264,parvari
+5265,CY5265,assagao
+5266,CY5266,dediapada
+5267,CY5267,siswali
+5268,CY5268,keshav rai patan
+5269,CY5269,aktasa
+5270,CY5270,block rasoolabad
+5271,CY5271,aurraiya
+5272,CY5272,chakia
+5273,CY5273,gopiganj
+5274,CY5274,bhangaram talodhi
+5275,CY5275,neri
+5276,CY5276,rajoli
+5277,CY5277,"gutkala, chandrapur"
+5278,CY5278,chichpalli
+5279,CY5279,bhamragad
+5280,CY5280,visora
+5281,CY5281,lagam
+5282,CY5282,pattan
+5283,CY5283,yadwad
+5284,CY5284,dharpur
+5285,CY5285,golapur
+5286,CY5286,dharampur
+5287,CY5287,pan
+5288,CY5288,chanchal
+5289,CY5289,bindole
+5290,CY5290,thaloor
+5291,CY5291,darbhanaga
+5292,CY5292,wagholi
+5293,CY5293,shikrapur pune
+5294,CY5294,ghoorpur
+5295,CY5295,pakhanpur
+5296,CY5296,gorkhpur
+5297,CY5297,"bilhaur, kanpur"
+5298,CY5298,nautanwa
+5299,CY5299,sohramau
+5300,CY5300,bhagatua
+5301,CY5301,hanuman garh
+5302,CY5302,japur
+5303,CY5303,bilimora
+5304,CY5304,jaipuir
+5305,CY5305,mansarovar
+5306,CY5306,9 a
+5307,CY5307,tonkkhurd
+5308,CY5308,singoli
+5309,CY5309,vallabh vidya nagar
+5310,CY5310,shamsabad
+5311,CY5311,pansemal
+5312,CY5312,manawar
+5313,CY5313,"nipania,  indore"
+5314,CY5314,sangat
+5315,CY5315,pilakpur
+5316,CY5316,at-vitthalwada
+5317,CY5317,sakalpur
+5318,CY5318,rapar
+5319,CY5319,bhachau
+5320,CY5320,kanakpur
+5321,CY5321,honavar
+5322,CY5322,mundi
+5323,CY5323,malanjkhand
+5324,CY5324,palari
+5325,CY5325,"vijayraghavgarh, katni"
+5326,CY5326,pithampur
+5327,CY5327,chailengta
+5328,CY5328,kanchanpur
+5329,CY5329,belonia
+5330,CY5330,agartala
+5331,CY5331,gandacherra
+5332,CY5332,teliamura
+5333,CY5333,kishangarh-renwal
+5334,CY5334,block-haseran
+5335,CY5335,charar-i- sharief
+5336,CY5336,sirali
+5337,CY5337,devtalab
+5338,CY5338,kusmi
+5339,CY5339,mangawan
+5340,CY5340,gyalshing
+5341,CY5341,"idappadi, salem"
+5342,CY5342,kadaladi
+5343,CY5343,rameswaram
+5344,CY5344,thondi
+5345,CY5345,thiruppuvanam
+5346,CY5346,kizhavisharam
+5347,CY5347,buxwaha
+5348,CY5348,gubarga
+5349,CY5349,nalwar
+5350,CY5350,yadgiri
+5351,CY5351,lingasugur
+5352,CY5352,chinna irumbedu
+5353,CY5353,"mylapore, chennai"
+5354,CY5354,pokhari
+5355,CY5355,langoundi
+5356,CY5356,awagarh
+5357,CY5357,jaithara
+5358,CY5358,utrara
+5359,CY5359,hasayan
+5360,CY5360,kushmara
+5361,CY5361,kusamara
+5362,CY5362,mao
+5363,CY5363,tiluvalli
+5364,CY5364,doimukh
+5365,CY5365,daporijo
+5366,CY5366,thasil palia kalan lakhimpur kheri
+5367,CY5367,kanke
+5368,CY5368,kuru
+5369,CY5369,dahisar - e
+5370,CY5370,gantla
+5371,CY5371,n r pura
+5372,CY5372,chitguppa
+5373,CY5373,gangavati
+5374,CY5374,kudagi
+5375,CY5375,bhoginipur
+5376,CY5376,block maitha
+5377,CY5377,jahanpur
+5378,CY5378,kirnapur
+5379,CY5379,ranaghat
+5380,CY5380,gadhada swamina
+5381,CY5381,palitana
+5382,CY5382,valukad
+5383,CY5383,kurinjipadi
+5384,CY5384,kathlal
+5385,CY5385,wav
+5386,CY5386,gadhada
+5387,CY5387,dhanpur
+5388,CY5388,at- wadhwan
+5389,CY5389,kanpurdehat
+5390,CY5390,kanpur   dehat
+5391,CY5391,baghaipur
+5392,CY5392,ode
+5393,CY5393,padusma
+5394,CY5394,vasad
+5395,CY5395,shehara
+5396,CY5396,gundala
+5397,CY5397,indravelly
+5398,CY5398,kaddam
+5399,CY5399,rebbana
+5400,CY5400,lohesra
+5401,CY5401,janagaon
+5402,CY5402,singareni mdl
+5403,CY5403,sirpur-t
+5404,CY5404,nekkonda
+5405,CY5405,bori
+5406,CY5406,sonasan
+5407,CY5407,dammapeta
+5408,CY5408,wazeedu
+5409,CY5409,m.govindaraopet
+5410,CY5410,ghanpur
+5411,CY5411,dunawa
+5412,CY5412,sukhtawa hoshangabad
+5413,CY5413,baktara
+5414,CY5414,budhni
+5415,CY5415,bhitarwar
+5416,CY5416,"billava, gwalior"
+5417,CY5417,imphal
+5418,CY5418,pandalam
+5419,CY5419,karcheliya
+5420,CY5420,kattanam
+5421,CY5421,aleppey
+5422,CY5422,karakonam
+5423,CY5423,parassala
+5424,CY5424,solipet
+5425,CY5425,bhongr
+5426,CY5426,barhiya kherha
+5427,CY5427,elanji
+5428,CY5428,m.p nagar
+5429,CY5429,budni
+5430,CY5430,lateri
+5431,CY5431,rehti
+5432,CY5432,combatore
+5433,CY5433,"muvattupuzha, ernakulam"
+5434,CY5434,vathikudy
+5435,CY5435,kaliyakkavilai
+5436,CY5436,singhani
+5437,CY5437,paravur
+5438,CY5438,dalmau raebareli
+5439,CY5439,mankundu
+5440,CY5440,dhaniakhali
+5441,CY5441,gurap
+5442,CY5442,nutanhat
+5443,CY5443,paligram
+5444,CY5444,simlapal
+5445,CY5445,pardi
+5446,CY5446,kuntur
+5447,CY5447,heonra
+5448,CY5448,jahangeerpur
+5449,CY5449,perambra
+5450,CY5450,kalpakanchery
+5451,CY5451,mukkam
+5452,CY5452,kakkodi
+5453,CY5453,kunnamangalam
+5454,CY5454,balussery
+5455,CY5455,nur
+5456,CY5456,kolathur
+5457,CY5457,tirur
+5458,CY5458,kuttippuram
+5459,CY5459,vengara
+5460,CY5460,edappal
+5461,CY5461,cherur
+5462,CY5462,sreekrishnapuram
+5463,CY5463,mala
+5464,CY5464,sulthanbathery
+5465,CY5465,naidiupeta
+5466,CY5466,kaligiri
+5467,CY5467,jashipur
+5468,CY5468,at-po- rasana mota
+5469,CY5469,gadh - palanpur
+5470,CY5470,ganeshpura
+5471,CY5471,valam
+5472,CY5472,rajednranagar
+5473,CY5473,hadi pora baramula
+5474,CY5474,magam
+5475,CY5475,chandilora
+5476,CY5476,padum
+5477,CY5477,kupwara
+5478,CY5478,diskit nobra
+5479,CY5479,karimangalam
+5480,CY5480,malad
+5481,CY5481,"kalamboli,navi mumbai"
+5482,CY5482,khalapur
+5483,CY5483,posheri
+5484,CY5484,khodala
+5485,CY5485,aantapur
+5486,CY5486,wadhwan
+5487,CY5487,toronto
+5488,CY5488,chas
+5489,CY5489,bagodar
+5490,CY5490,mihijam
+5491,CY5491,ramgarh cantt
+5492,CY5492,sarati
+5493,CY5493,pargaon
+5494,CY5494,horti
+5495,CY5495,kushtagi
+5496,CY5496,yadagir
+5497,CY5497,jibanti
+5498,CY5498,koyananagar
+5499,CY5499,panore
+5500,CY5500,urun islampur
+5501,CY5501,gondal
+5502,CY5502,haripurdhar
+5503,CY5503,bhaguwapura
+5504,CY5504,bairad
+5505,CY5505,hariharpara
+5506,CY5506,santipur
+5507,CY5507,dibrugarh
+5508,CY5508,nani daman
+5509,CY5509,len
+5510,CY5510,shevgaon`
+5511,CY5511,khalwa
+5512,CY5512,gool
+5513,CY5513,thatri
+5514,CY5514,khour
+5515,CY5515,kalakote
+5516,CY5516,mahore
+5517,CY5517,medak road
+5518,CY5518,shankarampet
+5519,CY5519,rajendranagar
+5520,CY5520,champapet
+5521,CY5521,hyderabad rr
+5522,CY5522,malkajgiri
+5523,CY5523,kukatpally
+5524,CY5524,"shamshabad, r.r"
+5525,CY5525,soygaon
+5526,CY5526,khan jahanpur chirkuan
+5527,CY5527,airwa katra
+5528,CY5528,haluharrajpur
+5529,CY5529,etawh
+5530,CY5530,prempur
+5531,CY5531,khiron
+5532,CY5532,kanchausi
+5533,CY5533,keelapaluvur
+5534,CY5534,anna nagar
+5535,CY5535,"annanagar, chennai"
+5536,CY5536,anaicut
+5537,CY5537,salgare
+5538,CY5538,bodhgaya
+5539,CY5539,vellalore
+5540,CY5540,nattalam
+5541,CY5541,trichirappali
+5542,CY5542,sonhat
+5543,CY5543,fasterpur
+5544,CY5544,karmnasa
+5545,CY5545,chhapra
+5546,CY5546,medikonduru
+5547,CY5547,narsaraopeta
+5548,CY5548,gunter
+5549,CY5549,cumbun
+5550,CY5550,medininagar palamau
+5551,CY5551,rehala
+5552,CY5552,hadad
+5553,CY5553,manur kalwan
+5554,CY5554,goindwal sahib
+5555,CY5555,magarlod
+5556,CY5556,jamgaon
+5557,CY5557,gunderdehi
+5558,CY5558,anda
+5559,CY5559,kumhari-ahiwara
+5560,CY5560,kolihapuri
+5561,CY5561,"baloda,saraipali"
+5562,CY5562,somani
+5563,CY5563,pandatarai
+5564,CY5564,bhatapar
+5565,CY5565,bongaogaon
+5566,CY5566,hajo
+5567,CY5567,"surathkal, mangalore"
+5568,CY5568,kodlipet
+5569,CY5569,gangolli
+5570,CY5570,bhatar
+5571,CY5571,singur
+5572,CY5572,moticak
+5573,CY5573,kushiagar
+5574,CY5574,"bhiwani rohilla, hisar"
+5575,CY5575,khalkilabad
+5576,CY5576,khajni
+5577,CY5577,vallabhipur
+5578,CY5578,amargarh
+5579,CY5579,bhagta bhai ka
+5580,CY5580,balloh
+5581,CY5581,siddrathnagar
+5582,CY5582,kushi nagar
+5583,CY5583,khaleelabad
+5584,CY5584,"hirnahi, kindepatti, kushinagar"
+5585,CY5585,nai bazar
+5586,CY5586,chauri chaura
+5587,CY5587,danodarda
+5588,CY5588,danodrda
+5589,CY5589,behal
+5590,CY5590,tehatta
+5591,CY5591,andal
+5592,CY5592,hasnabad
+5593,CY5593,kudligi
+5594,CY5594,gangavathi
+5595,CY5595,uchgaon
+5596,CY5596,janjgir-champa
+5597,CY5597,baramkela
+5598,CY5598,pusour
+5599,CY5599,samkhiyali
+5600,CY5600,dabhoi
+5601,CY5601,dondaicha
+5602,CY5602,mehraj
+5603,CY5603,bhucho mandi
+5604,CY5604,"basarikhpur, ghazipur"
+5605,CY5605,begusarai
+5606,CY5606,baori
+5607,CY5607,dharawad
+5608,CY5608,nandini
+5609,CY5609,gudur sc
+5610,CY5610,ramanujganj
+5611,CY5611,sihor
+5612,CY5612,gariyadhar
+5613,CY5613,mahuva
+5614,CY5614,rajeshwar
+5615,CY5615,jewargi
+5616,CY5616,aland
+5617,CY5617,gurmitkal
+5618,CY5618,"kalyani, nadia"
+5619,CY5619,"ahiraula, azamgarh"
+5620,CY5620,shankargarh
+5621,CY5621,pharasgaon
+5622,CY5622,durgukondal
+5623,CY5623,bahiramgarh
+5624,CY5624,j p nagar
+5625,CY5625,dilari
+5626,CY5626,allahaganj
+5627,CY5627,shahajahanpur
+5628,CY5628,kalamassery
+5629,CY5629,koppal
+5630,CY5630,newpanvel
+5631,CY5631,bamanwas
+5632,CY5632,sapotra
+5633,CY5633,todhabhim
+5634,CY5634,premnagar
+5635,CY5635,mathurapur-i
+5636,CY5636,sarisha
+5637,CY5637,tekmal
+5638,CY5638,pattancheru
+5639,CY5639,kangti
+5640,CY5640,thimmareddy pally
+5641,CY5641,gudhagourji
+5642,CY5642,jabarapur
+5643,CY5643,bewar
+5644,CY5644,"anandagar ,anda"
+5645,CY5645,umari
+5646,CY5646,nyamatpur
+5647,CY5647,babina
+5648,CY5648,jarhi
+5649,CY5649,dharbandora
+5650,CY5650,uchchhal
+5651,CY5651,karuvelil
+5652,CY5652,ratua
+5653,CY5653,odgi
+5654,CY5654,latori
+5655,CY5655,jambusar
+5656,CY5656,manbazar-ii
+5657,CY5657,arrah
+5658,CY5658,jagadishpur
+5659,CY5659,thiruvadanai
+5660,CY5660,"muthukulathur,ranmanad"
+5661,CY5661,kengeri
+5662,CY5662,batouli surguja
+5663,CY5663,allahaad
+5664,CY5664,yakubpur
+5665,CY5665,ajitmal
+5666,CY5666,mohammdabad
+5667,CY5667,atraulihar
+5668,CY5668,sharifabad
+5669,CY5669,kheri
+5670,CY5670,mohammdi
+5671,CY5671,mohammadi
+5672,CY5672,mohammadi kheri
+5673,CY5673,raybareli
+5674,CY5674,jaganpur rura kanpur dehat
+5675,CY5675,satwas
+5676,CY5676,bhensodamandi
+5677,CY5677,marwah
+5678,CY5678,balesar
+5679,CY5679,sivangangai
+5680,CY5680,"secunderabad , hyderabad"
+5681,CY5681,serilingampally
+5682,CY5682,"peerzadiguda, uppal"
+5683,CY5683,uppal depot
+5684,CY5684,santosh nagar
+5685,CY5685,sheriguda
+5686,CY5686,vershathi
+5687,CY5687,kerakat
+5688,CY5688,sanawal
+5689,CY5689,bazarhathnoor
+5690,CY5690,sarangapur
+5691,CY5691,bayyaram
+5692,CY5692,dummugudem
+5693,CY5693,mulugu
+5694,CY5694,sangem
+5695,CY5695,nellikuduru
+5696,CY5696,narasampet
+5697,CY5697,kodakandla
+5698,CY5698,kuravi
+5699,CY5699,dhanera
+5700,CY5700,gadha
+5701,CY5701,maktupur
+5702,CY5702,becharaji
+5703,CY5703,nanikadi
+5704,CY5704,ambaliyara
+5705,CY5705,tirodi
+5706,CY5706,badwara
+5707,CY5707,rajula
+5708,CY5708,damnagar
+5709,CY5709,veraval
+5710,CY5710,virpur
+5711,CY5711,wankaner
+5712,CY5712,wadhvan
+5713,CY5713,khaniyadhana
+5714,CY5714,daramali  idar
+5715,CY5715,amarkantak
+5716,CY5716,khairlanji
+5717,CY5717,shyampur
+5718,CY5718,kotkhawda
+5719,CY5719,jaithari
+5720,CY5720,unchehra
+5721,CY5721,"legaon dabhade, pune"
+5722,CY5722,datiya
+5723,CY5723,berasia
+5724,CY5724,vadali
+5725,CY5725,kherva-mehsana
+5726,CY5726,kuzhivelippady
+5727,CY5727,pambanar
+5728,CY5728,adimali
+5729,CY5729,rajakad
+5730,CY5730,peerumedu
+5731,CY5731,adimaly
+5732,CY5732,"changanassery,kottayam"
+5733,CY5733,kadamanitta
+5734,CY5734,kumbazha
+5735,CY5735,ahmadabad
+5736,CY5736,vatva gidc
+5737,CY5737,limkheda
+5738,CY5738,baytu
+5739,CY5739,gudamalani
+5740,CY5740,sarwar
+5741,CY5741,dhariyaad
+5742,CY5742,devgarh
+5743,CY5743,sarada
+5744,CY5744,hod
+5745,CY5745,varale
+5746,CY5746,varale      talegaon
+5747,CY5747,mariyammanahalli
+5748,CY5748,siruguppa
+5749,CY5749,lingasagur
+5750,CY5750,rajeev marg niral nagar rewa
+5751,CY5751,umarda
+5752,CY5752,pavagada
+5753,CY5753,midigeshi
+5754,CY5754,chandrashekarpura
+5755,CY5755,moothedam
+5756,CY5756,shelu/damat
+5757,CY5757,dharmasala
+5758,CY5758,jotana
+5759,CY5759,rghadia
+5760,CY5760,ghargaon
+5761,CY5761,tapi
+5762,CY5762,salcete
+5763,CY5763,njeezhoor
+5764,CY5764,nilgiri
+5765,CY5765,brahmagiri
+5766,CY5766,panagarh
+5767,CY5767,shyamdaspur
+5768,CY5768,prasadpur
+5769,CY5769,krishnapur
+5770,CY5770,kheralu
+5771,CY5771,kareda
+5772,CY5772,diu
+5773,CY5773,borigumma
+5774,CY5774,rashmi
+5775,CY5775,osian
+5776,CY5776,ghasiram ka bass
+5777,CY5777,wandoor
+5778,CY5778,chalakudy
+5779,CY5779,narwar
+5780,CY5780,dharnmanagar
+5781,CY5781,khergam
+5782,CY5782,danitola
+5783,CY5783,port balir
+5784,CY5784,raifpur
+5785,CY5785,kandri-kanhan
+5786,CY5786,"khagaul, danapur"
+5787,CY5787,gurramkonda
+5788,CY5788,kursi road
+5789,CY5789,paramubarakpur
+5790,CY5790,sant ravidas nagar varanasi
+5791,CY5791,kon
+5792,CY5792,sikandarpur
+5793,CY5793,bhuili khas
+5794,CY5794,bhadgaon
+5795,CY5795,chopda
+5796,CY5796,shahpurkandi
+5797,CY5797,aravakurichi
+5798,CY5798,block-bhatni
+5799,CY5799,block sakeet
+5800,CY5800,jakhanian
+5801,CY5801,mathua
+5802,CY5802,newada
+5803,CY5803,iglas
+5804,CY5804,kiratpur sahib
+5805,CY5805,venkatnagar
+5806,CY5806,ghosi
+5807,CY5807,omassery
+5808,CY5808,belwadar
+5809,CY5809,kansabel
+5810,CY5810,deokali kala
+5811,CY5811,"ghughli, maharajganj"
+5812,CY5812,azhiyur
+5813,CY5813,wangjing
+5814,CY5814,rangamati
+5815,CY5815,lahuwa khurd
+5816,CY5816,kosi kalan
+5817,CY5817,azm
+5818,CY5818,panjra
+5819,CY5819,chomu jaipur
+5820,CY5820,basuchak
+5821,CY5821,seohra
+5822,CY5822,jp nagar
+5823,CY5823,sabmhal
+5824,CY5824,swar
+5825,CY5825,rajagrh
+5826,CY5826,hegapur
+5827,CY5827,bagha purana
+5828,CY5828,borawal
+5829,CY5829,napa talpad
+5830,CY5830,"hesaragatta hobli, bangalore"
+5831,CY5831,t.narasipura
+5832,CY5832,chikkaballapuira
+5833,CY5833,kanyana
+5834,CY5834,moodubelle
+5835,CY5835,melkar
+5836,CY5836,vyala
+5837,CY5837,ottapalam
+5838,CY5838,inchal
+5839,CY5839,bhwani
+5840,CY5840,pattikkad
+5841,CY5841,thiruvanthapuram
+5842,CY5842,kizhakkoth
+5843,CY5843,amingad
+5844,CY5844,bodinayakkanur
+5845,CY5845,malayinkeezhu
+5846,CY5846,saltlake
+5847,CY5847,sayala
+5848,CY5848,jalgoan
+5849,CY5849,surtoli
+5850,CY5850,peresandra
+5851,CY5851,poonjar
+5852,CY5852,diggal
+5853,CY5853,bahrich
+5854,CY5854,nankhari
+5855,CY5855,paingottoor
+5856,CY5856,mangathotty
+5857,CY5857,perla
+5858,CY5858,pulpally
+5859,CY5859,marangattupilly
+5860,CY5860,nagsar mir rai
+5861,CY5861,"kattupakkam , chennai"
+5862,CY5862,kule-dakhane
+5863,CY5863,mehnagar
+5864,CY5864,ganti
+5865,CY5865,m rampur
+5866,CY5866,amlipali
+5867,CY5867,nimbi jodha
+5868,CY5868,puttaparthi
+5869,CY5869,maruf pur
+5870,CY5870,jammalamudugu
+5871,CY5871,chhata
+5872,CY5872,umrakh
+5873,CY5873,kotkhawada
+5874,CY5874,nangal chaudhary
+5875,CY5875,lad bharol
+5876,CY5876,japla
+5877,CY5877,seraikela
+5878,CY5878,"narapally, ghatkesar"
+5879,CY5879,sedam
+5880,CY5880,chokli
+5881,CY5881,haripad
+5882,CY5882,harippad
+5883,CY5883,mannarkkad
+5884,CY5884,thiruvanatrhapuram
+5885,CY5885,thaliparamba
+5886,CY5886,salhewara
+5887,CY5887,chandrapura
+5888,CY5888,"muttil, wayanad"
+5889,CY5889,kalanjoor
+5890,CY5890,trithala
+5891,CY5891,calcut
+5892,CY5892,chirela
+5893,CY5893,jandiala guru
+5894,CY5894,bagoda
+5895,CY5895,julapalli
+5896,CY5896,balagram
+5897,CY5897,fingeshwar
+5898,CY5898,zirakpur
+5899,CY5899,dunera
+5900,CY5900,perintalmanna
+5901,CY5901,pavaratty
+5902,CY5902,gandhwani
+5903,CY5903,khatgarh
+5904,CY5904,basantnagar
+5905,CY5905,jogipur
+5906,CY5906,rehari
+5907,CY5907,barai para
+5908,CY5908,kalgachia
+5909,CY5909,jorhat
+5910,CY5910,sidsar
+5911,CY5911,"pathanapuram, punalur"
+5912,CY5912,areacode
+5913,CY5913,katakkada
+5914,CY5914,bamori
+5915,CY5915,hanamkonda warangal
+5916,CY5916,lalgarh
+5917,CY5917,salboni
+5918,CY5918,nayagram
+5919,CY5919,bare
+5920,CY5920,amargadh
+5921,CY5921,bengalure
+5922,CY5922,banbasa
+5923,CY5923,gadarpur
+5924,CY5924,srinivaspur
+5925,CY5925,neyyatinkara
+5926,CY5926,dabra gwalior
+5927,CY5927,kekar
+5928,CY5928,teshil phillaur
+5929,CY5929,amritser
+5930,CY5930,banarhat
+5931,CY5931,kauriaganj
+5932,CY5932,haraura
+5933,CY5933,azangarh
+5934,CY5934,jamuri
+5935,CY5935,bhupatinagar
+5936,CY5936,v/p- sirsa kalar
+5937,CY5937,dineshpur
+5938,CY5938,betalghat
+5939,CY5939,kondigre
+5940,CY5940,liliya mota
+5941,CY5941,kaliyabid
+5942,CY5942,molakalmuru
+5943,CY5943,po-bardoli
+5944,CY5944,velgatoor
+5945,CY5945,mdl ramadugu
+5946,CY5946,choppadandi choppadandi
+5947,CY5947,yellareddypet
+5948,CY5948,siricilla
+5949,CY5949,aswaraopet
+5950,CY5950,nidmanoor
+5951,CY5951,chinthapally
+5952,CY5952,kammarpally
+5953,CY5953,duggondi
+5954,CY5954,amlaha
+5955,CY5955,bagalore
+5956,CY5956,zaffargadh
+5957,CY5957,jainoor
+5958,CY5958,ichaoda
+5959,CY5959,mamada
+5960,CY5960,jainad
+5961,CY5961,echoda
+5962,CY5962,mudhole
+5963,CY5963,narnoor
+5964,CY5964,"musafirkhana, amethi"
+5965,CY5965,gadh
+5966,CY5966,roopnagar
+5967,CY5967,mejia
+5968,CY5968,debagram
+5969,CY5969,umarpada
+5970,CY5970,tal sardha
+5971,CY5971,bidi
+5972,CY5972,baberu banda
+5973,CY5973,jaitpur
+5974,CY5974,mauda
+5975,CY5975,c s m nagar
+5976,CY5976,dhaulana
+5977,CY5977,kushmandi
+5978,CY5978,devidhura
+5979,CY5979,milkipur
+5980,CY5980,rabganj
+5981,CY5981,maskanwa
+5982,CY5982,balpur
+5983,CY5983,patdi
+5984,CY5984,muzaffrnagar
+5985,CY5985,sodepur
+5986,CY5986,"mangalkote, burdwan"
+5987,CY5987,maradimath
+5988,CY5988,keshiary
+5989,CY5989,shri hargobindpur
+5990,CY5990,shusina
+5991,CY5991,muragachha
+5992,CY5992,hili
+5993,CY5993,palacode
+5994,CY5994,bokajan
+5995,CY5995,v v nagar
+5996,CY5996,madlauda
+5997,CY5997,gola gokaran nath kheri
+5998,CY5998,csm nagar
+5999,CY5999,jansath
+6000,CY6000,pratapgrh
+6001,CY6001,suwasara
+6002,CY6002,kunwariya
+6003,CY6003,champahati
+6004,CY6004,dildarnagar fatehpur baza
+6005,CY6005,tulsipur
+6006,CY6006,itwa
+6007,CY6007,malhargarh
+6008,CY6008,daloda
+6009,CY6009,mohan badodiya
+6010,CY6010,maakadon
+6011,CY6011,talamadugu
+6012,CY6012,pachora
+6013,CY6013,muktainagar
+6014,CY6014,kawant
+6015,CY6015,jamkhambhaliya
+6016,CY6016,morvahadaf
+6017,CY6017,santalpur
+6018,CY6018,nabagram
+6019,CY6019,ramgarh pachwara
+6020,CY6020,krisnanagar
+6021,CY6021,gangar talai
+6022,CY6022,gudhaman
+6023,CY6023,ludhiyana
+6024,CY6024,neradigonda
+6025,CY6025,firozaabad
+6026,CY6026,dhanaura
+6027,CY6027,raghunathganj
+6028,CY6028,faizabbad
+6029,CY6029,ahmedaba
+6030,CY6030,anuppanadi
+6031,CY6031,varnasi
+6032,CY6032,kunnamkulam
+6033,CY6033,aryad    alappuzha
+6034,CY6034,amdabad
+6035,CY6035,dubrajpur
+6036,CY6036,muaffarnagar
+6037,CY6037,prataphgarh
+6038,CY6038,malakhera
+6039,CY6039,block - ranibandh
+6040,CY6040,hseel-bansi
+6041,CY6041,srikrishnapur
+6042,CY6042,sindrani
+6043,CY6043,yelahanka
+6044,CY6044,"amangal, mahabubnagar"
+6045,CY6045,saunshi
+6046,CY6046,hanagal
+6047,CY6047,domakonda
+6048,CY6048,machareddy
+6049,CY6049,madnoor
+6050,CY6050,varni
+6051,CY6051,sirikonda
+6052,CY6052,dharpally
+6053,CY6053,jukkal
+6054,CY6054,mota chiloda
+6055,CY6055,bankhadi
+6056,CY6056,city satna
+6057,CY6057,halena
+6058,CY6058,puruliya
+6059,CY6059,lower fagu tea garden
+6060,CY6060,seemalwara
+6061,CY6061,simalwara
+6062,CY6062,shriwardhan
+6063,CY6063,rau
+6064,CY6064,ganai gangoli
+6065,CY6065,ahemadabad
+6066,CY6066,vadgam
+6067,CY6067,ghangnoo
+6068,CY6068,ghansor
+6069,CY6069,maktampur
+6070,CY6070,kini
+6071,CY6071,mandi dhanaura
+6072,CY6072,sawladbara
+6073,CY6073,block-kalna
+6074,CY6074,shencottah
+6075,CY6075,shahpura jaipur
+6076,CY6076,daurala
+6077,CY6077,panthawada
+6078,CY6078,bgahpat
+6079,CY6079,ankali
+6080,CY6080,pacheri
+6081,CY6081,kaimur bhabhua
+6082,CY6082,bemeteara
+6083,CY6083,pathalgaon
+6084,CY6084,kodungoor
+6085,CY6085,sultanabad
+6086,CY6086,rahatgaon
+6087,CY6087,amangal
+6088,CY6088,kathalapur
+6089,CY6089,auraiyya
+6090,CY6090,motapondha
+6091,CY6091,auriaya
+6092,CY6092,mallabad
+6093,CY6093,bichhua
+6094,CY6094,majholi
+6095,CY6095,betul bazar
+6096,CY6096,raipura
+6097,CY6097,rajnagar collery
+6098,CY6098,bijuri
+6099,CY6099,malwa
+6100,CY6100,madhyapradesh
+6101,CY6101,bindki
+6102,CY6102,shukulpur
+6103,CY6103,gola
+6104,CY6104,sarai
+6105,CY6105,"amroli, surat"
+6106,CY6106,barotiwala
+6107,CY6107,machalpur
+6108,CY6108,bijawar chhatarpur
+6109,CY6109,badamalehra
+6110,CY6110,binaganj
+6111,CY6111,satai
+6112,CY6112,songadh
+6113,CY6113,lalburra
+6114,CY6114,sahhdol
+6115,CY6115,jehangirabad
+6116,CY6116,jamuna colliery
+6117,CY6117,chandia
+6118,CY6118,"pushprajgarh, rajendragram"
+6119,CY6119,deolond
+6120,CY6120,hariyawan
+6121,CY6121,muwani
+6122,CY6122,ahmedbabd
+6123,CY6123,m.b.ayyanahalli
+6124,CY6124,kumarghat
+6125,CY6125,mangslore
+6126,CY6126,moodbidre
+6127,CY6127,bhatronjkhan
+6128,CY6128,sehora
+6129,CY6129,aunderi
+6130,CY6130,moncompu
+6131,CY6131,bridgemanganj
+6132,CY6132,chittar
+6133,CY6133,phoop
+6134,CY6134,faridpur
+6135,CY6135,bairagarh
+6136,CY6136,lovkush angar
+6137,CY6137,umranala
+6138,CY6138,mohandra
+6139,CY6139,rajakhedi sagar
+6140,CY6140,rahli
+6141,CY6141,mahidpur
+6142,CY6142,"freeganj, ujjain"
+6143,CY6143,lamgara
+6144,CY6144,sarahan
+6145,CY6145,masi
+6146,CY6146,vihamandwa
+6147,CY6147,talab ki dhani
+6148,CY6148,bay
+6149,CY6149,reodar
+6150,CY6150,chitri
+6151,CY6151,mandawari
+6152,CY6152,kannamangalam
+6153,CY6153,shishu
+6154,CY6154,varagera
+6155,CY6155,muhamma
+6156,CY6156,koyilandy
+6157,CY6157,ponnani
+6158,CY6158,alathur thaluk
+6159,CY6159,chail
+6160,CY6160,daranagar
+6161,CY6161,chhaten
+6162,CY6162,"chandpole, bhindar"
+6163,CY6163,choa
+6164,CY6164,sawar
+6165,CY6165,shuklaganj
+6166,CY6166,netrang
+6167,CY6167,bansgaon
+6168,CY6168,"v.t.nagar, mall"
+6169,CY6169,niwai
+6170,CY6170,devarkonda
+6171,CY6171,v-ghoriwara kalan
+6172,CY6172,b kothakota
+6173,CY6173,madpur
+6174,CY6174,sikkim
+6175,CY6175,palasi
+6176,CY6176,varadaiahpalem
+6177,CY6177,nagalapuram
+6178,CY6178,mehmdavad
+6179,CY6179,jangipur
+6180,CY6180,batiyagargh
+6181,CY6181,badarwas
+6182,CY6182,sahwa
+6183,CY6183,vratnagar
+6184,CY6184,buland shahr
+6185,CY6185,aundipaty
+6186,CY6186,mohanpur
+6187,CY6187,chakdaha
+6188,CY6188,at-koregaon
+6189,CY6189,peddamandyam
+6190,CY6190,arakuvalley
+6191,CY6191,makkuva
+6192,CY6192,"katar chhoti, bidasar"
+6193,CY6193,dudu
+6194,CY6194,chak
+6195,CY6195,"ajmer road, jaipur"
+6196,CY6196,bajju
+6197,CY6197,"kuniamuthur,coimbatore"
+6198,CY6198,angadippuram
+6199,CY6199,kundoor
+6200,CY6200,thenhipalam
+6201,CY6201,ahore
+6202,CY6202,poyya
+6203,CY6203,nammakal
+6204,CY6204,karinkal
+6205,CY6205,manoharthana
+6206,CY6206,khandar
+6207,CY6207,ghoriwara kalan
+6208,CY6208,deahradun
+6209,CY6209,pochampalli
+6210,CY6210,o.d.cheruvu
+6211,CY6211,v. kota
+6212,CY6212,yetapaka
+6213,CY6213,ainavilli
+6214,CY6214,chinnamandem
+6215,CY6215,khajipet
+6216,CY6216,veeraballi
+6217,CY6217,muddanur
+6218,CY6218,veerapunayuni palli
+6219,CY6219,baldwara
+6220,CY6220,mallathahalli bus stop
+6221,CY6221,managuli
+6222,CY6222,siwana
+6223,CY6223,kalburgi
+6224,CY6224,lakadu
+6225,CY6225,panwari
+6226,CY6226,nwgong
+6227,CY6227,rajnaga
+6228,CY6228,hattta
+6229,CY6229,zaderuakala gwalior
+6230,CY6230,chak hidayatullah
+6231,CY6231,garhakota
+6232,CY6232,sehroe
+6233,CY6233,odela
+6234,CY6234,kodimial
+6235,CY6235,shanthinagar
+6236,CY6236,"chinthapally,  nalgonda"
+6237,CY6237,nateran
+6238,CY6238,iradat nagar
+6239,CY6239,purdil nagar
+6240,CY6240,khutar
+6241,CY6241,beswan
+6242,CY6242,pargana mahaich
+6243,CY6243,srn bhadohi
+6244,CY6244,bijnore
+6245,CY6245,thungathurty
+6246,CY6246,arehally
+6247,CY6247,bhanshiware
+6248,CY6248,kalinga
+6249,CY6249,palashi para
+6250,CY6250,kusmara
+6251,CY6251,lanj
+6252,CY6252,ladkui
+6253,CY6253,rajamahendra varam
+6254,CY6254,chagallu
+6255,CY6255,nilokheri
+6256,CY6256,hospete
+6257,CY6257,gunour
+6258,CY6258,aleophata
+6259,CY6259,kaliganj
+6260,CY6260,kotkasim
+6261,CY6261,nihri
+6262,CY6262,buvvanapalli
+6263,CY6263,depalli  tadepalligudem
+6264,CY6264,paipadu
+6265,CY6265,itikyala
+6266,CY6266,thripuraram
+6267,CY6267,korukond
+6268,CY6268,mangapet
+6269,CY6269,jalangi
+6270,CY6270,manuke gill
+6271,CY6271,aryavatam
+6272,CY6272,kumarkhand
+6273,CY6273,roing
+6274,CY6274,owk
+6275,CY6275,rajajinagar
+6276,CY6276,angamally
+6277,CY6277,kottakkal
+6278,CY6278,meppadi
+6279,CY6279,wayanad
+6280,CY6280,talwara
+6281,CY6281,kolinda
+6282,CY6282,ajitgarh - shrimadhopur
+6283,CY6283,ravikamtham
+6284,CY6284,galiyakot
+6285,CY6285,nunna
+6286,CY6286,shikandra
+6287,CY6287,surajpur
+6288,CY6288,zalaki
+6289,CY6289,gabbur
+6290,CY6290,bekal
+6291,CY6291,kozhippara
+6292,CY6292,shvipuri
+6293,CY6293,yaadagirigutta
+6294,CY6294,bulandshahar
+6295,CY6295,vilage sirodhan
+6296,CY6296,mehdipatnam
+6297,CY6297,shamirpet
+6298,CY6298,ramachandarapuram
+6299,CY6299,gollaprolu
+6300,CY6300,chimakurthy
+6301,CY6301,prekasam
+6302,CY6302,sikakulam
+6303,CY6303,gara
+6304,CY6304,santhabommali
+6305,CY6305,y.s.r kadapa
+6306,CY6306,dadasiba
+6307,CY6307,gundlupete
+6308,CY6308,tripnithura
+6309,CY6309,mulanthuruthy
+6310,CY6310,vaniyamkulam
+6311,CY6311,rudrangi
+6312,CY6312,naharlagun
+6313,CY6313,sidhapura
+6314,CY6314,roopwas
+6315,CY6315,mittha para
+6316,CY6316,paschim chutiakhor
+6317,CY6317,jateswar
+6318,CY6318,wadala mumbai
+6319,CY6319,katowali
+6320,CY6320,nidadavolu
+6321,CY6321,salaiya
+6322,CY6322,mubarakpur
+6323,CY6323,ardawata
+6324,CY6324,bilkisganj
+6325,CY6325,- bramhapuri
+6326,CY6326,chitoor
+6327,CY6327,"malharao,karimnagar"
+6328,CY6328,b. mattam
+6329,CY6329,nimmanapalli
+6330,CY6330,depalligam
+6331,CY6331,etawa bhopji - shahpura
+6332,CY6332,noamundi
+6333,CY6333,sedwa
+6334,CY6334,penmur
+6335,CY6335,rly kodur
+6336,CY6336,dadahu
+6337,CY6337,nangal sirohi
+6338,CY6338,chakulia
+6339,CY6339,kushalgarh
+6340,CY6340,sojitra
+6341,CY6341,garmukteshwar
+6342,CY6342,tilalkwada
+6343,CY6343,"kanakappalam, erumely"
+6344,CY6344,bhvanagar
+6345,CY6345,poshina
+6346,CY6346,sosiya
+6347,CY6347,vanthali
+6348,CY6348,harij
+6349,CY6349,muli
+6350,CY6350,dahej
+6351,CY6351,koil
+6352,CY6352,chhattargarh
+6353,CY6353,khumulwng
+6354,CY6354,lala
+6355,CY6355,lalpur
+6356,CY6356,vad
+6357,CY6357,vedasandur
+6358,CY6358,mithapur
+6359,CY6359,babra
+6360,CY6360,urun-islampur
+6361,CY6361,kandaghat
+6362,CY6362,hardaspur khurd
+6363,CY6363,mendarada
+6364,CY6364,viramgam
+6365,CY6365,visanvel
+6366,CY6366,bavla
+6367,CY6367,brindaban chak
+6368,CY6368,kaikala
+6369,CY6369,poyada
+6370,CY6370,dhansura
+6371,CY6371,ghogha
+6372,CY6372,akui
+6373,CY6373,dayapar
+6374,CY6374,khapat
+6375,CY6375,manglana
+6376,CY6376,chhotri sadri
+6377,CY6377,jhanjeri
+6378,CY6378,rey
+6379,CY6379,dhoraji
+6380,CY6380,kulharia
+6381,CY6381,pupri
+6382,CY6382,mohania
+6383,CY6383,tittagudi
+6384,CY6384,thirukazhukundram
+6385,CY6385,veppur
+6386,CY6386,punhana
+6387,CY6387,nalhati-ii
+6388,CY6388,nalhati-i
+6389,CY6389,barddhman
+6390,CY6390,vellarikundu
+6391,CY6391,dhorimanna
+6392,CY6392,kavi
+6393,CY6393,purwa
+6394,CY6394,marehra
+6395,CY6395,barru-phaphund
+6396,CY6396,hsil- sadabad
+6397,CY6397,kot sukhia
+6398,CY6398,sultanpur khera
+6399,CY6399,kabrai
+6400,CY6400,ghazipr
+6401,CY6401,mainpur
+6402,CY6402,simar
+6403,CY6403,byana
+6404,CY6404,norangpura
+6405,CY6405,bhanokhar
+6406,CY6406,budania
+6407,CY6407,mukundgarh mandi
+6408,CY6408,dubalgundi
+6409,CY6409,gurumitkal
+6410,CY6410,satlasana
+6411,CY6411,nyara
+6412,CY6412,bedia
+6413,CY6413,churaha rath hamirpur
+6414,CY6414,khandheri
+6415,CY6415,surat city
+6416,CY6416,vishanvel
+6417,CY6417,manas
+6418,CY6418,srinagar pauri garhwal
+6419,CY6419,ambarnath
+6420,CY6420,fatehabad road
+6421,CY6421,palaskhede bk
+6422,CY6422,keshod
+6423,CY6423,sutrapad
+6424,CY6424,prabhas patan
+6425,CY6425,manglore
+6426,CY6426,ramasamudram
+6427,CY6427,bangarupalyam
+6428,CY6428,anatapur
+6429,CY6429,dakkili
+6430,CY6430,poidalakur
+6431,CY6431,main road rabakavi
+6432,CY6432,kottur
+6433,CY6433,chadchan
+6434,CY6434,ghunsiya
+6435,CY6435,kakryal
+6436,CY6436,channapatana
+6437,CY6437,azimganj
+6438,CY6438,bhagwanpur
+6439,CY6439,nirmand
+6440,CY6440,kharsawan
+6441,CY6441,kappur
+6442,CY6442,jhab
+6443,CY6443,kurgaon
+6444,CY6444,rakkar
+6445,CY6445,nandini nagar
+6446,CY6446,krishnanagar
+6447,CY6447,mollarpur
+6448,CY6448,mayureswar
+6449,CY6449,bhumbhali
+6450,CY6450,shitlakhet
+6451,CY6451,"jayapura, koppa"
+6452,CY6452,gurumatakal
+6453,CY6453,jatani
+6454,CY6454,simaria
+6455,CY6455,sojat citty
+6456,CY6456,jasrapur
+6457,CY6457,sivaganagai
+6458,CY6458,diamondharbour
+6459,CY6459,godna
+6460,CY6460,mkuhiraj
+6461,CY6461,sihunta
+6462,CY6462,tekkalli
+6463,CY6463,bethamcherla
+6464,CY6464,"mukkam, kozhikode"
+6465,CY6465,mangalwad
+6466,CY6466,manendragarh
+6467,CY6467,llur
+6468,CY6468,merakamudidam
+6469,CY6469,kosigi
+6470,CY6470,alamuru
+6471,CY6471,undi
+6472,CY6472,moaradabad
+6473,CY6473,nimchi
+6474,CY6474,suti
+6475,CY6475,lalgola-berhampore
+6476,CY6476,khirpai
+6477,CY6477,baneshwar
+6478,CY6478,lakshmikantapur
+6479,CY6479,goghat
+6480,CY6480,jatrapur
+6481,CY6481,farakka
+6482,CY6482,penumur
+6483,CY6483,nanguneri
+6484,CY6484,koila dewa
+6485,CY6485,chhotauepur
+6486,CY6486,nuthnkal
+6487,CY6487,parganas
+6488,CY6488,chandrugounda
+6489,CY6489,bangarmau
+6490,CY6490,shrimadhapur
+6491,CY6491,lalgola
+6492,CY6492,thanagaziu
+6493,CY6493,patlot
+6494,CY6494,valod
+6495,CY6495,kanth
+6496,CY6496,manavadar
+6497,CY6497,nandana
+6498,CY6498,duttapukur
+6499,CY6499,salbani
+6500,CY6500,ramsar
+6501,CY6501,dornala
+6502,CY6502,dhampur bijnor
+6503,CY6503,mishripur
+6504,CY6504,mordabad
+6505,CY6505,murarai
+6506,CY6506,rajuri
+6507,CY6507,bethuadahari
+6508,CY6508,lingausur
+6509,CY6509,karukachal
+6510,CY6510,pilkhwa
+6511,CY6511,muzaffarnagrar
+6512,CY6512,shamili
+6513,CY6513,jabalapur
+6514,CY6514,bara kulberia
+6515,CY6515,korisepadu
+6516,CY6516,pamulapadu
+6517,CY6517,bangaon
+6518,CY6518,peddavora
+6519,CY6519,garbada
+6520,CY6520,kalawad
+6521,CY6521,dafarpota
+6522,CY6522,eath
+6523,CY6523,pooranpur
+6524,CY6524,nagour
+6525,CY6525,seroha
+6526,CY6526,churhat
+6527,CY6527,domohona
+6528,CY6528,kothamba
+6529,CY6529,singvad
+6530,CY6530,simaliya
+6531,CY6531,pavi jetpur
+6532,CY6532,panchmahal
+6533,CY6533,munpur
+6534,CY6534,kheda
+6535,CY6535,fatepura
+6536,CY6536,sanand
+6537,CY6537,naswadi
+6538,CY6538,sankheda
+6539,CY6539,santrampur
+6540,CY6540,miyagam karjan
+6541,CY6541,vaso
+6542,CY6542,kakanpur
+6543,CY6543,thava
+6544,CY6544,savli
+6545,CY6545,mahudha
+6546,CY6546,anklav
+6547,CY6547,jhalod
+6548,CY6548,bodeli
+6549,CY6549,dholka
+6550,CY6550,dhandhuka
+6551,CY6551,devgadhbaria
+6552,CY6552,halol
+6553,CY6553,at.po. palsana
+6554,CY6554,udwada
+6555,CY6555,di - ahmedabad
+6556,CY6556,bhadran
+6557,CY6557,zalod
+6558,CY6558,vejalpur
+6559,CY6559,derol station
+6560,CY6560,dhamania
+6561,CY6561,ahmedbad
+6562,CY6562,dahegam
+6563,CY6563,shahera
+6564,CY6564,ahmedebad
+6565,CY6565,karjan
+6566,CY6566,gandhinagar`
+6567,CY6567,vadodra
+6568,CY6568,"guptipara, hooghly"
+6569,CY6569,kankinara
+6570,CY6570,salt lake city
+6571,CY6571,bhacha
+6572,CY6572,kolakta
+6573,CY6573,sankrail
+6574,CY6574,bandel
+6575,CY6575,magra
+6576,CY6576,gujarat
+6577,CY6577,killa-pardi
+6578,CY6578,kair
+6579,CY6579,alipur
+6580,CY6580,rwara
+6581,CY6581,port blair
+6582,CY6582,mahe
+6583,CY6583,thavalakuppam
+6584,CY6584,yanam
+6585,CY6585,pondicherry
+6586,CY6586,vansda
+6587,CY6587,bahour
+6588,CY6588,pudhucherry
+6589,CY6589,mayabunder
+6590,CY6590,kalapet
+6591,CY6591,nizar
+6592,CY6592,new mahe
+6593,CY6593,ariyur
+6594,CY6594,rangpo
+6595,CY6595,namchi
+6596,CY6596,dhanap
+6597,CY6597,khajuri
+6598,CY6598,chirakoot
+6599,CY6599,"lashkar, gwalior"
+6600,CY6600,bhiloda
+6601,CY6601,daramali
+6602,CY6602,vijaynagar
+6603,CY6603,umata
+6604,CY6604,zilia
+6605,CY6605,pilvai
+6606,CY6606,kanodar
+6607,CY6607,kalyanpura
+6608,CY6608,lod
+6609,CY6609,"bechraji ,  virmgam highway  road"
+6610,CY6610,bhetali
+6611,CY6611,samoda-ganwada
+6612,CY6612,meghraj
+6613,CY6613,shamlaji
+6614,CY6614,ladol
+6615,CY6615,jaynagar
+6616,CY6616,chhapi
+6617,CY6617,pamol
+6618,CY6618,ghaghret
+6619,CY6619,bhabhar
+6620,CY6620,jadar
+6621,CY6621,hirpura
+6622,CY6622,gozaria
+6623,CY6623,chanasma
+6624,CY6624,antoli
+6625,CY6625,palnpur
+6626,CY6626,nardipur
+6627,CY6627,himatnagara
+6628,CY6628,bhildi
+6629,CY6629,"deesa  b..k., gujarat"
+6630,CY6630,vatrak
+6631,CY6631,madana-gadh
+6632,CY6632,lavana
+6633,CY6633,"savli, vadodara"
+6634,CY6634,amirgadh
+6635,CY6635,huliyar
+6636,CY6636,mahugiri
+6637,CY6637,turuvekere
+6638,CY6638,nittur
+6639,CY6639,kodigenahally
+6640,CY6640,sira
+6641,CY6641,c n halli
+6642,CY6642,kanchrapara
+6643,CY6643,hogal baria
+6644,CY6644,dhubulia
+6645,CY6645,bagula
+6646,CY6646,not applicable
+6647,CY6647,sagardighi
+6648,CY6648,nabadwip
+6649,CY6649,haringhata
+6650,CY6650,auranganbad
+6651,CY6651,salar
+6652,CY6652,dhasagam
+6653,CY6653,vansda 
+6654,CY6654,sanosara
+6655,CY6655,laja
+6656,CY6656,gadu sherbaug
+6657,CY6657,ghodhra
+6658,CY6658,thangadh
+6659,CY6659,shirur tajband
+6660,CY6660,"cidco, new nanded"
+6661,CY6661,sailu
+6662,CY6662,jalkot
+6663,CY6663,ghonsi
+6664,CY6664,jawala bazar
+6665,CY6665,gangakhed
+6666,CY6666,nilanga
+6667,CY6667,ahmedpur
+6668,CY6668,renapur
+6669,CY6669,sengaon
+6670,CY6670,manwath
+6671,CY6671,nalegaon
+6672,CY6672,mahur
+6673,CY6673,jintur
+6674,CY6674,kinwat
+6675,CY6675,hadgaon
+6676,CY6676,aundha nagnath
+6677,CY6677,akhada balapur
+6678,CY6678,hanegaon
+6679,CY6679,shankarnagar
+6680,CY6680,kundalwadi
+6681,CY6681,loha
+6682,CY6682,palam
+6683,CY6683,deoni
+6684,CY6684,kalamanuri
+6685,CY6685,degloor
+6686,CY6686,kalavad
+6687,CY6687,vasmathnagar
+6688,CY6688,umri
+6689,CY6689,selu
+6690,CY6690,virpar
+6691,CY6691,sonpeth
+6692,CY6692,pathri
+6693,CY6693,ausa
+6694,CY6694,mukhed
+6695,CY6695,murud
+6696,CY6696,penoor
+6697,CY6697,killari
+6698,CY6698,kingaon
+6699,CY6699,vasmat
+6700,CY6700,mudkhed
+6701,CY6701,ranisawargaon
+6702,CY6702,msa
+6703,CY6703,biloli
+6704,CY6704,pethshivani
+6705,CY6705,mendarda
+6706,CY6706,pangaon
+6707,CY6707,basmath
+6708,CY6708,shirur anantpal
+6709,CY6709,nitur
+6710,CY6710,himayatnagar
+6711,CY6711,aundha
+6712,CY6712,bhokar
+6713,CY6713,chapoli
+6714,CY6714,mukramabad
+6715,CY6715,sele
+6716,CY6716,dharmabad
+6717,CY6717,aurad shahajani
+6718,CY6718,basmathnagar
+6719,CY6719,cidco new nanded
+6720,CY6720,maliya hatina
+6721,CY6721,halvad
+6722,CY6722,di - junagadh
+6723,CY6723,amrapur
+6724,CY6724,"fairlands, salem"
+6725,CY6725,koviloor
+6726,CY6726,bagasara
+6727,CY6727,sonpur
+6728,CY6728,koppam
+6729,CY6729,kodungallur
+6730,CY6730,jamjodhpur
+6731,CY6731,vazhayoor
+6732,CY6732,payyoli
+6733,CY6733,alanallur
+6734,CY6734,meenangadi
+6735,CY6735,cheruthuruthy
+6736,CY6736,kadampuzha
+6737,CY6737,melmuri
+6738,CY6738,vettikkattiri
+6739,CY6739,sreekrishnapuram palakkad
+6740,CY6740,chalissery
+6741,CY6741,guruvayoor
+6742,CY6742,andathode
+6743,CY6743,nilambur
+6744,CY6744,sukhpur
+6745,CY6745,vadakara
+6746,CY6746,karuvarakundu
+6747,CY6747,sutrapada
+6748,CY6748,malampuzha
+6749,CY6749,mullurkara
+6750,CY6750,lakshadweep
+6751,CY6751,mukkam- kozhikode
+6752,CY6752,kuzhalmannam
+6753,CY6753,koduvally
+6754,CY6754,kadmat
+6755,CY6755,tirurangadi
+6756,CY6756,kalpetta
+6757,CY6757,thirunavaya
+6758,CY6758,chelakkara
+6759,CY6759,irinjalakkuda
+6760,CY6760,sulthan bathery
+6761,CY6761,palemad
+6762,CY6762,wadakkanchery
+6763,CY6763,visavadar
+6764,CY6764,thiruvilwamala
+6765,CY6765,mongam
+6766,CY6766,cherpulassery
+6767,CY6767,kozhiode
+6768,CY6768,vadekkenchery
+6769,CY6769,ravada
+6770,CY6770,koduvayur
+6771,CY6771,wadhwancity
+6772,CY6772,chelembra
+6773,CY6773,kondotty
+6774,CY6774,kondotti
+6775,CY6775,vazhakkad
+6776,CY6776,idimuzhikkal
+6777,CY6777,alathur
+6778,CY6778,kodakara
+6779,CY6779,thavanur
+6780,CY6780,kallachi
+6781,CY6781,akalur
+6782,CY6782,kizhisseri
+6783,CY6783,kuttikkattoor
+6784,CY6784,kavaratti
+6785,CY6785,edkkara
+6786,CY6786,shornur
+6787,CY6787,villiappally
+6788,CY6788,mukkom
+6789,CY6789,padinjarangadi
+6790,CY6790,kutiyana
+6791,CY6791,lawngtlai
+6792,CY6792,lunglei
+6793,CY6793,zawlnuam
+6794,CY6794,champhai
+6795,CY6795,saitual
+6796,CY6796,mamit
+6797,CY6797,saiha
+6798,CY6798,kolasib
+6799,CY6799,hnahthial
+6800,CY6800,serchhip
+6801,CY6801,moran
+6802,CY6802,dhemaji
+6803,CY6803,"dhakuana, lakhimpur"
+6804,CY6804,tinsukia
+6805,CY6805,duliajan
+6806,CY6806,khowang ghat
+6807,CY6807,golaghat
+6808,CY6808,sivasagar
+6809,CY6809,jonai
+6810,CY6810,silapathar
+6811,CY6811,bihpuria
+6812,CY6812,sikka
+6813,CY6813,makum
+6814,CY6814,bokakhat
+6815,CY6815,demow
+6816,CY6816,naharkatia
+6817,CY6817,borpathaar
+6818,CY6818,borhat
+6819,CY6819,doomdooma
+6820,CY6820,amguri
+6821,CY6821,sonari
+6822,CY6822,ghilamara
+6823,CY6823,namrup
+6824,CY6824,sibsagar
+6825,CY6825,chapakhowa
+6826,CY6826,digboi
+6827,CY6827,majuli
+6828,CY6828,simaluguri
+6829,CY6829,jamkandorna
+6830,CY6830,nazira
+6831,CY6831,mariani
+6832,CY6832,dergaon
+6833,CY6833,sandur
+6834,CY6834,kurugodu
+6835,CY6835,yelburga
+6836,CY6836,huvinahadagali
+6837,CY6837,kanamadugu
+6838,CY6838,kanakagiri
+6839,CY6839,karatagi
+6840,CY6840,kukanoor
+6841,CY6841,hagaribommanahalli
+6842,CY6842,kampli
+6843,CY6843,girgadhada
+6844,CY6844,irakalgada
+6845,CY6845,hirevankalakunta
+6846,CY6846,hopset
+6847,CY6847,huvina hadagali
+6848,CY6848,wadhwan city
+6849,CY6849,kamatgi
+6850,CY6850,deodurga
+6851,CY6851,svp nagar darga road gulbarga
+6852,CY6852,teghra
+6853,CY6853,dalsingsarai
+6854,CY6854,madhepur
+6855,CY6855,rosera
+6856,CY6856,bournemouth
+6857,CY6857,manjhaul
+6858,CY6858,birauli
+6859,CY6859,benipatti
+6860,CY6860,"benipur, darbhanga"
+6861,CY6861,arbhanga
+6862,CY6862,barauni
+6863,CY6863,shahpur patory
+6864,CY6864,"lalbagh, darbhanga"
+6865,CY6865,faizpur
+6866,CY6866,jalagaon
+6867,CY6867,chalishgaon
+6868,CY6868,shindkheda
+6869,CY6869,visarwadi
+6870,CY6870,bhalod
+6871,CY6871,sakri
+6872,CY6872,varangaon
+6873,CY6873,navapur
+6874,CY6874,jodhpar
+6875,CY6875,loej
+6876,CY6876,mamurabad
+6877,CY6877,sayla
+6878,CY6878,parola
+6879,CY6879,nijampur-jaitane
+6880,CY6880,morane
+6881,CY6881,amlaner
+6882,CY6882,muktaingar
+6883,CY6883,dharangaon
+6884,CY6884,barawala
+6885,CY6885,khiroda
+6886,CY6886,shendurni
+6887,CY6887,valwadi dhule
+6888,CY6888,yawal
+6889,CY6889,loda
+6890,CY6890,sakegaon bhusawal
+6891,CY6891,mehrun
+6892,CY6892,jamner
+6893,CY6893,molgi
+6894,CY6894,nardana
+6895,CY6895,boradi
+6896,CY6896,kusumba
+6897,CY6897,dhadgaon
+6898,CY6898,ndalwadi
+6899,CY6899,songir
+6900,CY6900,erandol
+6901,CY6901,thalner
+6902,CY6902,navalnagar
+6903,CY6903,vanda
+6904,CY6904,mhasadi
+6905,CY6905,dahivel
+6906,CY6906,bodwad
+6907,CY6907,bhayavadar
+6908,CY6908,kembhavi
+6909,CY6909,aurad
+6910,CY6910,chitapur
+6911,CY6911,hulsoor
+6912,CY6912,khorasa
+6913,CY6913,yadagiri
+6914,CY6914,kalaburaga
+6915,CY6915,chincholi
+6916,CY6916,amarapur
+6917,CY6917,hallikhed
+6918,CY6918,"mangrol, - junagadh"
+6919,CY6919,maski
+6920,CY6920,basava kalyan
+6921,CY6921,kamalapur
+6922,CY6922,lingsugur
+6923,CY6923,"deodurga,raichur"
+6924,CY6924,kalburagi
+6925,CY6925,kalagi
+6926,CY6926,hutti
+6927,CY6927,ukhrul
+6928,CY6928,churachandpur
+6929,CY6929,jiribam
+6930,CY6930,thoubal
+6931,CY6931,moirang
+6932,CY6932,komlathabi
+6933,CY6933,mayang imphal
+6934,CY6934,chandel
+6935,CY6935,nambol
+6936,CY6936,dubi
+6937,CY6937,senapati
+6938,CY6938,menglong
+6939,CY6939,moreh
+6940,CY6940,kumbi
+6941,CY6941,kakching khunou
+6942,CY6942,kakching
+6943,CY6943,thriuvananthapuram
+6944,CY6944,joshipura junagadh
+6945,CY6945,pennagaram
+6946,CY6946,pappireddipatti
+6947,CY6947,uthangarai
+6948,CY6948,thammampatti
+6949,CY6949,bargur
+6950,CY6950,dharmanagar
+6951,CY6951,sabroom
+6952,CY6952,kailashahar
+6953,CY6953,kamalpur
+6954,CY6954,amarpur
+6955,CY6955,khowai
+6956,CY6956,ambassa
+6957,CY6957,panisagar
+6958,CY6958,sonamura
+6959,CY6959,gidhaur
+6960,CY6960,w. champaran
+6961,CY6961,paliganj
+6962,CY6962,"batiya,champaran"
+6963,CY6963,ramanujnagar
+6964,CY6964,kunkuri
+6965,CY6965,bagicha
+6966,CY6966,pratappur
+6967,CY6967,chirirmiri
+6968,CY6968,bhaiyathan
+6969,CY6969,wadrafnager
+6970,CY6970,chirimiri
+6971,CY6971,duldula
+6972,CY6972,silphili
+6973,CY6973,janakpur
+6974,CY6974,"sitapur, surguja"
+6975,CY6975,jamkhambhalia
+6976,CY6976,pkara
+6977,CY6977,gayathrinagar
+6978,CY6978,banhatti
+6979,CY6979,mba
+6980,CY6980,zinzuwada
+6981,CY6981,rabkavi
+6982,CY6982,munavalli
+6983,CY6983,katkol
+6984,CY6984,lokapur
+6985,CY6985,mugalkhod
+6986,CY6986,mudalagi
+6987,CY6987,bedkihal
+6988,CY6988,kagwad
+6989,CY6989,nalatawad
+6990,CY6990,shiraguppi
+6991,CY6991,nagpu
+6992,CY6992,shirgonda`
+6993,CY6993,bhosag 
+6994,CY6994,supkhela
+6995,CY6995,mandane
+6996,CY6996,kapadane dhanur
+6997,CY6997,dhavali
+6998,CY6998,alandi
+6999,CY6999,turkewadi
+7000,CY7000,marul
+7001,CY7001,parli-vaijanath
+7002,CY7002,kolsa
+7003,CY7003,yalgaon
+7004,CY7004,"godhani rly, saoner road, nagpur"
+7005,CY7005,arjuni/mor
+7006,CY7006,koldoli
+7007,CY7007,yawatmal
+7008,CY7008,dawaniwada
+7009,CY7009,nagothane
+7010,CY7010,lonara
+7011,CY7011,shankarpur
+7012,CY7012,nighoj
+7013,CY7013,dharangutti
+7014,CY7014,berachampa
+7015,CY7015,bara gagan
+7016,CY7016,bainchi
+7017,CY7017,pujali m
+7018,CY7018,ranichak haldia
+7019,CY7019,dumkal
+7020,CY7020,chandrakona twon
+7021,CY7021,garia
+7022,CY7022,kolkata mega city
+7023,CY7023,rupnarayanpur
+7024,CY7024,muchipara nh
+7025,CY7025,guptipara
+7026,CY7026,bena gerya
+7027,CY7027,jotram
+7028,CY7028,mogra
+7029,CY7029,pubarun
+7030,CY7030,"sherewad, hubballi"
+7031,CY7031,rihal
+7032,CY7032,pragatinagar
+7033,CY7033,sanjeli
+7034,CY7034,babapur
+7035,CY7035,untarda
+7036,CY7036,banikhet
+7037,CY7037,ghadi
+7038,CY7038,lwar
+7039,CY7039,pandoga
+7040,CY7040,vaijapur dis - aurangabad
+7041,CY7041,changrara
+7042,CY7042,chikkamagaluru
+7043,CY7043,k m doddi
+7044,CY7044,laxmeshwara
+7045,CY7045,bagri nagar
+7046,CY7046,mahuar
+7047,CY7047,jaislamer
+7048,CY7048,pali-marwar
+7049,CY7049,mundakayam
+7050,CY7050,kothamanglam
+7051,CY7051,bharananganam
+7052,CY7052,kotabagh
+7053,CY7053,gauchar
+7054,CY7054,kuknur
+7055,CY7055,narendranagar
+7056,CY7056,srinagar garhwal
+7057,CY7057,molekhal
+7058,CY7058,kula
+7059,CY7059,thalnadi
+7060,CY7060,kaladhungi
+7061,CY7061,sahiya
+7062,CY7062,satpuli pauri garhwal
+7063,CY7063,pauri
+7064,CY7064,kanalichhina
+7065,CY7065,didihat
+7066,CY7066,hindolakhal
+7067,CY7067,kapkot
+7068,CY7068,kanakatte
+7069,CY7069,sidlaghatta
+7070,CY7070,baswa
+7071,CY7071,robertsonpet
+7072,CY7072,kolar gold field
+7073,CY7073,bharua sumerpur
+7074,CY7074,feroke
+7075,CY7075,jajgir
+7076,CY7076,koria
+7077,CY7077,dharamjaigarh
+7078,CY7078,melkote
+7079,CY7079,kengapura
+7080,CY7080,kerebilchi
+7081,CY7081,heggadadevanakote
+7082,CY7082,kallettumkara
+7083,CY7083,ganagavthi
+7084,CY7084,krishnarajapete
+7085,CY7085,alnavar
+7086,CY7086,chikkodi
+7087,CY7087,lingasgur
+7088,CY7088,nawarangpur
+7089,CY7089,dharmagarh
+7090,CY7090,mirle
+7091,CY7091,mokama
+7092,CY7092,thiruppathur
+7093,CY7093,vemabr
+7094,CY7094,mulabagilu
+7095,CY7095,alapakkam
+7096,CY7096,sivagiri t.k
+7097,CY7097,gangavalli
+7098,CY7098,"ambalakaranpatty, melur"
+7099,CY7099,thirukoilur
+7100,CY7100,tirunelvlei
+7101,CY7101,sempatty
+7102,CY7102,rabakavi
+7103,CY7103,kattumannarlkoil
+7104,CY7104,vijayanarayanam
+7105,CY7105,mannardugi
+7106,CY7106,gummidipondi-t.k
+7107,CY7107,surpur
+7108,CY7108,mavelikkara
+7109,CY7109,ambalappuzha
+7110,CY7110,beerwah
+7111,CY7111,bandipur
+7112,CY7112,"guddada chennapura, bankapur"
+7113,CY7113,kadalure
+7114,CY7114,vishakapatnam
+7115,CY7115,visakhapoatnam
+7116,CY7116,chikkabalapura
+7117,CY7117,dachepalle
+7118,CY7118,phiramgipuram
+7119,CY7119,adillabad
+7120,CY7120,p r t u coloney
+7121,CY7121,mahaboob nagar
+7122,CY7122,mahalingapur
+7123,CY7123,fasalwadi
+7124,CY7124,bhongiri
+7125,CY7125,"rajam, bobbili"
+7126,CY7126,samalkota
+7127,CY7127,eletipadu
+7128,CY7128,bmimavaram
+7129,CY7129,tumkuru
+7130,CY7130,farooqnagar
+7131,CY7131,mahaboobnagar
+7132,CY7132,yacharam
+7133,CY7133,hydearaba
+7134,CY7134,shankerpalle
+7135,CY7135,warngal
+7136,CY7136,koratagere talq
+7137,CY7137,ilakal
+7138,CY7138,huamnabad
+7139,CY7139,kasara
+7140,CY7140,sengipatty
+7141,CY7141,nambiyur
+7142,CY7142,chak ruldu singh wala
+7143,CY7143,bhatrojkahan
+7144,CY7144,thethampet - srimushnam
+7145,CY7145,tharangambadi
+7146,CY7146,poonamallee
+7147,CY7147,"mallathalli, bangalore"
+7148,CY7148,minjur
+7149,CY7149,lunawad
+7150,CY7150,jodiya
+7151,CY7151,devgadh baria
+7152,CY7152,chotila
+7153,CY7153,jeetanagar
+7154,CY7154,killapardi
+7155,CY7155,choryasi - surat
+7156,CY7156,sarsawa
+7157,CY7157,fatehgrah
+7158,CY7158,yeshwantnagar
+7159,CY7159,racherla
+7160,CY7160,sngarayakonda
+7161,CY7161,bestawripeta
+7162,CY7162,kodavalur
+7163,CY7163,karvetinagaram
+7164,CY7164,kalasapadu
+7165,CY7165,porummill
+7166,CY7166,rayachoti
+7167,CY7167,chapadu
+7168,CY7168,pullampet kadapa
+7169,CY7169,badbar
+7170,CY7170,khamano
+7171,CY7171,nabarangapur
+7172,CY7172,chandipur sea beach road
+7173,CY7173,abhirampur
+7174,CY7174,dhaula kuan
+7175,CY7175,sheohar
+7176,CY7176,kulsari
+7177,CY7177,pratapnagar
+7178,CY7178,danya
+7179,CY7179,gaja
+7180,CY7180,jakhanidhar
+7181,CY7181,kolad
+7182,CY7182,lawade
+7183,CY7183,ysr kadapa
+7184,CY7184,coromandel kgf
+7185,CY7185,ragadi
+7186,CY7186,bargrah
+7187,CY7187,"bidrahalli hobli, bangalore"
+7188,CY7188,indus
+7189,CY7189,pethvadgaon
+7190,CY7190,balanagar
+7191,CY7191,abdullapurmett
+7192,CY7192,karimanagar
+7193,CY7193,kalloor
+7194,CY7194,beml nagar
+7195,CY7195,khambha
+7196,CY7196,navi metral
+7197,CY7197,rasgovindpur
+7198,CY7198,saran
+7199,CY7199,durgawati
+7200,CY7200,kandikhal
+7201,CY7201,tufanganj
+7202,CY7202,zaheerab
+7203,CY7203,uttarkshi
+7204,CY7204,chopdiun
+7205,CY7205,kataram
+7206,CY7206,devpryag
+7207,CY7207,lavasa
+7208,CY7208,tirumalagiri
+7209,CY7209,hazipur
+7210,CY7210,chopta
+7211,CY7211,kalidindi
+7212,CY7212,subhashgram
+7213,CY7213,tamluk
+7214,CY7214,kokana
+7215,CY7215,tirora
+7216,CY7216,ramgaon
+7217,CY7217,ambap
+7218,CY7218,koopur
+7219,CY7219,khadki bk
+7220,CY7220,"midc, kudal"
+7221,CY7221,shil-pokhari
+7222,CY7222,banshbagarh
+7223,CY7223,bangapani
+7224,CY7224,dgras
+7225,CY7225,waghadi
+7226,CY7226,barechhena
+7227,CY7227,"baikunthpur, koria"
+7228,CY7228,brahmangaon
+7229,CY7229,kudalasangama
+7230,CY7230,vandiperiyar
+7231,CY7231,kolpewadi
+7232,CY7232,srnagar
+7233,CY7233,alleppey
+7234,CY7234,belgavi
+7235,CY7235,saraikela
+7236,CY7236,bacchraun
+7237,CY7237,dhangwadi
+7238,CY7238,kaliachak
+7239,CY7239,sithmara
+7240,CY7240,chavakkad
+7241,CY7241,raebaraeli
+7242,CY7242,vadakkenchery
+7243,CY7243,rasara
+7244,CY7244,barabnki
+7245,CY7245,kosgi
+7246,CY7246,birbhum
+7247,CY7247,shantipur
+7248,CY7248,awantipora
+7249,CY7249,kasimkota
+7250,CY7250,gummalakshmipuram
+7251,CY7251,narsobawadi
+7252,CY7252,abhona
+7253,CY7253,islamnagar
+7254,CY7254,namsai
+7255,CY7255,shahbad
+7256,CY7256,jainti
+7257,CY7257,kandhamal
+7258,CY7258,jagatasingpur
+7259,CY7259,keonjhargarh
+7260,CY7260,goniana khurd
+7261,CY7261,"ambikapur, surguja"
+7262,CY7262,satuiya khas
+7263,CY7263,kurai
+7264,CY7264,ranapur
+7265,CY7265,nayagrah
+7266,CY7266,parli-v
+7267,CY7267,niali
+7268,CY7268,jhasuguda
+7269,CY7269,balesore
+7270,CY7270,sankarankovilg
+7271,CY7271,paradeep
+7272,CY7272,mayrabhanj
+7273,CY7273,mayurbhanja
+7274,CY7274,sambal pur
+7275,CY7275,malsian
+7276,CY7276,bari brahmna
+7277,CY7277,babara
+7278,CY7278,dhankanal
+7279,CY7279,vambori
+7280,CY7280,palasgaon
+7281,CY7281,jaswant nagar
+7282,CY7282,groakhpur
+7283,CY7283,panari
+7284,CY7284,raebarli
+7285,CY7285,jot gopalkagmari
+7286,CY7286,ppune
+7287,CY7287,makarda
+7288,CY7288,"depalli , tadepalligudem"
+7289,CY7289,krishnunipalem
+7290,CY7290,denduluru
+7291,CY7291,bestevari peta
+7292,CY7292,tikamharh
+7293,CY7293,duttaur
+7294,CY7294,vijayawadava
+7295,CY7295,"koyyalagudem,a.p"
+7296,CY7296,rajahmaundry
+7297,CY7297,kaluvoya
+7298,CY7298,polaki
+7299,CY7299,rampur bsr
+7300,CY7300,vandvasi
+7301,CY7301,gandharvakottai
+7302,CY7302,amalsad
+7303,CY7303,kherda
+7304,CY7304,lwara township
+7305,CY7305,baghmundi
+7306,CY7306,"pallekona, bhattiprolu"
+7307,CY7307,sasan-gir
+7308,CY7308,jhanjharpur
+7309,CY7309,raghu nagar
+7310,CY7310,kurtadi
+7311,CY7311,a.nagar
+7312,CY7312,mungeshpur
+7313,CY7313,mungehspur
+7314,CY7314,dhansar
+7315,CY7315,prakasha
+7316,CY7316,parli.v
+7317,CY7317,valangaiman
+7318,CY7318,pappireddypatti
+7319,CY7319,denkanikottai
+7320,CY7320,cholapuram
+7321,CY7321,vulavapadu
+7322,CY7322,changipur
+7323,CY7323,yalal
+7324,CY7324,makhdampur dhapdhara
+7325,CY7325,joka
+7326,CY7326,jadavpur
+7327,CY7327,ongolr
+7328,CY7328,jagaddal
+7329,CY7329,rajupalem
+7330,CY7330,brajanathpur
+7331,CY7331,saranpur
+7332,CY7332,anjaneri-vadholi
+7333,CY7333,chhibrama
+7334,CY7334,patelguda
+7335,CY7335,kharghar navi mumbai
+7336,CY7336,india
+7337,CY7337,deopur
+7338,CY7338,amaravati
+7339,CY7339,lonere
+7340,CY7340,khamundi
+7341,CY7341,limb satara
+7342,CY7342,sindhudhrga
+7343,CY7343,sasure
+7344,CY7344,kuran
+7345,CY7345,kinhi
+7346,CY7346,kosra-kondha
+7347,CY7347,mumai
+7348,CY7348,achalpur
+7349,CY7349,lodga
+7350,CY7350,"nigdi, pune"
+7351,CY7351,takli kazi
+7352,CY7352,nerul navi mumbai
+7353,CY7353,amberanth
+7354,CY7354,"kharghar, navi mumbai"
+7355,CY7355,mumbai  subu
+7356,CY7356,ichalkarnji
+7357,CY7357,shirol-dattanagar
+7358,CY7358,maregaon
+7359,CY7359,darapur
+7360,CY7360,kannd
+7361,CY7361,khehoshe
+7362,CY7362,chitalpur
+7363,CY7363,athagarh
+7364,CY7364,narasinghpur
+7365,CY7365,sooramangalam
+7366,CY7366,balacahur
+7367,CY7367,dinnanagar
+7368,CY7368,hinjewadi pune
+7369,CY7369,ajitwal
+7370,CY7370,"chomu, jaipur"
+7371,CY7371,singtam
+7372,CY7372,pali marwar
+7373,CY7373,hindauncity
+7374,CY7374,sitapura jaipur
+7375,CY7375,chettinad
+7376,CY7376,melur madurai
+7377,CY7377,thirukalukundram
+7378,CY7378,ettayapuram
+7379,CY7379,pallipet
+7380,CY7380,nagapattinam d.t
+7381,CY7381,vembakkam
+7382,CY7382,kavindapadi
+7383,CY7383,trichengode
+7384,CY7384,krishangiri
+7385,CY7385,lalgudi
+7386,CY7386,velur
+7387,CY7387,pavoorchatram
+7388,CY7388,mettur dam
+7389,CY7389,pudukkotai
+7390,CY7390,erode-perundurai main road
+7391,CY7391,kalaiyur
+7392,CY7392,vadakankulam
+7393,CY7393,sankarnagar
+7394,CY7394,kallur
+7395,CY7395,kulitalai
+7396,CY7396,nilakkottai
+7397,CY7397,perumalpattu
+7398,CY7398,perianaicken palayam
+7399,CY7399,velore
+7400,CY7400,madurandakam
+7401,CY7401,keeranur
+7402,CY7402,puthur
+7403,CY7403,ponnamaravathi
+7404,CY7404,kalayarkoil
+7405,CY7405,ammandivilai
+7406,CY7406,"ramadevam post,  p.velur"
+7407,CY7407,azhaganeri
+7408,CY7408,ponnakudi
+7409,CY7409,mulanur
+7410,CY7410,madhanur
+7411,CY7411,elumalai
+7412,CY7412,kattankulathur
+7413,CY7413,athimanjeripet
+7414,CY7414,enathi
+7415,CY7415,basni
+7416,CY7416,machhali shahar
+7417,CY7417,utraula balrampur
+7418,CY7418,bhuta bareilly
+7419,CY7419,kithore meerut
+7420,CY7420,jagdishpur
+7421,CY7421,nizamabad  telangana
+7422,CY7422,"bandlaguda, keesara"
+7423,CY7423,rajanagaram
+7424,CY7424,visakhpatnam
+7425,CY7425,sycunderabad
+7426,CY7426,malakpet
+7427,CY7427,"himayathnagar, hyderabad"
+7428,CY7428,palakalur road
+7429,CY7429,visakapatnam
+7430,CY7430,vizayanagaram
+7431,CY7431,hari nagar
+7432,CY7432,behind navapura school
+7433,CY7433,bhuj-kachchh
+7434,CY7434,jeetnagar
+7435,CY7435,ner-chowk
+7436,CY7436,kakira
+7437,CY7437,gulbaga
+7438,CY7438,ramanagaram
+7439,CY7439,sunkadakatte
+7440,CY7440,gulbaraga
+7441,CY7441,faizaad
+7442,CY7442,"shravanabelagola, channarayapatana"
+7443,CY7443,hjubli
+7444,CY7444,kanakpura
+7445,CY7445,bengalore
+7446,CY7446,bnagalore
+7447,CY7447,threissur
+7448,CY7448,perumpilavu
+7449,CY7449,kanhirapuzha
+7450,CY7450,thachampara
+7451,CY7451,"beach road, kozhikode"
+7452,CY7452,thodupuha
+7453,CY7453,muttuchira
+7454,CY7454,engandiyoor
+7455,CY7455,pacha
+7456,CY7456,"loni ,ghaziabad"
+7457,CY7457,marikunnu
+7458,CY7458,oachira
+7459,CY7459,chathannoor
+7460,CY7460,alathur po
+7461,CY7461,alwye
+7462,CY7462,nedumkandom
+7463,CY7463,ollur
+7464,CY7464,cherthala p .o
+7465,CY7465,choondal
+7466,CY7466,chaganacherry
+7467,CY7467,"sion,mumbai"
+7468,CY7468,mayarabhanja
+7469,CY7469,chatara
+7470,CY7470,nayagrh
+7471,CY7471,kuruda
+7472,CY7472,mullanpur
+7473,CY7473,mahilpur
+7474,CY7474,"mullanpur, ludhiana"
+7475,CY7475,poduru
+7476,CY7476,batlagundu
+7477,CY7477,yatapaka
+7478,CY7478,thiruvidaimaruthur
+7479,CY7479,pernambut
+7480,CY7480,ranipet
+7481,CY7481,vizhavancode
+7482,CY7482,azhagappapuram
+7483,CY7483,coiumbatore
+7484,CY7484,uttar pradesh
+7485,CY7485,tarabganj
+7486,CY7486,palamaneru
+7487,CY7487,dehdadun
+7488,CY7488,medinipur
+7489,CY7489,singerayakonda
+7490,CY7490,karvetinagar
+7491,CY7491,mynampadu
+7492,CY7492,suraram
+7493,CY7493,badangpet
+7494,CY7494,howly
+7495,CY7495,dalgaon
+7496,CY7496,baje mandal sialmari
+7497,CY7497,dergain
+7498,CY7498,vanakbara
+7499,CY7499,dilshad garden
+7500,CY7500,napa-talpad
+7501,CY7501,bochasan
+7502,CY7502,"bhestan, surat"
+7503,CY7503,limbasi
+7504,CY7504,ravualpalem
+7505,CY7505,ahmedabadr
+7506,CY7506,anera
+7507,CY7507,dachepalli
+7508,CY7508,chhaya porbandar
+7509,CY7509,borlai
+7510,CY7510,sunav
+7511,CY7511,timba na muvada
+7512,CY7512,mohra
+7513,CY7513,mattarsham
+7514,CY7514,saroo
+7515,CY7515,keylong
+7516,CY7516,reckong peo
+7517,CY7517,bhuntar-kullu
+7518,CY7518,parvathipuaram
+7519,CY7519,hubbli
+7520,CY7520,ramadurga
+7521,CY7521,ullamparru-palakol
+7522,CY7522,hanchala gate
+7523,CY7523,kudige
+7524,CY7524,kalbuargi
+7525,CY7525,kridangana behend
+7526,CY7526,holenarasipur
+7527,CY7527,zaheerabd
+7528,CY7528,nandamuru
+7529,CY7529,bibi nagar
+7530,CY7530,halalkere
+7531,CY7531,kudlgi
+7532,CY7532,shamanewadi
+7533,CY7533,swarnagiri
+7534,CY7534,banaganapalle
+7535,CY7535,gowribidanur
+7536,CY7536,chamarajangar
+7537,CY7537,kanamadagu
+7538,CY7538,h.d.kote
+7539,CY7539,"hagarga cross, ring road"
+7540,CY7540,shikaripur
+7541,CY7541,ramdurga
+7542,CY7542,nayarambalam
+7543,CY7543,karunagapally
+7544,CY7544,thalavoor
+7545,CY7545,kuruppampady
+7546,CY7546,nettikkulam
+7547,CY7547,sasthamcotta
+7548,CY7548,mankada
+7549,CY7549,puthencuriz
+7550,CY7550,mylapra
+7551,CY7551,mukka- kozhikode
+7552,CY7552,cherrapunjee
+7553,CY7553,resubelpara
+7554,CY7554,nac athagarh
+7555,CY7555,gandua
+7556,CY7556,chhendipada
+7557,CY7557,gorumahisani
+7558,CY7558,chitrakonda
+7559,CY7559,rajsunakhala
+7560,CY7560,deon
+7561,CY7561,sri muktsar
+7562,CY7562,chithamur
+7563,CY7563,kayathar
+7564,CY7564,vilupuram
+7565,CY7565,kurukkathi
+7566,CY7566,kilpennathur
+7567,CY7567,mundka
+7568,CY7568,johilpatti
+7569,CY7569,chinnatharapuram
+7570,CY7570,gangavallli
+7571,CY7571,"verna , margao"
+7572,CY7572,curchorem
+7573,CY7573,vasco-da-gama
+7574,CY7574,kancheeppuram
+7575,CY7575,parangipettai
+7576,CY7576,nagappattinam
+7577,CY7577,keelanagachi panchayat
+7578,CY7578,thirukkalkundram
+7579,CY7579,vedaraniyam
+7580,CY7580,thirukkalukundram
+7581,CY7581,gyanpur bhadohi
+7582,CY7582,rampur karkhana
+7583,CY7583,baruasagar
+7584,CY7584,bhogaon
+7585,CY7585,kanpur city
+7586,CY7586,amta
+7587,CY7587,"belakoba, jalpaiguri"
+7588,CY7588,bishpuria
+7589,CY7589,lahanda
+7590,CY7590,dharmada
+7591,CY7591,ghagra p
+7592,CY7592,joyrambati
+7593,CY7593,majhihira
+7594,CY7594,patharpratima
+7595,CY7595,lalbagh
+7596,CY7596,barajaguli
+7597,CY7597,kundli
+7598,CY7598,aurangpura
+7599,CY7599,kaikhali
+7600,CY7600,"amgachia road, joka"
+7601,CY7601,dared
+7602,CY7602,maregaon yavatmal
+7603,CY7603,brahmanwas
+7604,CY7604,kankarwadi
+7605,CY7605,mhasla
+7606,CY7606,apithan
+7607,CY7607,mahsawad
+7608,CY7608,abdul lat
+7609,CY7609,sagaon
+7610,CY7610,boisar - pasthal
+7611,CY7611,"deoghar, wada"
+7612,CY7612,block - karjat
+7613,CY7613,rahatoli
+7614,CY7614,lonikalbhor
+7615,CY7615,indave
+7616,CY7616,deshing
+7617,CY7617,kolhpaur
+7618,CY7618,kondha kosra
+7619,CY7619,dusane
+7620,CY7620,naigaon bz
+7621,CY7621,gondpipari
+7622,CY7622,mangaon- raigad
+7623,CY7623,neknoor
+7624,CY7624,thane-w
+7625,CY7625,sangrampur
+7626,CY7626,bulana
+7627,CY7627,malkpur
+7628,CY7628,samode
+7629,CY7629,pusesavali
+7630,CY7630,kanheri saraf
+7631,CY7631,kothali
+7632,CY7632,sadakarjuni
+7633,CY7633,wadsa
+7634,CY7634,shiruranantpal
+7635,CY7635,khamkhura
+7636,CY7636,lakhandurasola
+7637,CY7637,bhdrawati
+7638,CY7638,narande
+7639,CY7639,osmsnsbad
+7640,CY7640,terkheda
+7641,CY7641,kelzar
+7642,CY7642,sendurwafa
+7643,CY7643,deulgaonraja
+7644,CY7644,ap- parner
+7645,CY7645,someshwaranagar
+7646,CY7646,achalpur camp
+7647,CY7647,washi
+7648,CY7648,neri bk
+7649,CY7649,aurwad
+7650,CY7650,shewali
+7651,CY7651,bhendala
+7652,CY7652,pimpri chichwad pune
+7653,CY7653,kallamb
+7654,CY7654,kale
+7655,CY7655,chaupale
+7656,CY7656,yenwa
+7657,CY7657,mukhai
+7658,CY7658,ognaj
+7659,CY7659,chandkheda  ahmedabad
+7660,CY7660,sardarkrushinagar
+7661,CY7661,manesar
+7662,CY7662,baru sahib
+7663,CY7663,vaddeswaram
+7664,CY7664,vidyaranya
+7665,CY7665,kozhikkode
+7666,CY7666,pookode
+7667,CY7667,patharia hills
+7668,CY7668,jablpur
+7669,CY7669,prasanthi nilayam
+7670,CY7670,longowal
+7671,CY7671,banasthali vidyapith
+7672,CY7672,lam
+7673,CY7673,"rca, udaipur"
+7674,CY7674,lakshmangarh
+7675,CY7675,bhatewar
+7676,CY7676,chinnalapatti
+7677,CY7677,"nirjuli, itanagar"
+7678,CY7678,saidapet
+7679,CY7679,izatnagar
+7680,CY7680,dehardun
+7681,CY7681,"srinagar, garhwal"
+7682,CY7682,kokata
+7683,CY7683,waknaghat
+7684,CY7684,ravangla
+7685,CY7685,gandhingar
+7686,CY7686,rajgir
+7687,CY7687,badshahithaul
+7688,CY7688,thuvakudi
+7689,CY7689,sri city
+7690,CY7690,shantineketan
+7691,CY7691,"jagdalpur , chhattisgarh"
+7692,CY7692,kapilvastu
+7693,CY7693,aarang
