@@ -173,11 +173,22 @@ def webhook():
                 if answer == None:
                     cid = sess['CollegeName']
                     row = college_table.loc[college_table.cid == cid]
-                    card_str = make_card(row)
-                    return make_response(jsonify({'fulfillmentText': f'{{\
-                                                     "messages" : [\
-                                                             {{"card":"{card_str}"}}]\
-                                                 }}'}))
+                    card = make_card(row)
+                    possible_chips = list(["about", "contact", "address", "reviews", "photos"])
+                    chips = random.sample(possible_chips, 3)
+                    
+                    json_dic = {
+                        "cid" : cid,
+                        "messages" : [
+                            {"data": card, "type" : "card"},
+                            {"data": anything_else(), "type" : "text"},
+                            {"data": chips, "type" : "chips"}
+                        ]
+                    }
+
+                    json_str = json.dumps(json_dic)
+                    return make_response(jsonify({"fulfillmentText" : json_str}))
+
                 else:
                     return answer
 

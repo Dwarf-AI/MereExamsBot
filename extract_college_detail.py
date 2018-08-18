@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 import requests
 import random
+import re
 from reply_gen import *
 
 def college_func(session, cid, detail, college_table):
@@ -17,7 +18,7 @@ def college_func(session, cid, detail, college_table):
         possible_chips.remove(detail)
 
     chips = random.sample(possible_chips, 3)
-
+    
     if detail == "about":
         prgh = "" # Paragraph
         if str(row.year_of_establishment.values[0]) != "nan":
@@ -34,35 +35,50 @@ def college_func(session, cid, detail, college_table):
                 prgh += element + ", "
             prgh += str(columns[-1]).replace("_"," ") + "."
         if prgh == "":
-            return make_response(jsonify({"fulfillmentText":f'{{\
-                "messages" : [\
-                    {{"cid" :{cid}}},\
-                    {{"text": "Sorry, I can\'t help you with this for {college_name}"}},\
-                    {{"text": {anything_else()}}},\
-                    {{"chips": {chips}}}\
-                ]\
-            }}'}))
+
+
+            #json
+            json_dic = {
+                "cid" : cid,
+                "messages" : [
+                    {"data": f"Sorry, I can\'t help you with this for {college_name}", "type" : "text"},
+                    {"data": anything_else(), "type" : "text"},
+                    {"data": chips , "type": "chips"}
+                ]
+            }
+            
+            json_str = json.dumps(json_dic)
+            return make_response(jsonify({"fulfillmentText":json_str}))
         else:
-            return make_response(jsonify({"fulfillmentText":f'{{\
-                "messages" : [\
-                    {{"cid" :{cid}}},\
-                    {{"text": {prgh}}},\
-                    {{"text": {anything_else()}}},\
-                    {{"chips": {chips}}}\
-                ]\
-            }}'}))
+
+            #json
+            json_dic = {
+                 'cid' : cid,
+                 'messages' : [
+                    {'data': prgh, 'type': 'text'},
+                    {'data': anything_else(), 'type' : 'text'},
+                    {'data': chips, 'type' : 'chips'}
+                ]
+            }
+            json_str = json.dumps(json_dic)
+            return make_response(jsonify({"fulfillmentText":json_str}))
 
 
     elif detail in ["photos","reviews"]:
-        if str(row.place_id.values[0]) == "nan":
-            return make_response(jsonify({"fulfillmentText":f'{{\
-                "messages" : [\
-                    {{"cid" :{cid}}},\
-                    {{"text": "Sorry, I do not have any {detail} for {college_name}"}},\
-                    {{"text": {anything_else()}}},\
-                    {{"chips": {chips}}}\
-                ]\
-            }}'}))
+        if str(row.place_id.values[0]) == "nan" or (row.place_id.values[0]) == "" :
+
+            #json
+            json_dic = {
+                "cid" : cid,
+                "messages" : [
+                    {"data": f"Sorry, I do not have any {detail} for {college_name}", "type" : "text"},
+                    {"data": anything_else(), "type" : "text"},
+                    {"data": chips, "type" : "chips"}
+                ]
+            }
+            json_str = json.dumps(json_dic)
+            return make_response(jsonify({"fulfillmentText":json_str}))
+        
         else:
             url = "https://maps.googleapis.com/maps/api/place/details/json"
 
@@ -80,129 +96,188 @@ def college_func(session, cid, detail, college_table):
                 photos_url_list = []
                 for photo_json in photos_json_list:
                     ref = photo_json["photo_reference"]
-                    photos_url_list.append("https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference={ref}&key=AIzaSyAO7ow2BD4c3BmFonOUjVshoAgf_P5ZhYo")
+                    photos_url_list.append(f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference={ref}&key=AIzaSyAO7ow2BD4c3BmFonOUjVshoAgf_P5ZhYo")
 
-                return make_response(jsonify({"fulfillmentText":f'{{\
-                    "messages" : [\
-                        {{"cid" :{cid}}},\
-                        {{"text": "Here are some photos for {college_name}"}},\
-                        {{"photos": {photos_url_list}}},\
-                        {{"text": {anything_else()}}},\
-                        {{"chips": {chips}}}\
-                    ]\
-                }}'}))
+                #json
+                json_dic = {
+                    "cid" : cid,
+                    "messages" : [
+                        {"data" : f"Here are some photos for {college_name}", "type" : "text"},
+                        {"data" : photos_url_list, "type" : "photos"},
+                        {"data" : anything_else(), "type" : "text"},
+                        {"data" : chips, "type" : "chips"}
+                    ]
+                }
+                json_str = json.dumps(json_dic)
+                return make_response(jsonify({"fulfillmentText":json_str}))
             else:
-                return make_response(jsonify({"fulfillmentText":f'{{\
-                    "messages" : [\
-                        {{"cid" :{cid}}},\
-                        {{"text": "Here are reviews for {college_name}"}},\
-                        {{"reviews": {response["result"]["reviews"]} }},\
-                        {{"text": {anything_else()}}},\
-                        {{"chips": {chips}}}\
-                    ]\
-                }}'}))
+                #json
+                json_dic = {
+                    "cid" : cid,
+                    "messages" : [
+                        {"data" : f"Here are reviews for {college_name}", "type" : "text"},
+                        {"data" : response["result"]["reviews"], "type" : "reviews"},
+                        {"data" : anything_else(), "type" : "text"},
+                        {"data" : chips, "type" : "chips"}
+                    ]
+                }
+                json_str = json.dumps(json_dic)
+                return make_response(jsonify({"fulfillmentText" : json_str}))
 
     elif detail == "address":
         if str(row.place_id.values[0]) == "nan":
-            return make_response(jsonify({"fulfillmentText":f'{{\
-                "messages" : [\
-                    {{"cid" :{cid}}},\
-                    {{"text": {detail_gen("Address",college_name, str(row.address.values[0]))}}},\
-                    {{"text": {anything_else()}}},\
-                    {{"chips": {chips}}}\
-                ]\
-            }}'}))
+
+            #json
+            json_dic = {
+                "cid" : cid,
+                "messages" : [
+                    {"data": detail_gen("Address",college_name, str(row.address.values[0])), "type" : "text"},
+                    {"data": anything_else(), "type" : "text"},
+                    {"data": chips, "type" : "chips"}
+                ]
+            }
+            json_str = json.dumps(json_dic)
+            return make_response(jsonify({"fulfillmentText" : json_str}))
         else:
-            return make_response(jsonify({"fulfillmentText":f'{{\
-                "messages" : [\
-                    {{"cid" :{cid}}},\
-                    {{"text": {detail_gen("Address",college_name, row.address.values[0])}}},\
-                    {{"map":{{"lat":{row.lat.values[0]},"lng":{row.lng.values[0]}}}}},\
-                    {{"text": {anything_else()}}},\
-                    {{"chips": {chips}}}\
-                ]\
-            }}'}))
+            #json
+            json_dic = {
+                "cid" : cid,
+                "messages" : [
+                    {"data": detail_gen("Address",college_name, row.address.values[0]), "type" : "text"},
+                    {"data": {
+                        "lat": row.lat.values[0],
+                        "lng": row.lng.values[0]
+                        },
+                     "type" : "map"
+                    },
+                    {"data": anything_else(), "type" : "text"},
+                    {"data": chips, "type" : "chips"}
+                ]
+            }
+            json_str = json.dumps(json_dic)
+            return make_response(jsonify({"fulfillmentText" : json_str}))
 
     elif detail == "contact":
         if str(row.website.values[0]) == "nan" and str(row.phone.values[0]) == "nan":
-            return make_response(jsonify({"fulfillmentText":f'{{\
-                "messages" : [\
-                    {{"cid" :{cid}}},\
-                    {{"text": "Sorry, I don\'t have any {detail} for {college_name}"}},\
-                    {{"text": {anything_else()}}},\
-                    {{"chips": {chips}}}\
-                ]\
-            }}'}))
+
+            #json
+            json_dic = {
+                "cid" : cid,
+                "messages" : [
+                    {"data": f"Sorry, I don\'t have any {detail} for {college_name}", "type" : "text"},
+                    {"data": anything_else(), "type" : "text"},
+                    {"data": chips, "type" : "chips"}
+                ]
+            }
+
+            json_str = json.dumps(json_dic)
+            return make_response(jsonify({"fulfillmentText" : json_str}))
+            
         else:
             if str(row.website.values[0]) == "nan":
-                return make_response(jsonify({"fulfillmentText":f'{{\
-                    "message" : [\
-                        {{"cid" :{cid}}},\
-                        {{"text": "You can contact {college_name} at {row.phone.values[0]}"}},\
-                        {{"text": {anything_else()}}},\
-                        {{"chips": {chips}}}\
-            ]\
-            }}'}))
 
+                #json
+                json_dic = {
+                    "cid" : cid,
+                    "messages" : [
+                        {"data": f"You can contact {college_name} at {row.phone.values[0]}", "type" : "text"},
+                        {"data": anything_else(), "type" : "text"},
+                        {"data": chips, "type" : "chips"}
+                    ]
+                }
+
+                json_str = json.dumps(json_dic)
+                return make_response(jsonify({"fulfillmentText" : json_str}))
 
             elif str(row.phone.values[0]) == "nan":
-                return make_response(jsonify({"fulfillmentText":f'{{\
-                    "message" : [\
-                        {{"cid" :{cid}}},\
-                        {{"text": "You can find {college_name} at {row.website.values[0]}"}},\
-                        {{"text": "Anything else I can do for you?"}},\
-                        {{"chips": {chips}}}\
-            ]\
-            }}'}))
 
+                #json
+                json_dic = {
+                    "cid" : cid,
+                    "messages" : [
+                        {"data": f"You can find {college_name} at {row.website.values[0]}", "type" : "text"},
+                        {"data": "Anything else I can do for you?", "type" : "text"},
+                        {"data": chips, "type" : "chips"}
+                    ]
+                }
+
+                json_str = json.dumps(json_dic)
+                return make_response(jsonify({"fulfillmentText" : json_str}))
+            
             else:
 
-                return make_response(jsonify({"fulfillmentText":f'{{\
-                    "message" : [\
-                        {{"cid" :{cid}}},\
-                        {{"text": "I found these contact details for {college_name}\nPhone: {row.phone.values[0]}\nWebsite: {row.website.values[0]}"}},\
-                        {{"text": "Anything else I can do for you?"}},\
-                        {{"chips": {chips}}}\
-                    ]\
-                }}'
+                #json
+                json_dic = {
+                    "cid" : cid,
+                    "messages" : [
+                        {"data": f"I found these contact details for {college_name}\nPhone: {row.phone.values[0]}\nWebsite: {row.website.values[0]}", "type" : "text"},
+                        {"data": "Anything else I can do for you?", "type" : "text"},
+                        {"data": chips, "type" : "chips"}
+                    ]
+                }
 
-                                             }))
-
+                json_str = json.dumps(json_dic)
+                return make_response(jsonify({"fulfillmentText" : json_str}))
+            
     else:
         val = str(row[f'{detail}'].values[0])
         if val == "nan":
-            return make_response(jsonify({"fulfillmentText":f'{{\
-                "messages" : [\
-                    {{"cid" :{cid}}},\
-                    {{"text": "Sorry, I don\'t have any {detail} for {college_name}"}},\
-                    {{"text": {anything_else()}}},\
-                    {{"chips": {chips}}}\
-                ]\
-            }}'}))
+
+            #json
+            json_dic = {
+                "cid" : cid,    
+                "messages" : [
+                    {"data": f"Sorry, I don\'t have any {detail} for {college_name}", "type" : "text"},
+                    {"data": anything_else(), "type" : "text"},
+                    {"data": chips, "type" : "chips"}
+                ]
+            }
+
+            json_str = json.dumps(json_dic)
+            return make_response(jsonify({"fulfillmentText" : json_str}))
+        
         elif val == 'True':
-            return make_response(jsonify({"fulfillmentText":f'{{\
-                "messages" : [\
-                    {{"cid" :{cid}}},\
-                    {{"text": "As much as I remember {detail} is there in {college_name}"}},\
-                    {{"text": {anything_else()}}},\
-                    {{"chips": {chips}}}\
-                ]\
-            }}'}))
+
+            #json
+            json_dic = {
+                "cid" : cid,    
+                "messages" : [
+                    {"data": f"As much as I remember {detail} is there in {college_name}", "type" : "text"},
+                    {"data": anything_else(), "type" : "text"},
+                    {"data": chips, "type" : "chips"}
+                ]
+            }
+
+            json_str = json.dumps(json_dic)
+            return make_response(jsonify({"fulfillmentText" : json_str}))
+            
         elif val == "False":
-            return make_response(jsonify({"fulfillmentText":f'{{\
-                "messages" : [\
-                    {{"cid" :{cid}}},\
-                    {{"text": "As much as I remember {detail} is not there in {college_name}"}},\
-                    {{"text": {anything_else()}}},\
-                    {{"chips": {chips}}}\
-                ]\
-            }}'}))
+
+            #json
+            json_dic = {
+                "cid" : cid,
+                "messages" : [
+                    {"data": f"As much as I remember {detail} is not there in {college_name}", "type" : "text"},
+                    {"data": anything_else(), "type" : "text"},
+                    {"data": chips, "type" : "chips"}
+                ]
+            }
+
+            json_str = json.dumps(json_dic)
+            return make_response(jsonify({"fulfillmentText" : json_str}))
+        
         else:
-            return make_response(jsonify({"fulfillmentText":f'{{\
-                    "messages" : [\
-                    {{"cid" :{cid}}},\
-                    {{"text": "{detail} for {college_name} is {val}"}},\
-                    {{"text": {anything_else()}}},\
-                    {{"chips": {chips}}}\
-                ]\
-            }}'}))
+
+            #json
+            json_dic = {
+                    "cid" : cid,
+                    "messages" : [
+                    {"data": f"{detail} for {college_name} is {val}", "type" : "text"},
+                    {"data": anything_else(), "type" : "text"},
+                    {"data": chips, "type" : "chips"}
+                ]
+            }
+
+            json_str = json.dumps(json_dic)
+            return make_response(jsonify({"fulfillmentText" : json_str}))
+            
